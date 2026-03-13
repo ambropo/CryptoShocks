@@ -4,27 +4,70 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>CryptoShocks</title>
-  <meta http-equiv="refresh" content="0; url=LLMs/2026-03%20event-GPT/event_report.html" />
   <style>
     body {
-      max-width: 760px;
-      margin: 3rem auto;
-      padding: 0 1rem;
+      max-width: 820px;
+      margin: 3rem auto 4rem;
+      padding: 0 1.25rem;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.5;
+      line-height: 1.6;
+      color: #1f2937;
     }
     h1 {
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.25rem;
+      font-size: 2rem;
     }
-    ul {
-      padding-left: 1.25rem;
+    p {
+      margin: 0 0 1rem;
+    }
+    .intro {
+      margin-bottom: 2rem;
+    }
+    .card {
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      padding: 1rem 1.1rem;
+      margin: 0 0 1rem;
+      background: #fafafa;
+    }
+    .card h2 {
+      margin: 0 0 0.4rem;
+      font-size: 1.15rem;
+    }
+    .meta {
+      color: #4b5563;
+      font-size: 0.95rem;
+    }
+    a {
+      color: #0f766e;
     }
   </style>
 </head>
 <body>
   <h1>CryptoShocks</h1>
-  <p>Redirecting to the event report.</p>
-  <p><a href="LLMs/2026-03%20event-GPT/event_report.html">Open the event report</a></p>
-  <p><a href="LLMs/2026-03%20firm-GPT/firm_report.html">Firm report</a></p>
+  <div class="intro">
+    <p>
+      CryptoShocks is a research website on cryptocurrency-related news shocks and the equity-market exposure of listed firms to crypto developments.
+      The material hosted here is generated from a structured pipeline that combines curated inputs, event charts, and large-language-model classification.
+    </p>
+    <p>
+      The website currently contains two public reports. The first classifies major crypto news events by whether they plausibly explain observed Bitcoin price moves.
+      The second classifies crypto-exposed firms by their main transmission channel, such as holders, miners, financial services, infrastructure, or other business models.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2><a href="LLMs/2026-03%20event-GPT/event_report.html">Narrative Classification of Crypto News Events</a></h2>
+    <p class="meta">
+      Event-by-event report linking news headlines to Bitcoin price moves, with category labels, certainty scores, and event charts.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2><a href="LLMs/2026-03%20firm-GPT/firm_report.html">Narrative Classification of Crypto-Exposed Firms</a></h2>
+    <p class="meta">
+      Firm-level report assigning fractional weights across crypto exposure channels using transcripts, filings, and financial news.
+    </p>
+  </div>
 </body>
 </html>
