@@ -1,0 +1,5018 @@
+{
+  "created_at_utc": "2026-04-07T11:04:08Z",
+  "input_csv": "LLMs/firm-raw/CRYPTO_FirmListTop.csv",
+  "input_csv_sha256": "ec2f42e012d59ebf1c7204923b4a67f8ea587b552cdd2c44fb14a7e31da24a55",
+  "fieldnames": [
+    "SortExpo",
+    "expo_firm",
+    "firm_name",
+    "firm_nameNLA",
+    "tickNLA",
+    "sct_str",
+    "sct_str_long",
+    "id_str"
+  ],
+  "row_count": 500,
+  "firms": [
+    {
+      "SortExpo": "1",
+      "expo_firm": "19.972031",
+      "firm_name": "HIVE DIGITAL TECHNOLOGIES",
+      "firm_nameNLA": "HIVE Blockchain Technologies Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA4339211035"
+    },
+    {
+      "SortExpo": "2",
+      "expo_firm": "18.60994",
+      "firm_name": "BAKKT HOLDINGS A",
+      "firm_nameNLA": "Bakkt Holdings Inc",
+      "tickNLA": "BKKT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US05759B3050"
+    },
+    {
+      "SortExpo": "3",
+      "expo_firm": "18.551285",
+      "firm_name": "COINBASE GLOBAL A",
+      "firm_nameNLA": "Coinbase Global Inc",
+      "tickNLA": "COIN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US19260Q1076"
+    },
+    {
+      "SortExpo": "4",
+      "expo_firm": "18.185083",
+      "firm_name": "DEFI TECHNOLOGIES",
+      "firm_nameNLA": "DeFi Technologies Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA2449161025"
+    },
+    {
+      "SortExpo": "5",
+      "expo_firm": "17.322834",
+      "firm_name": "OLB GROUP",
+      "firm_nameNLA": "OLB Group Inc",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US67086U4067"
+    },
+    {
+      "SortExpo": "6",
+      "expo_firm": "16.554636",
+      "firm_name": "DMG BLOCKCHAIN SOLUTIONS",
+      "firm_nameNLA": "Dmg Blockchain Solutions Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA23345B2003"
+    },
+    {
+      "SortExpo": "7",
+      "expo_firm": "15.331074",
+      "firm_name": "EXODUS MOVEMENT A",
+      "firm_nameNLA": "Exodus Movement Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US30209R1068"
+    },
+    {
+      "SortExpo": "8",
+      "expo_firm": "14.84375",
+      "firm_name": "WASTE ENERGY",
+      "firm_nameNLA": "Metaworks Platforms Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US23131W1036"
+    },
+    {
+      "SortExpo": "9",
+      "expo_firm": "13.333957",
+      "firm_name": "STRATEGY A",
+      "firm_nameNLA": "MicroStrategy Inc",
+      "tickNLA": "MSTR",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US5949724083"
+    },
+    {
+      "SortExpo": "10",
+      "expo_firm": "12.945828",
+      "firm_name": "RIOT PLATFORMS",
+      "firm_nameNLA": "Riot Platforms Inc",
+      "tickNLA": "RIOT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US7672921050"
+    },
+    {
+      "SortExpo": "11",
+      "expo_firm": "12.55864",
+      "firm_name": "CLEANSPARK",
+      "firm_nameNLA": "CleanSpark Inc",
+      "tickNLA": "CLSK",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US18452B2097"
+    },
+    {
+      "SortExpo": "12",
+      "expo_firm": "12.345679",
+      "firm_name": "HALO COLLECTIVE DEAD - DELIST.15/08/23",
+      "firm_nameNLA": "Halo Collective Inc",
+      "tickNLA": "HALOX",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "CA40638K7050"
+    },
+    {
+      "SortExpo": "13",
+      "expo_firm": "12.321769",
+      "firm_name": "HUT 8",
+      "firm_nameNLA": "Hut 8 Mining Corp",
+      "tickNLA": "HUTX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US44812J1043"
+    },
+    {
+      "SortExpo": "14",
+      "expo_firm": "12.113901",
+      "firm_name": "CIPHER MINING",
+      "firm_nameNLA": "Cipher Mining Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US17253J1060"
+    },
+    {
+      "SortExpo": "15",
+      "expo_firm": "10.873433",
+      "firm_name": "MONEX GROUP",
+      "firm_nameNLA": "Monex Group Inc",
+      "tickNLA": "MONEX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JP3869970008"
+    },
+    {
+      "SortExpo": "16",
+      "expo_firm": "10.850852",
+      "firm_name": "INTCHAINS GROUP ADR 1:2",
+      "firm_nameNLA": "Intchains Group Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US45828E1047"
+    },
+    {
+      "SortExpo": "17",
+      "expo_firm": "10.828676",
+      "firm_name": "FRMO",
+      "firm_nameNLA": "FRMO Corp",
+      "tickNLA": "FRMO",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US30262F2056"
+    },
+    {
+      "SortExpo": "18",
+      "expo_firm": "10.295614",
+      "firm_name": "MARA HOLDINGS",
+      "firm_nameNLA": "Marathon Digital Holdings Inc",
+      "tickNLA": "MARHD",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US5657881067"
+    },
+    {
+      "SortExpo": "19",
+      "expo_firm": "9.7561321",
+      "firm_name": "VOYAGER DIGITAL (OTC)",
+      "firm_nameNLA": "Voyager Digital Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA92919V4055"
+    },
+    {
+      "SortExpo": "20",
+      "expo_firm": "9.7541924",
+      "firm_name": "CANAAN ADR 1:15",
+      "firm_nameNLA": "Canaan Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US1347481020"
+    },
+    {
+      "SortExpo": "21",
+      "expo_firm": "9.5048733",
+      "firm_name": "WEM ADE",
+      "firm_nameNLA": "Wemade Co Ltd",
+      "tickNLA": "WEMAD",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KR7112040001"
+    },
+    {
+      "SortExpo": "22",
+      "expo_firm": "9.203043",
+      "firm_name": "LM FUNDING AMERICA",
+      "firm_nameNLA": "LM Funding America Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US5020745031"
+    },
+    {
+      "SortExpo": "23",
+      "expo_firm": "8.6084032",
+      "firm_name": "ARGO BLOCKCHAIN",
+      "firm_nameNLA": "Argo Blockchain PLC",
+      "tickNLA": "ARB",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB00BZ15CS02"
+    },
+    {
+      "SortExpo": "24",
+      "expo_firm": "8.0311232",
+      "firm_name": "COINSHARES INTERNATIONAL",
+      "firm_nameNLA": "Coinshares International Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JE00BLD8Y945"
+    },
+    {
+      "SortExpo": "25",
+      "expo_firm": "8.0018539",
+      "firm_name": "SILVERGATE CAPITAL A",
+      "firm_nameNLA": "Silvergate Capital Corp",
+      "tickNLA": "SICPQ",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US82837P4081"
+    },
+    {
+      "SortExpo": "26",
+      "expo_firm": "7.9664707",
+      "firm_name": "IREN",
+      "firm_nameNLA": "Iris Energy Ltd",
+      "tickNLA": "IRENX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU0000185993"
+    },
+    {
+      "SortExpo": "27",
+      "expo_firm": "7.7371058",
+      "firm_name": "GMO INTERNET GROUP",
+      "firm_nameNLA": "GMO Internet Inc",
+      "tickNLA": "GLMOL",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3152750000"
+    },
+    {
+      "SortExpo": "28",
+      "expo_firm": "7.6123629",
+      "firm_name": "BITFARMS",
+      "firm_nameNLA": "Bitfarms Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CA09173B1076"
+    },
+    {
+      "SortExpo": "29",
+      "expo_firm": "7.3672972",
+      "firm_name": "BIT DIGITAL",
+      "firm_nameNLA": "Bit Digital Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG1144A1058"
+    },
+    {
+      "SortExpo": "30",
+      "expo_firm": "6.6666665",
+      "firm_name": "BITDEER TECHNOLOGIES GROUP A",
+      "firm_nameNLA": "Bitdeer Technologies Group",
+      "tickNLA": "BTDR",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG114481008"
+    },
+    {
+      "SortExpo": "31",
+      "expo_firm": "6.5570936",
+      "firm_name": "CORE SCIENTIFIC",
+      "firm_nameNLA": "Core Scientific Inc",
+      "tickNLA": "CORZ",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US21874A1060"
+    },
+    {
+      "SortExpo": "32",
+      "expo_firm": "5.9630504",
+      "firm_name": "BANXA HOLDINGS",
+      "firm_nameNLA": "Banxa Holdings Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA06683R1010"
+    },
+    {
+      "SortExpo": "33",
+      "expo_firm": "5.514564",
+      "firm_name": "US GLOBAL INVRS.",
+      "firm_nameNLA": "US Global Investors Inc",
+      "tickNLA": "GROW",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US9029521005"
+    },
+    {
+      "SortExpo": "34",
+      "expo_firm": "5.3097343",
+      "firm_name": "REALBOTIX",
+      "firm_nameNLA": "Tokens.com Corp",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA75604K1075"
+    },
+    {
+      "SortExpo": "35",
+      "expo_firm": "5.0864081",
+      "firm_name": "WISDOMTREE",
+      "firm_nameNLA": "Wisdomtree Inc",
+      "tickNLA": "WT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US97717P1049"
+    },
+    {
+      "SortExpo": "36",
+      "expo_firm": "4.9703169",
+      "firm_name": "ROBINHOOD MARKETS A",
+      "firm_nameNLA": "Robinhood Markets Inc",
+      "tickNLA": "HOOD",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US7707001027"
+    },
+    {
+      "SortExpo": "37",
+      "expo_firm": "4.477612",
+      "firm_name": "GOLDMONEY",
+      "firm_nameNLA": "GoldMoney Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "VGG4001R1047"
+    },
+    {
+      "SortExpo": "38",
+      "expo_firm": "4.2305727",
+      "firm_name": "MOGO",
+      "firm_nameNLA": "Mogo Inc",
+      "tickNLA": "MOGO",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA60800C2085"
+    },
+    {
+      "SortExpo": "39",
+      "expo_firm": "4.1991301",
+      "firm_name": "XUNLEI CL.A ADR 1:5",
+      "firm_nameNLA": "Xunlei Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US98419E1082"
+    },
+    {
+      "SortExpo": "40",
+      "expo_firm": "4.173913",
+      "firm_name": "SWISSQUOTE 'R'",
+      "firm_nameNLA": "Swissquote Group Holding SA",
+      "tickNLA": "SQN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CH0010675863"
+    },
+    {
+      "SortExpo": "41",
+      "expo_firm": "3.9132667",
+      "firm_name": "RIVALRY",
+      "firm_nameNLA": "Rivalry Corp",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "CA76803P1036"
+    },
+    {
+      "SortExpo": "42",
+      "expo_firm": "3.8813047",
+      "firm_name": "WISDOMTREE PHYSICAL PLATINUM ETC",
+      "firm_nameNLA": "Wisdomtree Metal Securities Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JE00B1VS2W53"
+    },
+    {
+      "SortExpo": "43",
+      "expo_firm": "3.4722221",
+      "firm_name": "VIVOPOWER INTERNATIONAL",
+      "firm_nameNLA": "VivoPower International PLC",
+      "tickNLA": "",
+      "sct_str": "Utilities",
+      "sct_str_long": "Utilities",
+      "id_str": "GB00BD3VDH82"
+    },
+    {
+      "SortExpo": "44",
+      "expo_firm": "3.4675593",
+      "firm_name": "TERAWULF",
+      "firm_nameNLA": "Terawulf Inc",
+      "tickNLA": "WULF",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US88080T1043"
+    },
+    {
+      "SortExpo": "45",
+      "expo_firm": "3.396224",
+      "firm_name": "WISEKEY N",
+      "firm_nameNLA": "Wisekey International Holding AG",
+      "tickNLA": "WIHN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CH1276062754"
+    },
+    {
+      "SortExpo": "46",
+      "expo_firm": "3.3271012",
+      "firm_name": "DOLPHIN ENTERTAINMENT",
+      "firm_nameNLA": "Dolphin Entertainment Inc",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US25686H3084"
+    },
+    {
+      "SortExpo": "47",
+      "expo_firm": "3.0434783",
+      "firm_name": "GMO GLOBALSIGN HOLDINGS KK",
+      "firm_nameNLA": "GMO GlobalSign Holdings KK",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3386040004"
+    },
+    {
+      "SortExpo": "48",
+      "expo_firm": "2.7735212",
+      "firm_name": "SBI HDG.",
+      "firm_nameNLA": "SBI Holdings Inc",
+      "tickNLA": "SBIHD",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JP3436120004"
+    },
+    {
+      "SortExpo": "49",
+      "expo_firm": "2.7167921",
+      "firm_name": "SEMLER SCIENTIFIC",
+      "firm_nameNLA": "Semler Scientific Inc",
+      "tickNLA": "SMLR",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US81684M1045"
+    },
+    {
+      "SortExpo": "50",
+      "expo_firm": "2.5180745",
+      "firm_name": "COMPOSECURE A",
+      "firm_nameNLA": "CompoSecure Inc",
+      "tickNLA": "RSOLCC",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US20459V1052"
+    },
+    {
+      "SortExpo": "51",
+      "expo_firm": "2.4900248",
+      "firm_name": "NANO LABS A",
+      "firm_nameNLA": "Nano Labs Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG6391Y1281"
+    },
+    {
+      "SortExpo": "52",
+      "expo_firm": "2.4289813",
+      "firm_name": "METROPOLITAN BANK HDG.",
+      "firm_nameNLA": "Metropolitan Bank Holding Corp",
+      "tickNLA": "MCBXX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US5917741044"
+    },
+    {
+      "SortExpo": "53",
+      "expo_firm": "2.4219258",
+      "firm_name": "FLOW TRADERS",
+      "firm_nameNLA": "Flow Traders NV",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "BMG3602E1084"
+    },
+    {
+      "SortExpo": "54",
+      "expo_firm": "2.1827638",
+      "firm_name": "ZYMEWORKS",
+      "firm_nameNLA": "Zymeworks Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US98985Y1082"
+    },
+    {
+      "SortExpo": "55",
+      "expo_firm": "2.1780343",
+      "firm_name": "NUVEI SUBORDINATE VOTING DEAD - DELIST.19/11/24",
+      "firm_nameNLA": "Nuvei Corp",
+      "tickNLA": "NUVEI",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "CA67079A1021"
+    },
+    {
+      "SortExpo": "56",
+      "expo_firm": "2.1694448",
+      "firm_name": "RYVYL",
+      "firm_nameNLA": "Ryvyl Inc",
+      "tickNLA": "RVYL",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US39366L3078"
+    },
+    {
+      "SortExpo": "57",
+      "expo_firm": "2.1328261",
+      "firm_name": "SPRINGWORKS THERAPEUTICS DEAD - DELIST.02/07/25",
+      "firm_nameNLA": "Springworks Therapeutics Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US85205L1070"
+    },
+    {
+      "SortExpo": "58",
+      "expo_firm": "1.9869868",
+      "firm_name": "APPLIED DIGITAL",
+      "firm_nameNLA": "Applied Digital Corp",
+      "tickNLA": "APLD",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US0381692070"
+    },
+    {
+      "SortExpo": "59",
+      "expo_firm": "1.7831616",
+      "firm_name": "ASX",
+      "firm_nameNLA": "ASX Ltd",
+      "tickNLA": "ASX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "AU000000ASX7"
+    },
+    {
+      "SortExpo": "60",
+      "expo_firm": "1.7453221",
+      "firm_name": "VIRTU FINANCIAL CL.A",
+      "firm_nameNLA": "Virtu Financial Inc",
+      "tickNLA": "VIRT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US9282541013"
+    },
+    {
+      "SortExpo": "61",
+      "expo_firm": "1.7215623",
+      "firm_name": "CLPS",
+      "firm_nameNLA": "CLPS Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG316421042"
+    },
+    {
+      "SortExpo": "62",
+      "expo_firm": "1.6664964",
+      "firm_name": "BLOCK A",
+      "firm_nameNLA": "Block Inc",
+      "tickNLA": "XYZ",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US8522341036"
+    },
+    {
+      "SortExpo": "63",
+      "expo_firm": "1.4721439",
+      "firm_name": "PLAYBOY",
+      "firm_nameNLA": "Plby Group Inc",
+      "tickNLA": "PLBY",
+      "sct_str": "ConsStaples",
+      "sct_str_long": "Consumer Staples",
+      "id_str": "US72814P1093"
+    },
+    {
+      "SortExpo": "64",
+      "expo_firm": "1.421801",
+      "firm_name": "ROCKETFUEL BLOCKCHAIN",
+      "firm_nameNLA": "Rocketfuel Blockchain Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US77313J1088"
+    },
+    {
+      "SortExpo": "65",
+      "expo_firm": "1.3944952",
+      "firm_name": "ZIMVIE DEAD - DELIST.21/10/25",
+      "firm_nameNLA": "ZimVie Inc",
+      "tickNLA": "ZIMV",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US98888T1079"
+    },
+    {
+      "SortExpo": "66",
+      "expo_firm": "1.3821507",
+      "firm_name": "ZEDGE 'B'",
+      "firm_nameNLA": "Zedge Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US98923T1043"
+    },
+    {
+      "SortExpo": "67",
+      "expo_firm": "1.3544018",
+      "firm_name": "CONTANGO ORE",
+      "firm_nameNLA": "Contango ORE Inc",
+      "tickNLA": "CTGO",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "US21077F1003"
+    },
+    {
+      "SortExpo": "68",
+      "expo_firm": "1.3373232",
+      "firm_name": "FLATEXDEGIRO N",
+      "firm_nameNLA": "flatexDEGIRO AG",
+      "tickNLA": "FTKN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "DE000FTG1111"
+    },
+    {
+      "SortExpo": "69",
+      "expo_firm": "1.2157881",
+      "firm_name": "1STDIBS COM",
+      "firm_nameNLA": "1stdibs.Com Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US3205511047"
+    },
+    {
+      "SortExpo": "70",
+      "expo_firm": "1.1628782",
+      "firm_name": "PHUNWARE",
+      "firm_nameNLA": "Phunware Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US71948P2092"
+    },
+    {
+      "SortExpo": "71",
+      "expo_firm": "1.136498",
+      "firm_name": "USIO",
+      "firm_nameNLA": "Usio Inc",
+      "tickNLA": "USIO",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US9173131080"
+    },
+    {
+      "SortExpo": "72",
+      "expo_firm": "1.1301012",
+      "firm_name": "GAMESTOP 'A'",
+      "firm_nameNLA": "GameStop Corp",
+      "tickNLA": "GME",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US36467W1099"
+    },
+    {
+      "SortExpo": "73",
+      "expo_firm": "1.119403",
+      "firm_name": "GLIMPSE GROUP",
+      "firm_nameNLA": "Glimpse Group Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US37892C1062"
+    },
+    {
+      "SortExpo": "74",
+      "expo_firm": "1.1044469",
+      "firm_name": "TASKUS A",
+      "firm_nameNLA": "Taskus Inc",
+      "tickNLA": "TASK",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US87652V1098"
+    },
+    {
+      "SortExpo": "75",
+      "expo_firm": "1.1038779",
+      "firm_name": "VERSABANK",
+      "firm_nameNLA": "VersaBank",
+      "tickNLA": "VBNK",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA92512J1066"
+    },
+    {
+      "SortExpo": "76",
+      "expo_firm": "1.1026849",
+      "firm_name": "GB GROUP",
+      "firm_nameNLA": "GB Group PLC",
+      "tickNLA": "GBGP",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB0006870611"
+    },
+    {
+      "SortExpo": "77",
+      "expo_firm": "1.0711156",
+      "firm_name": "VISA 'A'",
+      "firm_nameNLA": "Visa Inc",
+      "tickNLA": "V",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US92826C8394"
+    },
+    {
+      "SortExpo": "78",
+      "expo_firm": "1.0611435",
+      "firm_name": "MASTERCARD",
+      "firm_nameNLA": "Mastercard Inc",
+      "tickNLA": "MA",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US57636Q1040"
+    },
+    {
+      "SortExpo": "79",
+      "expo_firm": "1.0444568",
+      "firm_name": "OXBRIDGE RE HOLDINGS",
+      "firm_nameNLA": "Oxbridge Re Holdings Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "KYG6856M1069"
+    },
+    {
+      "SortExpo": "80",
+      "expo_firm": ".99727637",
+      "firm_name": "PAYSAFE",
+      "firm_nameNLA": "Paysafe Ltd",
+      "tickNLA": "PSFE",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "BMG6964L2062"
+    },
+    {
+      "SortExpo": "81",
+      "expo_firm": ".98142946",
+      "firm_name": "RF CAPITAL GROUP DEAD - DELIST.04/11/25",
+      "firm_nameNLA": "RF Capital Group Inc",
+      "tickNLA": "RCG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA74971G4016"
+    },
+    {
+      "SortExpo": "82",
+      "expo_firm": ".97416127",
+      "firm_name": "CME GROUP",
+      "firm_nameNLA": "CME Group Inc",
+      "tickNLA": "CME",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US12572Q1058"
+    },
+    {
+      "SortExpo": "83",
+      "expo_firm": ".95386565",
+      "firm_name": "NESTE",
+      "firm_nameNLA": "Neste Oyj",
+      "tickNLA": "NESTE",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "FI0009013296"
+    },
+    {
+      "SortExpo": "84",
+      "expo_firm": ".95349479",
+      "firm_name": "LEONTEQ",
+      "firm_nameNLA": "Leonteq AG",
+      "tickNLA": "LEON",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CH0190891181"
+    },
+    {
+      "SortExpo": "85",
+      "expo_firm": ".94008267",
+      "firm_name": "XINYUAN REAL ESTATE ADR 1:20",
+      "firm_nameNLA": "Xinyuan Real Estate Co Ltd",
+      "tickNLA": "XIN",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "US98417P2048"
+    },
+    {
+      "SortExpo": "86",
+      "expo_firm": ".92392844",
+      "firm_name": "SIGNATURE BANK",
+      "firm_nameNLA": "Signature Bank",
+      "tickNLA": "SBNY",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US82669G1040"
+    },
+    {
+      "SortExpo": "87",
+      "expo_firm": ".90264058",
+      "firm_name": "BLACK HILLS",
+      "firm_nameNLA": "Black Hills Corp",
+      "tickNLA": "BKH",
+      "sct_str": "Utilities",
+      "sct_str_long": "Utilities",
+      "id_str": "US0921131092"
+    },
+    {
+      "SortExpo": "88",
+      "expo_firm": ".9000746",
+      "firm_name": "MONEYGRAM INTL. DEAD - DELIST.02/06/23",
+      "firm_nameNLA": "MoneyGram International Inc",
+      "tickNLA": "MGI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US60935Y2081"
+    },
+    {
+      "SortExpo": "89",
+      "expo_firm": ".89377439",
+      "firm_name": "NVIDIA",
+      "firm_nameNLA": "NVIDIA Corp",
+      "tickNLA": "NVDA",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US67066G1040"
+    },
+    {
+      "SortExpo": "90",
+      "expo_firm": ".8802579",
+      "firm_name": "IG GROUP HOLDINGS",
+      "firm_nameNLA": "IG Group Holdings PLC",
+      "tickNLA": "IGG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00B06QFB75"
+    },
+    {
+      "SortExpo": "91",
+      "expo_firm": ".86129725",
+      "firm_name": "BROADRIDGE FINL.SLTN.",
+      "firm_nameNLA": "Broadridge Financial Solutions Inc",
+      "tickNLA": "BR",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US11133T1034"
+    },
+    {
+      "SortExpo": "92",
+      "expo_firm": ".85838926",
+      "firm_name": "CMC MARKETS",
+      "firm_nameNLA": "CMC Markets PLC",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00B14SKR37"
+    },
+    {
+      "SortExpo": "93",
+      "expo_firm": ".85429126",
+      "firm_name": "NCSOFT",
+      "firm_nameNLA": "NCSoft Corp",
+      "tickNLA": "NCSFT",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KR7036570000"
+    },
+    {
+      "SortExpo": "94",
+      "expo_firm": ".83387989",
+      "firm_name": "NETMARBLE",
+      "firm_nameNLA": "Netmarble Corp",
+      "tickNLA": "NEARL",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KR7251270005"
+    },
+    {
+      "SortExpo": "95",
+      "expo_firm": ".80470914",
+      "firm_name": "ENSURGE MICROPOWER",
+      "firm_nameNLA": "Ensurge Micropower ASA",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "NO0013186460"
+    },
+    {
+      "SortExpo": "96",
+      "expo_firm": ".76447487",
+      "firm_name": "NTT DATA GROUP DEAD - DELIST.26/09/25",
+      "firm_nameNLA": "NTT Data Corp",
+      "tickNLA": "NTTDC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3165700000"
+    },
+    {
+      "SortExpo": "97",
+      "expo_firm": ".75880104",
+      "firm_name": "LESAKA TECHNOLOGIES",
+      "firm_nameNLA": "Lesaka Technologies Inc",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US64107N2062"
+    },
+    {
+      "SortExpo": "98",
+      "expo_firm": ".75757575",
+      "firm_name": "RAS TECHNOLOGY HOLDINGS",
+      "firm_nameNLA": "Ras Technology Holdings Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU0000186496"
+    },
+    {
+      "SortExpo": "99",
+      "expo_firm": ".74071479",
+      "firm_name": "TAIWAN SEMICON.MNFG.",
+      "firm_nameNLA": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "tickNLA": "TAISEM",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "TW0002330008"
+    },
+    {
+      "SortExpo": "100",
+      "expo_firm": ".73640633",
+      "firm_name": "VINCO VENTURES",
+      "firm_nameNLA": "Vinco Ventures Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US9273302094"
+    },
+    {
+      "SortExpo": "101",
+      "expo_firm": ".72079891",
+      "firm_name": "ASUSTEK COMPUTER",
+      "firm_nameNLA": "Asustek Computer Inc",
+      "tickNLA": "ASUST",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "TW0002357001"
+    },
+    {
+      "SortExpo": "102",
+      "expo_firm": ".70621467",
+      "firm_name": "REKLAIM",
+      "firm_nameNLA": "Reklaim Ltd",
+      "tickNLA": "",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "CA7594021007"
+    },
+    {
+      "SortExpo": "103",
+      "expo_firm": ".69687748",
+      "firm_name": "SHIFT4 PAYMENTS A",
+      "firm_nameNLA": "Shift4 Payments Inc",
+      "tickNLA": "FOUR",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US82452J1097"
+    },
+    {
+      "SortExpo": "104",
+      "expo_firm": ".68728518",
+      "firm_name": "ENVIROSUITE SUSP - SUSP.22/08/25",
+      "firm_nameNLA": "Envirosuite Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU000000EVS3"
+    },
+    {
+      "SortExpo": "105",
+      "expo_firm": ".68226105",
+      "firm_name": "ATEAM HOLDINGS",
+      "firm_nameNLA": "Ateam Inc",
+      "tickNLA": "ASTAM",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3160890004"
+    },
+    {
+      "SortExpo": "106",
+      "expo_firm": ".67510551",
+      "firm_name": "RECORD",
+      "firm_nameNLA": "Record PLC",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00B28ZPS36"
+    },
+    {
+      "SortExpo": "107",
+      "expo_firm": ".67503744",
+      "firm_name": "ESPORTS ENTERTAINMENT GROUP",
+      "firm_nameNLA": "Esports Entertainment Group Inc",
+      "tickNLA": "GMBLX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US29667K6038"
+    },
+    {
+      "SortExpo": "108",
+      "expo_firm": ".67221379",
+      "firm_name": "MEDICENNA THERP.",
+      "firm_nameNLA": "Medicenna Therapeutics Corp",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "CA58490H1073"
+    },
+    {
+      "SortExpo": "109",
+      "expo_firm": ".66869235",
+      "firm_name": "NASDAQ",
+      "firm_nameNLA": "Nasdaq Inc",
+      "tickNLA": "NDAQ",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US6311031081"
+    },
+    {
+      "SortExpo": "110",
+      "expo_firm": ".66642255",
+      "firm_name": "CBOE GLOBAL MARKETS(BTS)",
+      "firm_nameNLA": "Cboe Global Markets Inc",
+      "tickNLA": "CBOE",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US12503M1080"
+    },
+    {
+      "SortExpo": "111",
+      "expo_firm": ".66225165",
+      "firm_name": "BLACKBOXSTOCKS",
+      "firm_nameNLA": "Blackboxstocks Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US09229E3036"
+    },
+    {
+      "SortExpo": "112",
+      "expo_firm": ".6557377",
+      "firm_name": "SANRIO",
+      "firm_nameNLA": "Sanrio Co Ltd",
+      "tickNLA": "SNRIO",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "JP3343200006"
+    },
+    {
+      "SortExpo": "113",
+      "expo_firm": ".64550835",
+      "firm_name": "COOTEK 1:650 ADR",
+      "firm_nameNLA": "CooTek (Cayman) Inc",
+      "tickNLA": "",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "US21718L2016"
+    },
+    {
+      "SortExpo": "114",
+      "expo_firm": ".64099008",
+      "firm_name": "EMEMORY TECHNOLOGY",
+      "firm_nameNLA": "eMemory Technology Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "TW0003529004"
+    },
+    {
+      "SortExpo": "115",
+      "expo_firm": ".64086241",
+      "firm_name": "MARQETA A",
+      "firm_nameNLA": "Marqeta Inc",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US57142B1044"
+    },
+    {
+      "SortExpo": "116",
+      "expo_firm": ".63897765",
+      "firm_name": "ONE UNITED PROPERTIES",
+      "firm_nameNLA": "One United Properties SA",
+      "tickNLA": "",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "ROJ8YZPDHWW8"
+    },
+    {
+      "SortExpo": "117",
+      "expo_firm": ".62871611",
+      "firm_name": "PEARLABYSS",
+      "firm_nameNLA": "PearlAbyss Corp",
+      "tickNLA": "PRABS",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KR7263750002"
+    },
+    {
+      "SortExpo": "118",
+      "expo_firm": ".61728394",
+      "firm_name": "BNY MELLON STRATEGIC MUNICIPALS",
+      "firm_nameNLA": "BNY Mellon Strategic Municipals Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US05588W1080"
+    },
+    {
+      "SortExpo": "119",
+      "expo_firm": ".61106062",
+      "firm_name": "UP FINTECH HOLDING ADR A 1:15",
+      "firm_nameNLA": "UP Fintech Holding Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US91531W1062"
+    },
+    {
+      "SortExpo": "120",
+      "expo_firm": ".60009414",
+      "firm_name": "ADVANCED MICRO DEVICES",
+      "firm_nameNLA": "Advanced Micro Devices Inc",
+      "tickNLA": "AMD",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US0079031078"
+    },
+    {
+      "SortExpo": "121",
+      "expo_firm": ".5847953",
+      "firm_name": "BANK NEGARA INDONESIA",
+      "firm_nameNLA": "Bank Negara Indonesia (Persero) Tbk PT",
+      "tickNLA": "BBNI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "ID1000096605"
+    },
+    {
+      "SortExpo": "122",
+      "expo_firm": ".56710696",
+      "firm_name": "WHERE FOOD COMES FROM",
+      "firm_nameNLA": "Where Food Comes From Inc",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US96327X2009"
+    },
+    {
+      "SortExpo": "123",
+      "expo_firm": ".55909932",
+      "firm_name": "AMC ENTERTAINMENT HDG. CL.A",
+      "firm_nameNLA": "AMC Entertainment Holdings Inc",
+      "tickNLA": "AMC",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US00165C3025"
+    },
+    {
+      "SortExpo": "124",
+      "expo_firm": ".55889726",
+      "firm_name": "MEITU",
+      "firm_nameNLA": "Meitu Inc",
+      "tickNLA": "ACEG",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG5966D1051"
+    },
+    {
+      "SortExpo": "125",
+      "expo_firm": ".55529314",
+      "firm_name": "INFOBEANS TECHNOLOGIES",
+      "firm_nameNLA": "Infobeans Technologies Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE344S01016"
+    },
+    {
+      "SortExpo": "126",
+      "expo_firm": ".55015314",
+      "firm_name": "PAYPAL HOLDINGS",
+      "firm_nameNLA": "PayPal Holdings Inc",
+      "tickNLA": "PYPL",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US70450Y1038"
+    },
+    {
+      "SortExpo": "127",
+      "expo_firm": ".54644811",
+      "firm_name": "TCR2 THERAPEUTICS DEAD - DELIST.02/06/23",
+      "firm_nameNLA": "TCR2 Therapeutics Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US87808K1060"
+    },
+    {
+      "SortExpo": "128",
+      "expo_firm": ".54566783",
+      "firm_name": "IDEANOMICS",
+      "firm_nameNLA": "Ideanomics Inc",
+      "tickNLA": "IDEXQ",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US45166V2051"
+    },
+    {
+      "SortExpo": "129",
+      "expo_firm": ".53641623",
+      "firm_name": "JAZZ PHARMACEUTICALS",
+      "firm_nameNLA": "Jazz Pharmaceuticals PLC",
+      "tickNLA": "JAZZ",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "IE00B4Q5ZN47"
+    },
+    {
+      "SortExpo": "130",
+      "expo_firm": ".53115255",
+      "firm_name": "AUGMENTUM FINTECH",
+      "firm_nameNLA": "Augmentum Fintech PLC",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00BG12XV81"
+    },
+    {
+      "SortExpo": "131",
+      "expo_firm": ".52631581",
+      "firm_name": "EQUALS GROUP DEAD - DELIST.15/04/25",
+      "firm_nameNLA": "Equals Group PLC",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "GB00BLS0XX25"
+    },
+    {
+      "SortExpo": "132",
+      "expo_firm": ".5261184",
+      "firm_name": "BIOATLA",
+      "firm_nameNLA": "Bioatla Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US09077B1044"
+    },
+    {
+      "SortExpo": "133",
+      "expo_firm": ".48834378",
+      "firm_name": "COGNYTE SOFTWARE",
+      "firm_nameNLA": "Cognyte Software Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "IL0011691438"
+    },
+    {
+      "SortExpo": "134",
+      "expo_firm": ".48749787",
+      "firm_name": "AUTHID",
+      "firm_nameNLA": "Ipsidy Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US46264C3051"
+    },
+    {
+      "SortExpo": "135",
+      "expo_firm": ".48649901",
+      "firm_name": "MIXI",
+      "firm_nameNLA": "Mixi Inc",
+      "tickNLA": "MIXII",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "JP3882750007"
+    },
+    {
+      "SortExpo": "136",
+      "expo_firm": ".47084123",
+      "firm_name": "PLUS500",
+      "firm_nameNLA": "Plus500 Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "IL0011284465"
+    },
+    {
+      "SortExpo": "137",
+      "expo_firm": ".46380287",
+      "firm_name": "TATA CONSULTANCY SVS.",
+      "firm_nameNLA": "Tata Consultancy Services Ltd",
+      "tickNLA": "TCSX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE467B01029"
+    },
+    {
+      "SortExpo": "138",
+      "expo_firm": ".46212482",
+      "firm_name": "DARLING INGREDIENTS",
+      "firm_nameNLA": "Darling Ingredients Inc",
+      "tickNLA": "DAR",
+      "sct_str": "ConsStaples",
+      "sct_str_long": "Consumer Staples",
+      "id_str": "US2372661015"
+    },
+    {
+      "SortExpo": "139",
+      "expo_firm": ".46023041",
+      "firm_name": "INTERNATIONAL BUS.MCHS.",
+      "firm_nameNLA": "International Business Machines Corp",
+      "tickNLA": "IBM",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US4592001014"
+    },
+    {
+      "SortExpo": "140",
+      "expo_firm": ".4539147",
+      "firm_name": "FUTU HOLDINGS ADR 1:8",
+      "firm_nameNLA": "Futu Holdings Ltd",
+      "tickNLA": "FUTU",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US36118L1061"
+    },
+    {
+      "SortExpo": "141",
+      "expo_firm": ".43565556",
+      "firm_name": "MADISON SQUARE GARDEN SPORTS A",
+      "firm_nameNLA": "Madison Square Garden Sports Corp",
+      "tickNLA": "MSGS",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US55825T1034"
+    },
+    {
+      "SortExpo": "142",
+      "expo_firm": ".43381149",
+      "firm_name": "AVANZA BANK HOLDING",
+      "firm_nameNLA": "Avanza Bank Holding AB",
+      "tickNLA": "AVANZ",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "SE0012454072"
+    },
+    {
+      "SortExpo": "143",
+      "expo_firm": ".43366167",
+      "firm_name": "SOFI TECHNOLOGIES",
+      "firm_nameNLA": "SoFi Technologies Inc",
+      "tickNLA": "SOFI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US83406F1021"
+    },
+    {
+      "SortExpo": "144",
+      "expo_firm": ".43286157",
+      "firm_name": "DEUTSCHE BOERSE",
+      "firm_nameNLA": "Deutsche Boerse AG",
+      "tickNLA": "DBAG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "DE0005810055"
+    },
+    {
+      "SortExpo": "145",
+      "expo_firm": ".42553192",
+      "firm_name": "SIDECHANNEL",
+      "firm_nameNLA": "SideChannel Inc",
+      "tickNLA": "SIDNL",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US17253H1005"
+    },
+    {
+      "SortExpo": "146",
+      "expo_firm": ".42455828",
+      "firm_name": "LOGIQ",
+      "firm_nameNLA": "Logiq Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US5414401035"
+    },
+    {
+      "SortExpo": "147",
+      "expo_firm": ".42293492",
+      "firm_name": "CURRENCY EXCHANGE INTL.",
+      "firm_nameNLA": "Currency Exchange International Corp",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US23131B3078"
+    },
+    {
+      "SortExpo": "148",
+      "expo_firm": ".42180321",
+      "firm_name": "ALKAMI TECHNOLOGY",
+      "firm_nameNLA": "Alkami Technology Inc",
+      "tickNLA": "ALKT",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US01644J1088"
+    },
+    {
+      "SortExpo": "149",
+      "expo_firm": ".42071557",
+      "firm_name": "KAKAO",
+      "firm_nameNLA": "Kakao Corp",
+      "tickNLA": "KKAOC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KR7035720002"
+    },
+    {
+      "SortExpo": "150",
+      "expo_firm": ".41300455",
+      "firm_name": "B3 BRASIL BOLSA BALCAO ON",
+      "firm_nameNLA": "B3 SA Brasil Bolsa Balcao",
+      "tickNLA": "BCSAC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "BRB3SAACNOR6"
+    },
+    {
+      "SortExpo": "151",
+      "expo_firm": ".4123053",
+      "firm_name": "FUNKO CL.A",
+      "firm_nameNLA": "Funko Inc",
+      "tickNLA": "FNKO",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US3610081057"
+    },
+    {
+      "SortExpo": "152",
+      "expo_firm": ".40690231",
+      "firm_name": "RAMBUS",
+      "firm_nameNLA": "Rambus Inc",
+      "tickNLA": "RMBS",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US7509171069"
+    },
+    {
+      "SortExpo": "153",
+      "expo_firm": ".3930065",
+      "firm_name": "MARKER THERAPEUTICS",
+      "firm_nameNLA": "Marker Therapeutics Inc",
+      "tickNLA": "MRKR",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US57055L2060"
+    },
+    {
+      "SortExpo": "154",
+      "expo_firm": ".38899958",
+      "firm_name": "CELLEBRITE DI",
+      "firm_nameNLA": "Cellebrite DI Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "IL0011794802"
+    },
+    {
+      "SortExpo": "155",
+      "expo_firm": ".38610038",
+      "firm_name": "PENSIONBEE GROUP",
+      "firm_nameNLA": "Pensionbee Group PLC",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00BNDRLN84"
+    },
+    {
+      "SortExpo": "156",
+      "expo_firm": ".38372147",
+      "firm_name": "TEXAS PACIFIC LAND TRUST",
+      "firm_nameNLA": "Texas Pacific Land Corp",
+      "tickNLA": "",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US88262P1021"
+    },
+    {
+      "SortExpo": "157",
+      "expo_firm": ".37781999",
+      "firm_name": "PLAYSTUDIOS A",
+      "firm_nameNLA": "Playstudios Inc",
+      "tickNLA": "MYPS",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US72815G1085"
+    },
+    {
+      "SortExpo": "158",
+      "expo_firm": ".3756344",
+      "firm_name": "TEL AVIV STOCK EXCHANGE",
+      "firm_nameNLA": "Tel Aviv Stock Exchange Ltd",
+      "tickNLA": "TASEX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "IL0011590291"
+    },
+    {
+      "SortExpo": "159",
+      "expo_firm": ".3645936",
+      "firm_name": "TMX GROUP",
+      "firm_nameNLA": "TMX Group Ltd",
+      "tickNLA": "XX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA87262K1057"
+    },
+    {
+      "SortExpo": "160",
+      "expo_firm": ".35766971",
+      "firm_name": "IZEA WORLDWIDE",
+      "firm_nameNLA": "IZEA Worldwide Inc",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US46604H2040"
+    },
+    {
+      "SortExpo": "161",
+      "expo_firm": ".35751194",
+      "firm_name": "CARECLOUD",
+      "firm_nameNLA": "Carecloud Inc",
+      "tickNLA": "MTBC",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US14167R1005"
+    },
+    {
+      "SortExpo": "162",
+      "expo_firm": ".35256362",
+      "firm_name": "ENTHUSIAST GAMING HOLDINGS",
+      "firm_nameNLA": "Enthusiast Gaming Holdings Inc",
+      "tickNLA": "EGLXX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CA29385B1094"
+    },
+    {
+      "SortExpo": "163",
+      "expo_firm": ".34993702",
+      "firm_name": "MONEYLION A DEAD - DELIST.17/04/25",
+      "firm_nameNLA": "Moneylion Inc",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US60938K3041"
+    },
+    {
+      "SortExpo": "164",
+      "expo_firm": ".34856284",
+      "firm_name": "COMSOVEREIGN HOLDING",
+      "firm_nameNLA": "COMSovereign Holding Corp",
+      "tickNLA": "COMS",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "US2056504010"
+    },
+    {
+      "SortExpo": "165",
+      "expo_firm": ".34804356",
+      "firm_name": "GLOBANT",
+      "firm_nameNLA": "Globant SA",
+      "tickNLA": "BGB",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "LU0974299876"
+    },
+    {
+      "SortExpo": "166",
+      "expo_firm": ".345285",
+      "firm_name": "SPROTT",
+      "firm_nameNLA": "Sprott Inc",
+      "tickNLA": "SIIX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA8520662088"
+    },
+    {
+      "SortExpo": "167",
+      "expo_firm": ".34093502",
+      "firm_name": "DBS GROUP HOLDINGS",
+      "firm_nameNLA": "DBS Group Holdings Ltd",
+      "tickNLA": "DBSMX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "SG1L01001701"
+    },
+    {
+      "SortExpo": "168",
+      "expo_firm": ".3401612",
+      "firm_name": "CONIFEX TIMBER",
+      "firm_nameNLA": "Conifex Timber Inc",
+      "tickNLA": "CFF",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "CA2073241044"
+    },
+    {
+      "SortExpo": "169",
+      "expo_firm": ".34013605",
+      "firm_name": "USBC (ASE)",
+      "firm_nameNLA": "Know Labs Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US4992382022"
+    },
+    {
+      "SortExpo": "170",
+      "expo_firm": ".32942653",
+      "firm_name": "JSE",
+      "firm_nameNLA": "JSE Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "ZAE000079711"
+    },
+    {
+      "SortExpo": "171",
+      "expo_firm": ".3285543",
+      "firm_name": "TWILIO 'A'",
+      "firm_nameNLA": "Twilio Inc",
+      "tickNLA": "TWLO",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US90138F1021"
+    },
+    {
+      "SortExpo": "172",
+      "expo_firm": ".328426",
+      "firm_name": "TRINITY CAPITAL",
+      "firm_nameNLA": "Trinity Capital Inc",
+      "tickNLA": "TRIN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US8964423086"
+    },
+    {
+      "SortExpo": "173",
+      "expo_firm": ".32738191",
+      "firm_name": "AXOS FINANCIAL",
+      "firm_nameNLA": "Axos Financial Inc",
+      "tickNLA": "AXXX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US05465C1009"
+    },
+    {
+      "SortExpo": "174",
+      "expo_firm": ".32540584",
+      "firm_name": "REMARK HOLDINGS",
+      "firm_nameNLA": "Remark Holdings Inc",
+      "tickNLA": "MARKX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US75955K3005"
+    },
+    {
+      "SortExpo": "175",
+      "expo_firm": ".32517099",
+      "firm_name": "NETS DEAD - DELIST.13/02/18",
+      "firm_nameNLA": "Nets A/S",
+      "tickNLA": "NNVMNN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "DK0060745370"
+    },
+    {
+      "SortExpo": "176",
+      "expo_firm": ".31771567",
+      "firm_name": "GFT TECHNOLOGIES",
+      "firm_nameNLA": "GFT Technologies SE",
+      "tickNLA": "GFTG",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "DE0005800601"
+    },
+    {
+      "SortExpo": "177",
+      "expo_firm": ".30898267",
+      "firm_name": "VERISIGN",
+      "firm_nameNLA": "Verisign Inc",
+      "tickNLA": "VRSN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US92343E1029"
+    },
+    {
+      "SortExpo": "178",
+      "expo_firm": ".30619401",
+      "firm_name": "JIAYIN GROUP ADR 1:4",
+      "firm_nameNLA": "Jiayin Group Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US47737C1045"
+    },
+    {
+      "SortExpo": "179",
+      "expo_firm": ".30424848",
+      "firm_name": "ONECONNECT FINL. TECH. ADR 1:30",
+      "firm_nameNLA": "OneConnect Financial Technology Co Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US68248T2042"
+    },
+    {
+      "SortExpo": "180",
+      "expo_firm": ".30329356",
+      "firm_name": "INTERCONTINENTAL EX.",
+      "firm_nameNLA": "Intercontinental Exchange Inc",
+      "tickNLA": "ICEXX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US45866F1049"
+    },
+    {
+      "SortExpo": "181",
+      "expo_firm": ".30266091",
+      "firm_name": "INTERACTIVE BROKERS GROUP A",
+      "firm_nameNLA": "Interactive Brokers Group Inc",
+      "tickNLA": "IBKR",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US45841N1072"
+    },
+    {
+      "SortExpo": "182",
+      "expo_firm": ".2980499",
+      "firm_name": "DIGITALOCEAN HOLDINGS",
+      "firm_nameNLA": "DigitalOcean Holdings Inc",
+      "tickNLA": "DOCN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US25402D1028"
+    },
+    {
+      "SortExpo": "183",
+      "expo_firm": ".29396844",
+      "firm_name": "4 SC",
+      "firm_nameNLA": "4Sc AG",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "DE000A3E5C40"
+    },
+    {
+      "SortExpo": "184",
+      "expo_firm": ".29359078",
+      "firm_name": "TANLA PLATFORMS",
+      "firm_nameNLA": "Tanla Platforms Ltd",
+      "tickNLA": "TNSL",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE483C01032"
+    },
+    {
+      "SortExpo": "185",
+      "expo_firm": ".28735632",
+      "firm_name": "9F ADR 1:20",
+      "firm_nameNLA": "9F Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US65442R2085"
+    },
+    {
+      "SortExpo": "186",
+      "expo_firm": ".28667679",
+      "firm_name": "TWITTER DEAD - DELIST.28/10/22",
+      "firm_nameNLA": "Twitter Inc",
+      "tickNLA": "XCORPT",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US90184L1026"
+    },
+    {
+      "SortExpo": "187",
+      "expo_firm": ".28053477",
+      "firm_name": "FRANKLIN RESOURCES",
+      "firm_nameNLA": "Franklin Resources Inc",
+      "tickNLA": "BEN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US3546131018"
+    },
+    {
+      "SortExpo": "188",
+      "expo_firm": ".27943558",
+      "firm_name": "ALLIANCE RSO.PTNS.L P UT LP.",
+      "firm_nameNLA": "Alliance Resource Partners LP",
+      "tickNLA": "ARLP",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US01877R1086"
+    },
+    {
+      "SortExpo": "189",
+      "expo_firm": ".27858436",
+      "firm_name": "DATA#3",
+      "firm_nameNLA": "Data#3 Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU000000DTL4"
+    },
+    {
+      "SortExpo": "190",
+      "expo_firm": ".27849576",
+      "firm_name": "BANK OF NEW YORK MELLON",
+      "firm_nameNLA": "Bank of New York Mellon Corp",
+      "tickNLA": "BK",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US0640581007"
+    },
+    {
+      "SortExpo": "191",
+      "expo_firm": ".2778261",
+      "firm_name": "QUICKLOGIC",
+      "firm_nameNLA": "QuickLogic Corp",
+      "tickNLA": "QUIK",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US74837P4054"
+    },
+    {
+      "SortExpo": "192",
+      "expo_firm": ".27460831",
+      "firm_name": "LIVE NATION ENTM.",
+      "firm_nameNLA": "Live Nation Entertainment Inc",
+      "tickNLA": "LYV",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US5380341090"
+    },
+    {
+      "SortExpo": "193",
+      "expo_firm": ".27214664",
+      "firm_name": "YOUGOV",
+      "firm_nameNLA": "YouGov PLC",
+      "tickNLA": "YOU",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "GB00B1VQ6H25"
+    },
+    {
+      "SortExpo": "194",
+      "expo_firm": ".27152714",
+      "firm_name": "BRILLIANT EARTH GROUP A",
+      "firm_nameNLA": "Brilliant Earth Group Inc",
+      "tickNLA": "BRLT",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US1095041000"
+    },
+    {
+      "SortExpo": "195",
+      "expo_firm": ".26936027",
+      "firm_name": "FD TECHNOLOGIES DEAD - DELIST.23/07/25",
+      "firm_nameNLA": "FD Technologies PLC",
+      "tickNLA": "FDPF",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB0031477770"
+    },
+    {
+      "SortExpo": "196",
+      "expo_firm": ".26527914",
+      "firm_name": "WEB TRAVEL GROUP",
+      "firm_nameNLA": "Webjet Ltd",
+      "tickNLA": "WEBX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "AU000000WEB7"
+    },
+    {
+      "SortExpo": "197",
+      "expo_firm": ".2640416",
+      "firm_name": "ENDEAVOR GROUP HOLDINGS A",
+      "firm_nameNLA": "Endeavor Group Holdings Inc",
+      "tickNLA": "EDR",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US29260Y1091"
+    },
+    {
+      "SortExpo": "198",
+      "expo_firm": ".2631579",
+      "firm_name": "COGENT BIOSCIENCES",
+      "firm_nameNLA": "Cogent Biosciences Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US19240Q2012"
+    },
+    {
+      "SortExpo": "199",
+      "expo_firm": ".26269194",
+      "firm_name": "AQUIS EXCHANGE DEAD - DELIST.02/07/25",
+      "firm_nameNLA": "Aquis Exchange PLC",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00BD5JNK30"
+    },
+    {
+      "SortExpo": "200",
+      "expo_firm": ".26163188",
+      "firm_name": "FIRST FOUNDATION",
+      "firm_nameNLA": "First Foundation Inc",
+      "tickNLA": "FFWM",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US32026V1044"
+    },
+    {
+      "SortExpo": "201",
+      "expo_firm": ".26145858",
+      "firm_name": "NETSOL TECHS.",
+      "firm_nameNLA": "NetSol Technologies Inc",
+      "tickNLA": "NTWK",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US64115A4022"
+    },
+    {
+      "SortExpo": "202",
+      "expo_firm": ".25574932",
+      "firm_name": "BED BATH AND BEYOND",
+      "firm_nameNLA": "Beyond Inc",
+      "tickNLA": "OSTK",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US6903701018"
+    },
+    {
+      "SortExpo": "203",
+      "expo_firm": ".25572735",
+      "firm_name": "ALLFUNDS GROUP",
+      "firm_nameNLA": "Allfunds Group PLC",
+      "tickNLA": "ALLFG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00BNTJ3546"
+    },
+    {
+      "SortExpo": "204",
+      "expo_firm": ".25316456",
+      "firm_name": "COMPAGNIE CHARGEURS INVEST",
+      "firm_nameNLA": "Chargeurs SA",
+      "tickNLA": "CRIP",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "FR0000130692"
+    },
+    {
+      "SortExpo": "205",
+      "expo_firm": ".25128102",
+      "firm_name": "STANDARD LITHIUM",
+      "firm_nameNLA": "Standard Lithium Ltd",
+      "tickNLA": "",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "CA8536061010"
+    },
+    {
+      "SortExpo": "206",
+      "expo_firm": ".24971882",
+      "firm_name": "PLAYTECH",
+      "firm_nameNLA": "Playtech PLC",
+      "tickNLA": "PTEC",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "IM00B7S9G985"
+    },
+    {
+      "SortExpo": "207",
+      "expo_firm": ".24945527",
+      "firm_name": "MODERN TIMES GROUP MTG B",
+      "firm_nameNLA": "Modern Times Group MTG AB",
+      "tickNLA": "MTGX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "SE0018012494"
+    },
+    {
+      "SortExpo": "208",
+      "expo_firm": ".24743618",
+      "firm_name": "SUBEX",
+      "firm_nameNLA": "Subex Ltd",
+      "tickNLA": "SUBX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE754A01055"
+    },
+    {
+      "SortExpo": "209",
+      "expo_firm": ".24640201",
+      "firm_name": "ARQIT QUANTUM",
+      "firm_nameNLA": "Arqit Quantum Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG0567U1278"
+    },
+    {
+      "SortExpo": "210",
+      "expo_firm": ".24600849",
+      "firm_name": "QUORUM INFO.TECHS.",
+      "firm_nameNLA": "Quorum Information Technologies Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CA7490931002"
+    },
+    {
+      "SortExpo": "211",
+      "expo_firm": ".24177127",
+      "firm_name": "FIDELITY NAT.INFO.SVS.",
+      "firm_nameNLA": "Fidelity National Information Services Inc",
+      "tickNLA": "FIS",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US31620M1062"
+    },
+    {
+      "SortExpo": "212",
+      "expo_firm": ".23809524",
+      "firm_name": "POLLEN STREET GROUP",
+      "firm_nameNLA": "Pollen Street Group Ltd",
+      "tickNLA": "POLNP",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GG00BMHG0H12"
+    },
+    {
+      "SortExpo": "213",
+      "expo_firm": ".23483244",
+      "firm_name": "REPOSITRAK",
+      "firm_nameNLA": "Park City Group Inc",
+      "tickNLA": "TRAK",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US7002153044"
+    },
+    {
+      "SortExpo": "214",
+      "expo_firm": ".23358437",
+      "firm_name": "IDACORP",
+      "firm_nameNLA": "Idacorp Inc",
+      "tickNLA": "IDAX",
+      "sct_str": "Utilities",
+      "sct_str_long": "Utilities",
+      "id_str": "US4511071064"
+    },
+    {
+      "SortExpo": "215",
+      "expo_firm": ".23039465",
+      "firm_name": "CUSTOMERS BANCORP",
+      "firm_nameNLA": "Customers Bancorp Inc",
+      "tickNLA": "CUBI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US23204G1004"
+    },
+    {
+      "SortExpo": "216",
+      "expo_firm": ".23015492",
+      "firm_name": "BLACKROCK",
+      "firm_nameNLA": "BlackRock Inc",
+      "tickNLA": "BLK",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US09290D1019"
+    },
+    {
+      "SortExpo": "217",
+      "expo_firm": ".22994754",
+      "firm_name": "HAMILTON LANE CL.A",
+      "firm_nameNLA": "Hamilton Lane Inc",
+      "tickNLA": "HLNE",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US4074971064"
+    },
+    {
+      "SortExpo": "218",
+      "expo_firm": ".22989449",
+      "firm_name": "TP ICAP GROUP",
+      "firm_nameNLA": "TP ICAP Group PLC",
+      "tickNLA": "TCAPI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JE00BMDZN391"
+    },
+    {
+      "SortExpo": "219",
+      "expo_firm": ".22725837",
+      "firm_name": "BOC HONG KONG HOLDINGS",
+      "firm_nameNLA": "BOC Hong Kong Holdings Ltd",
+      "tickNLA": "BOCHL",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "HK2388011192"
+    },
+    {
+      "SortExpo": "220",
+      "expo_firm": ".22602642",
+      "firm_name": "APPLOVIN A",
+      "firm_nameNLA": "Applovin Corp",
+      "tickNLA": "APP",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US03831W1080"
+    },
+    {
+      "SortExpo": "221",
+      "expo_firm": ".21994135",
+      "firm_name": "MONEYONMOBILE",
+      "firm_nameNLA": "MoneyOnMobile Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US60937K2069"
+    },
+    {
+      "SortExpo": "222",
+      "expo_firm": ".21875785",
+      "firm_name": "NAOS SMALL CAP OPPORTUNITIES COMPANY",
+      "firm_nameNLA": "NAOS Small Cap Opportunities Company Ltd",
+      "tickNLA": "NSCX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "AU000000NSC4"
+    },
+    {
+      "SortExpo": "223",
+      "expo_firm": ".2162801",
+      "firm_name": "ASPEN TECHNOLOGY DEAD - DELIST.13/03/25",
+      "firm_nameNLA": "Aspen Technology Inc",
+      "tickNLA": "AZPNA",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US29109X1063"
+    },
+    {
+      "SortExpo": "224",
+      "expo_firm": ".21547273",
+      "firm_name": "GEVO",
+      "firm_nameNLA": "Gevo Inc",
+      "tickNLA": "GEVO",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US3743964062"
+    },
+    {
+      "SortExpo": "225",
+      "expo_firm": ".21491976",
+      "firm_name": "MIZUHO FINL.GP.",
+      "firm_nameNLA": "Mizuho Financial Group Inc",
+      "tickNLA": "MZFG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JP3885780001"
+    },
+    {
+      "SortExpo": "226",
+      "expo_firm": ".21436359",
+      "firm_name": "SAMSUNG ELECTRONICS",
+      "firm_nameNLA": "Samsung Electronics Co Ltd",
+      "tickNLA": "SAMEC",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "KR7005930003"
+    },
+    {
+      "SortExpo": "227",
+      "expo_firm": ".21368317",
+      "firm_name": "COSCO SHIPPING PORTS",
+      "firm_nameNLA": "COSCO SHIPPING Ports Ltd",
+      "tickNLA": "COSGP",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "BMG2442N1048"
+    },
+    {
+      "SortExpo": "228",
+      "expo_firm": ".21332265",
+      "firm_name": "HONG KONG EXCHANGES AND CLEARING",
+      "firm_nameNLA": "Hong Kong Exchanges and Clearing Ltd",
+      "tickNLA": "HKEX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "HK0388045442"
+    },
+    {
+      "SortExpo": "229",
+      "expo_firm": ".21231422",
+      "firm_name": "ATRECA DEAD - DELIST.17/06/24",
+      "firm_nameNLA": "Atreca Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US04965G1094"
+    },
+    {
+      "SortExpo": "230",
+      "expo_firm": ".21209531",
+      "firm_name": "SKILLZ A",
+      "firm_nameNLA": "Skillz Inc",
+      "tickNLA": "SKLZ",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US83067L2088"
+    },
+    {
+      "SortExpo": "231",
+      "expo_firm": ".21104987",
+      "firm_name": "TXNM ENERGY",
+      "firm_nameNLA": "PNM Resources Inc",
+      "tickNLA": "PNM",
+      "sct_str": "Utilities",
+      "sct_str_long": "Utilities",
+      "id_str": "US69349H1077"
+    },
+    {
+      "SortExpo": "232",
+      "expo_firm": ".21085033",
+      "firm_name": "SEQUOIA FINL.GP.",
+      "firm_nameNLA": "Sequoia Financial Group Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "AU000000SEQ3"
+    },
+    {
+      "SortExpo": "233",
+      "expo_firm": ".21033184",
+      "firm_name": "CAPSTONE GREEN ENERGY DEAD - DELIST.08/12/23",
+      "firm_nameNLA": "Capstone Green Energy Corp",
+      "tickNLA": "CGRN",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US14067D5086"
+    },
+    {
+      "SortExpo": "234",
+      "expo_firm": ".2096436",
+      "firm_name": "CRANE",
+      "firm_nameNLA": "Crane Holdings Co",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US2244081046"
+    },
+    {
+      "SortExpo": "235",
+      "expo_firm": ".20959456",
+      "firm_name": "TOSHIBA DEAD - DELIST.20/12/23",
+      "firm_nameNLA": "Toshiba Corp",
+      "tickNLA": "TOSBA",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "JP3592200004"
+    },
+    {
+      "SortExpo": "236",
+      "expo_firm": ".20939177",
+      "firm_name": "SUN HUNG KAI & COMPANY",
+      "firm_nameNLA": "Sun Hung Kai & Co Ltd",
+      "tickNLA": "SUHUK",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "HK0086000525"
+    },
+    {
+      "SortExpo": "237",
+      "expo_firm": ".20739037",
+      "firm_name": "CORECARD DEAD - DELIST.31/10/25",
+      "firm_nameNLA": "CoreCard Corp",
+      "tickNLA": "CCRD",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US45816D1000"
+    },
+    {
+      "SortExpo": "238",
+      "expo_firm": ".20650721",
+      "firm_name": "KT",
+      "firm_nameNLA": "KT Corp",
+      "tickNLA": "KTCRP",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "KR7030200000"
+    },
+    {
+      "SortExpo": "239",
+      "expo_firm": ".2061855",
+      "firm_name": "NU HOLDINGS A",
+      "firm_nameNLA": "Nu Holdings Ltd",
+      "tickNLA": "NUN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "KYG6683N1034"
+    },
+    {
+      "SortExpo": "240",
+      "expo_firm": ".20449811",
+      "firm_name": "CANTALOUPE",
+      "firm_nameNLA": "Cantaloupe Inc",
+      "tickNLA": "CTLP",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US1381031061"
+    },
+    {
+      "SortExpo": "241",
+      "expo_firm": ".19936204",
+      "firm_name": "SEPTENI HOLDINGS",
+      "firm_nameNLA": "Septeni Holdings Co Ltd",
+      "tickNLA": "SEPTN",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "JP3423300007"
+    },
+    {
+      "SortExpo": "242",
+      "expo_firm": ".19796757",
+      "firm_name": "RCI HOSPITALITY HDG.",
+      "firm_nameNLA": "RCI Hospitality Holdings Inc",
+      "tickNLA": "RICK",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US74934Q1085"
+    },
+    {
+      "SortExpo": "243",
+      "expo_firm": ".19762845",
+      "firm_name": "OXFORD NANOPORE TECHNOLOGIES",
+      "firm_nameNLA": "Oxford Nanopore Technologies PLC",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "GB00BP6S8Z30"
+    },
+    {
+      "SortExpo": "244",
+      "expo_firm": ".19480725",
+      "firm_name": "MERCADOLIBRE",
+      "firm_nameNLA": "Mercadolibre Inc",
+      "tickNLA": "MELI",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US58733R1023"
+    },
+    {
+      "SortExpo": "245",
+      "expo_firm": ".19261776",
+      "firm_name": "PALANTIR TECHNOLOGIES A",
+      "firm_nameNLA": "Palantir Technologies Inc",
+      "tickNLA": "PLTR",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US69608A1088"
+    },
+    {
+      "SortExpo": "246",
+      "expo_firm": ".19239412",
+      "firm_name": "FATE THERAPEUTICS",
+      "firm_nameNLA": "Fate Therapeutics Inc",
+      "tickNLA": "FATE",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US31189P1021"
+    },
+    {
+      "SortExpo": "247",
+      "expo_firm": ".19205439",
+      "firm_name": "INFORMATION SVS.GP.",
+      "firm_nameNLA": "Information Services Group Inc",
+      "tickNLA": "IIIX",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US45675Y1047"
+    },
+    {
+      "SortExpo": "248",
+      "expo_firm": ".19083969",
+      "firm_name": "VZ HOLDING 'N'",
+      "firm_nameNLA": "VZ Holding AG",
+      "tickNLA": "VZN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CH0528751586"
+    },
+    {
+      "SortExpo": "249",
+      "expo_firm": ".19011407",
+      "firm_name": "BALTIC CLASSIFIEDS GROUP",
+      "firm_nameNLA": "Baltic Classifieds Group PLC",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB00BN44P254"
+    },
+    {
+      "SortExpo": "250",
+      "expo_firm": ".18973085",
+      "firm_name": "NEXT BIOMETRICS GROUP",
+      "firm_nameNLA": "Next Biometrics Group ASA",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "NO0010629108"
+    },
+    {
+      "SortExpo": "251",
+      "expo_firm": ".18853635",
+      "firm_name": "OVERSEA-CHINESE BKG.",
+      "firm_nameNLA": "Oversea-Chinese Banking Corporation Ltd",
+      "tickNLA": "OCBC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "SG1S04926220"
+    },
+    {
+      "SortExpo": "252",
+      "expo_firm": ".18739258",
+      "firm_name": "AURUM PROPTECH",
+      "firm_nameNLA": "Aurum Proptech Ltd",
+      "tickNLA": "MAJC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE898S01029"
+    },
+    {
+      "SortExpo": "253",
+      "expo_firm": ".18732695",
+      "firm_name": "OPERA AMERICAN DEPOSITARY SHARES 1:1",
+      "firm_nameNLA": "Opera Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US68373M1071"
+    },
+    {
+      "SortExpo": "254",
+      "expo_firm": ".18682453",
+      "firm_name": "HAPPIEST MINDS TECHNOLOGIES PVT",
+      "firm_nameNLA": "Happiest Minds Technologies Ltd",
+      "tickNLA": "HAMIOO",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE419U01012"
+    },
+    {
+      "SortExpo": "255",
+      "expo_firm": ".18552876",
+      "firm_name": "INDUSTRIAL & COML.BK.OF CHINA 'A'",
+      "firm_nameNLA": "Industrial and Commercial Bank of China Ltd",
+      "tickNLA": "ICBAF",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CNE000001P37"
+    },
+    {
+      "SortExpo": "256",
+      "expo_firm": ".18518519",
+      "firm_name": "ANSARADA GROUP DEAD - DELIST.09/09/24",
+      "firm_nameNLA": "Ansarada Group Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU0000124422"
+    },
+    {
+      "SortExpo": "257",
+      "expo_firm": ".18513858",
+      "firm_name": "B RILEY FINANCIAL",
+      "firm_nameNLA": "B Riley Financial Inc",
+      "tickNLA": "RILY",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US05580M1080"
+    },
+    {
+      "SortExpo": "258",
+      "expo_firm": ".18483132",
+      "firm_name": "NOVAGOLD RESOURCES",
+      "firm_nameNLA": "NovaGold Resources Inc",
+      "tickNLA": "NGX",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "CA66987E2069"
+    },
+    {
+      "SortExpo": "259",
+      "expo_firm": ".18343252",
+      "firm_name": "DOUBLEDOWN INTERACTIVE ADR 20:1",
+      "firm_nameNLA": "DoubleDown Interactive Co Ltd",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US25862B1098"
+    },
+    {
+      "SortExpo": "260",
+      "expo_firm": ".18178053",
+      "firm_name": "CHIN.COMMS.SVS.'H'",
+      "firm_nameNLA": "China Communications Services Corp Ltd",
+      "tickNLA": "CCSCL",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "CNE1000002G3"
+    },
+    {
+      "SortExpo": "261",
+      "expo_firm": ".18050541",
+      "firm_name": "TUBACEX",
+      "firm_nameNLA": "Tubacex SA",
+      "tickNLA": "TUBA",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "ES0132945017"
+    },
+    {
+      "SortExpo": "262",
+      "expo_firm": ".18049626",
+      "firm_name": "FINANCIAL INSTITUTIONS",
+      "firm_nameNLA": "Financial Institutions Inc",
+      "tickNLA": "FISI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US3175854047"
+    },
+    {
+      "SortExpo": "263",
+      "expo_firm": ".17993571",
+      "firm_name": "LEMONADE",
+      "firm_nameNLA": "Lemonade Inc",
+      "tickNLA": "LMND",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US52567D1072"
+    },
+    {
+      "SortExpo": "264",
+      "expo_firm": ".17921147",
+      "firm_name": "BNY MEL.STGC.MUN. BF.",
+      "firm_nameNLA": "BNY Mellon Strategic Municipal Bond Fund Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US09662E1091"
+    },
+    {
+      "SortExpo": "265",
+      "expo_firm": ".17795382",
+      "firm_name": "DWS GROUP",
+      "firm_nameNLA": "DWS Group GmbH & Co KgaA",
+      "tickNLA": "DWSG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "DE000DWS1007"
+    },
+    {
+      "SortExpo": "266",
+      "expo_firm": ".17698514",
+      "firm_name": "IBEX",
+      "firm_nameNLA": "Ibex Ltd",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "BMG4690M1010"
+    },
+    {
+      "SortExpo": "267",
+      "expo_firm": ".17697866",
+      "firm_name": "ONMOBILE GLOBAL",
+      "firm_nameNLA": "Onmobile Global Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE809I01019"
+    },
+    {
+      "SortExpo": "268",
+      "expo_firm": ".17650066",
+      "firm_name": "ASE TECHNOLOGY HOLDING",
+      "firm_nameNLA": "ASE Technology Holding Co Ltd",
+      "tickNLA": "ASEID",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "TW0003711008"
+    },
+    {
+      "SortExpo": "269",
+      "expo_firm": ".17635021",
+      "firm_name": "COMPUGEN",
+      "firm_nameNLA": "Compugen Ltd",
+      "tickNLA": "CGEN",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "IL0010852080"
+    },
+    {
+      "SortExpo": "270",
+      "expo_firm": ".17630306",
+      "firm_name": "DIACEUTICS",
+      "firm_nameNLA": "Diaceutics PLC",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "GB00BJQTGV64"
+    },
+    {
+      "SortExpo": "271",
+      "expo_firm": ".17468339",
+      "firm_name": "VONTOBEL HOLDING",
+      "firm_nameNLA": "Vontobel Holding AG",
+      "tickNLA": "VONN",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CH0012335540"
+    },
+    {
+      "SortExpo": "272",
+      "expo_firm": ".1735152",
+      "firm_name": "OGE ENERGY",
+      "firm_nameNLA": "OGE Energy Corp",
+      "tickNLA": "OGE",
+      "sct_str": "Utilities",
+      "sct_str_long": "Utilities",
+      "id_str": "US6708371033"
+    },
+    {
+      "SortExpo": "273",
+      "expo_firm": ".17021278",
+      "firm_name": "DATAVAULT AI",
+      "firm_nameNLA": "WiSA Technologies Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US86633R6099"
+    },
+    {
+      "SortExpo": "274",
+      "expo_firm": ".16831033",
+      "firm_name": "ICHIGO",
+      "firm_nameNLA": "Ichigo Inc",
+      "tickNLA": "ASSMN",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "JP3120010008"
+    },
+    {
+      "SortExpo": "275",
+      "expo_firm": ".16830884",
+      "firm_name": "STONEX GROUP",
+      "firm_nameNLA": "Stonex Group Inc",
+      "tickNLA": "SNEXX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US8618961085"
+    },
+    {
+      "SortExpo": "276",
+      "expo_firm": ".16785891",
+      "firm_name": "WARNER MUSIC GROUP A",
+      "firm_nameNLA": "Warner Music Group Corp",
+      "tickNLA": "WMG",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US9345502036"
+    },
+    {
+      "SortExpo": "277",
+      "expo_firm": ".16700812",
+      "firm_name": "MITSUBISHI UFJ FINL.GP.",
+      "firm_nameNLA": "Mitsubishi UFJ Financial Group Inc",
+      "tickNLA": "MTFGI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JP3902900004"
+    },
+    {
+      "SortExpo": "278",
+      "expo_firm": ".16666667",
+      "firm_name": "LOTUS TECH.AMER. DEPY. SHS.1:1",
+      "firm_nameNLA": "Lotus Technology Inc",
+      "tickNLA": "EEP",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US54572F1012"
+    },
+    {
+      "SortExpo": "279",
+      "expo_firm": ".16636148",
+      "firm_name": "CHINA REINSURANCE (GP.) 'H'",
+      "firm_nameNLA": "China Reinsurance Group Corp",
+      "tickNLA": "CHNRE",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CNE100002342"
+    },
+    {
+      "SortExpo": "280",
+      "expo_firm": ".16543147",
+      "firm_name": "SECOO HOLDING ADR 1:5",
+      "firm_nameNLA": "Secoo Holding Ltd",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US81367P2002"
+    },
+    {
+      "SortExpo": "281",
+      "expo_firm": ".16533986",
+      "firm_name": "CUE BIOPHARMA",
+      "firm_nameNLA": "Cue Biopharma Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US22978P1066"
+    },
+    {
+      "SortExpo": "282",
+      "expo_firm": ".16509646",
+      "firm_name": "CHINA MOBILE 'A'",
+      "firm_nameNLA": "China Mobile Ltd",
+      "tickNLA": "CNMHK",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "CNE1000055G1"
+    },
+    {
+      "SortExpo": "283",
+      "expo_firm": ".16472095",
+      "firm_name": "FEDEX",
+      "firm_nameNLA": "FedEx Corp",
+      "tickNLA": "FDX",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US31428X1063"
+    },
+    {
+      "SortExpo": "284",
+      "expo_firm": ".16467682",
+      "firm_name": "LITE STRATEGY",
+      "firm_nameNLA": "MEI Pharma Inc",
+      "tickNLA": "MEIP",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US55279B3015"
+    },
+    {
+      "SortExpo": "285",
+      "expo_firm": ".16449797",
+      "firm_name": "REMITLY GLOBAL",
+      "firm_nameNLA": "Remitly Global Inc",
+      "tickNLA": "RELY",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US75960P1049"
+    },
+    {
+      "SortExpo": "286",
+      "expo_firm": ".16434683",
+      "firm_name": "ENFUSION A DEAD - DELIST.21/04/25",
+      "firm_nameNLA": "Enfusion Inc",
+      "tickNLA": "ENFN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US2928121043"
+    },
+    {
+      "SortExpo": "287",
+      "expo_firm": ".16305865",
+      "firm_name": "THOUGHTWORKS HOLDING DEAD - DELIST.14/11/24",
+      "firm_nameNLA": "Thoughtworks Holding Inc",
+      "tickNLA": "TSMNPH",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US88546E1055"
+    },
+    {
+      "SortExpo": "288",
+      "expo_firm": ".1629478",
+      "firm_name": "INFIBEAM AVENUES",
+      "firm_nameNLA": "Infibeam Avenues Ltd",
+      "tickNLA": "INFC",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "INE483S01020"
+    },
+    {
+      "SortExpo": "289",
+      "expo_firm": ".16196564",
+      "firm_name": "WESTERN UNION",
+      "firm_nameNLA": "Western Union Co",
+      "tickNLA": "WU",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US9598021098"
+    },
+    {
+      "SortExpo": "290",
+      "expo_firm": ".16113044",
+      "firm_name": "NETDRAGON WEBSOFT",
+      "firm_nameNLA": "Netdragon Websoft Holdings Ltd",
+      "tickNLA": "NEDWE",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KYG6427W1042"
+    },
+    {
+      "SortExpo": "291",
+      "expo_firm": ".16077171",
+      "firm_name": "MADISON SQUARE GARDEN ENTERTAINMENT A",
+      "firm_nameNLA": "Madison Square Garden Entertainment Corp",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US5582561032"
+    },
+    {
+      "SortExpo": "292",
+      "expo_firm": ".16039114",
+      "firm_name": "UNIVERSAL MUSIC GROUP",
+      "firm_nameNLA": "Universal Music Group NV",
+      "tickNLA": "UMGX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "NL0015000IY2"
+    },
+    {
+      "SortExpo": "293",
+      "expo_firm": ".15980114",
+      "firm_name": "CHEETAH MOBILE ADR 1:50",
+      "firm_nameNLA": "Cheetah Mobile Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US1630752038"
+    },
+    {
+      "SortExpo": "294",
+      "expo_firm": ".15948993",
+      "firm_name": "REDWOOD TST.",
+      "firm_nameNLA": "Redwood Trust Inc",
+      "tickNLA": "RWT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US7580754023"
+    },
+    {
+      "SortExpo": "295",
+      "expo_firm": ".15942606",
+      "firm_name": "WAITR HLDGS",
+      "firm_nameNLA": "Waitr Holdings Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US9307522097"
+    },
+    {
+      "SortExpo": "296",
+      "expo_firm": ".15932344",
+      "firm_name": "NEXON",
+      "firm_nameNLA": "Nexon Co Ltd",
+      "tickNLA": "NEXON",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "JP3758190007"
+    },
+    {
+      "SortExpo": "297",
+      "expo_firm": ".15814954",
+      "firm_name": "ACI WORLDWIDE",
+      "firm_nameNLA": "ACI Worldwide Inc",
+      "tickNLA": "ACIW",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US0044981019"
+    },
+    {
+      "SortExpo": "298",
+      "expo_firm": ".15802488",
+      "firm_name": "VOXTUR ANALYTICS SUSP - SUSP.09/09/25",
+      "firm_nameNLA": "Voxtur Analytics Corp",
+      "tickNLA": "VXTR",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CA9290821052"
+    },
+    {
+      "SortExpo": "299",
+      "expo_firm": ".15757252",
+      "firm_name": "IMAGEWARE SYSTEMS",
+      "firm_nameNLA": "ImageWare Systems Inc",
+      "tickNLA": "IWSY",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US45245S1087"
+    },
+    {
+      "SortExpo": "300",
+      "expo_firm": ".15705495",
+      "firm_name": "VICTORY CAPITAL HOLDINGS A",
+      "firm_nameNLA": "Victory Capital Holdings Inc",
+      "tickNLA": "VCTRX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US92645B1035"
+    },
+    {
+      "SortExpo": "301",
+      "expo_firm": ".15689054",
+      "firm_name": "ING GROEP",
+      "firm_nameNLA": "ING Groep NV",
+      "tickNLA": "INGA",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "NL0011821202"
+    },
+    {
+      "SortExpo": "302",
+      "expo_firm": ".15687209",
+      "firm_name": "SHOPIFY SUBD.VTG.SHS.'A'",
+      "firm_nameNLA": "Shopify Inc",
+      "tickNLA": "SHOPX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CA82509L1076"
+    },
+    {
+      "SortExpo": "303",
+      "expo_firm": ".15576324",
+      "firm_name": "NANOBIOTIX",
+      "firm_nameNLA": "Nanobiotix SA",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "FR0011341205"
+    },
+    {
+      "SortExpo": "304",
+      "expo_firm": ".15559587",
+      "firm_name": "SURO CAPITAL",
+      "firm_nameNLA": "SuRo Capital Corp",
+      "tickNLA": "SSSS",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US86887Q1094"
+    },
+    {
+      "SortExpo": "305",
+      "expo_firm": ".15540016",
+      "firm_name": "UNITED OVERSEAS BANK",
+      "firm_nameNLA": "United Overseas Bank Ltd",
+      "tickNLA": "UOBH",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "SG1M31001969"
+    },
+    {
+      "SortExpo": "306",
+      "expo_firm": ".15432099",
+      "firm_name": "FAR EAST CONSORT.INTL.",
+      "firm_nameNLA": "Far East Consortium International Ltd",
+      "tickNLA": "FAREC",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "KYG3307Z1090"
+    },
+    {
+      "SortExpo": "307",
+      "expo_firm": ".15252152",
+      "firm_name": "S4 CAP.ORD.SHS.",
+      "firm_nameNLA": "S4 Capital PLC",
+      "tickNLA": "SFOR",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "GB00BFZZM640"
+    },
+    {
+      "SortExpo": "308",
+      "expo_firm": ".15190786",
+      "firm_name": "NCC GROUP",
+      "firm_nameNLA": "NCC Group PLC",
+      "tickNLA": "NCCG",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB00B01QGK86"
+    },
+    {
+      "SortExpo": "309",
+      "expo_firm": ".15158536",
+      "firm_name": "CI FINANCIAL DEAD - DELIST.15/08/25",
+      "firm_nameNLA": "CI Financial Corp",
+      "tickNLA": "CIX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA1254911003"
+    },
+    {
+      "SortExpo": "310",
+      "expo_firm": ".15110168",
+      "firm_name": "MITEK SYSTEMS",
+      "firm_nameNLA": "Mitek Systems Inc",
+      "tickNLA": "MITK",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US6067102003"
+    },
+    {
+      "SortExpo": "311",
+      "expo_firm": ".14845781",
+      "firm_name": "PROSEGUR CIA.SECURIDAD",
+      "firm_nameNLA": "Prosegur Compania de Seguridad SA",
+      "tickNLA": "PSG",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "ES0175438003"
+    },
+    {
+      "SortExpo": "312",
+      "expo_firm": ".14772937",
+      "firm_name": "TETRAGON FINANCIAL GROUP",
+      "firm_nameNLA": "Tetragon Financial Group Ltd",
+      "tickNLA": "TFG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GG00B1RMC548"
+    },
+    {
+      "SortExpo": "313",
+      "expo_firm": ".14743787",
+      "firm_name": "CELLECTIS",
+      "firm_nameNLA": "Cellectis SA",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "FR0010425595"
+    },
+    {
+      "SortExpo": "314",
+      "expo_firm": ".14689621",
+      "firm_name": "ADAPTIMMUNE THERP. SPN. AMER.DEPY.SHS.1:6",
+      "firm_nameNLA": "Adaptimmune Therapeutics PLC",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US00653A1079"
+    },
+    {
+      "SortExpo": "315",
+      "expo_firm": ".14534883",
+      "firm_name": "SURGEPAYS",
+      "firm_nameNLA": "Surgepays Inc",
+      "tickNLA": "",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "US86882L2043"
+    },
+    {
+      "SortExpo": "316",
+      "expo_firm": ".14475204",
+      "firm_name": "HCH.TELECOM.HK.HOLDINGS",
+      "firm_nameNLA": "Hutchison Telecommunications Hong Kong Holdings Ltd",
+      "tickNLA": "HTLCK",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "KYG4672G1064"
+    },
+    {
+      "SortExpo": "317",
+      "expo_firm": ".14375561",
+      "firm_name": "PRECIGEN",
+      "firm_nameNLA": "Precigen Inc",
+      "tickNLA": "PGEN",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US74017N1054"
+    },
+    {
+      "SortExpo": "318",
+      "expo_firm": ".14289416",
+      "firm_name": "CHINA UNICOM (HONG KONG)",
+      "firm_nameNLA": "China Unicom Hong Kong Ltd",
+      "tickNLA": "CUCOM",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "HK0000049939"
+    },
+    {
+      "SortExpo": "319",
+      "expo_firm": ".14204545",
+      "firm_name": "SOLVAY INDUPA",
+      "firm_nameNLA": "Unipar Indupa SAIC",
+      "tickNLA": "INDUZ",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "ARP533511050"
+    },
+    {
+      "SortExpo": "320",
+      "expo_firm": ".14186706",
+      "firm_name": "SVENSKA HANDELSBANKEN A",
+      "firm_nameNLA": "Svenska Handelsbanken AB",
+      "tickNLA": "SHB",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "SE0007100599"
+    },
+    {
+      "SortExpo": "321",
+      "expo_firm": ".14165339",
+      "firm_name": "CORSAIR GAMING",
+      "firm_nameNLA": "Corsair Gaming Inc",
+      "tickNLA": "CRSR",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US22041X1028"
+    },
+    {
+      "SortExpo": "322",
+      "expo_firm": ".14055651",
+      "firm_name": "POSTAL SAVINGS BANK OF CHINA 'A'",
+      "firm_nameNLA": "Postal Savings Bank of China Co Ltd",
+      "tickNLA": "PSBCB",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CNE100003PZ4"
+    },
+    {
+      "SortExpo": "323",
+      "expo_firm": ".14023304",
+      "firm_name": "OTC MARKETS GP.CL.A",
+      "firm_nameNLA": "OTC Markets Group Inc",
+      "tickNLA": "OTCM",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US67106F1084"
+    },
+    {
+      "SortExpo": "324",
+      "expo_firm": ".13900013",
+      "firm_name": "AMPLITUDE A",
+      "firm_nameNLA": "Amplitude Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US03213A1043"
+    },
+    {
+      "SortExpo": "325",
+      "expo_firm": ".13867322",
+      "firm_name": "VIRACTA THERAPEUTICS DEAD - DELIST.17/07/25",
+      "firm_nameNLA": "Viracta Therapeutics Inc",
+      "tickNLA": "VIRXX",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US92765F1084"
+    },
+    {
+      "SortExpo": "326",
+      "expo_firm": ".13862251",
+      "firm_name": "WARSAW STOCK EXCHANGE",
+      "firm_nameNLA": "Gielda Papierow Wartosciowych w Warszawie SA",
+      "tickNLA": "GPW",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "PLGPW0000017"
+    },
+    {
+      "SortExpo": "327",
+      "expo_firm": ".13763174",
+      "firm_name": "ADCOCK INGRAM HOLDINGS DEAD - DELIST.11/11/25",
+      "firm_nameNLA": "Adcock Ingram Holdings Ltd",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "ZAE000123436"
+    },
+    {
+      "SortExpo": "328",
+      "expo_firm": ".13762012",
+      "firm_name": "RISKIFIED A",
+      "firm_nameNLA": "Riskified Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "IL0011786493"
+    },
+    {
+      "SortExpo": "329",
+      "expo_firm": ".13699624",
+      "firm_name": "H&R BLOCK",
+      "firm_nameNLA": "H & R Block Inc",
+      "tickNLA": "HRB",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US0936711052"
+    },
+    {
+      "SortExpo": "330",
+      "expo_firm": ".13691944",
+      "firm_name": "NEOGEN",
+      "firm_nameNLA": "Neogen Corp",
+      "tickNLA": "NEOG",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US6404911066"
+    },
+    {
+      "SortExpo": "331",
+      "expo_firm": ".13647409",
+      "firm_name": "LY",
+      "firm_nameNLA": "Z Holdings Corp",
+      "tickNLA": "YAHJP",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3933800009"
+    },
+    {
+      "SortExpo": "332",
+      "expo_firm": ".13489209",
+      "firm_name": "BELLICUM PHARMACEUTICALS DEAD - DELIST.05/03/24",
+      "firm_nameNLA": "Bellicum Pharmaceuticals Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US0794814048"
+    },
+    {
+      "SortExpo": "333",
+      "expo_firm": ".13295558",
+      "firm_name": "WISE A",
+      "firm_nameNLA": "Wise PLC",
+      "tickNLA": "WISE",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "GB00BL9YR756"
+    },
+    {
+      "SortExpo": "334",
+      "expo_firm": ".13276188",
+      "firm_name": "SAP",
+      "firm_nameNLA": "SAP SE",
+      "tickNLA": "SAPG",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "DE0007164600"
+    },
+    {
+      "SortExpo": "335",
+      "expo_firm": ".13271476",
+      "firm_name": "WEBSTEP",
+      "firm_nameNLA": "Webstep ASA",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "NO0010609662"
+    },
+    {
+      "SortExpo": "336",
+      "expo_firm": ".13262202",
+      "firm_name": "MATINAS BIOPHARMA HDG.",
+      "firm_nameNLA": "Matinas BioPharma Holdings Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US5768103039"
+    },
+    {
+      "SortExpo": "337",
+      "expo_firm": ".13227513",
+      "firm_name": "DRAGANFLY",
+      "firm_nameNLA": "Draganfly Inc",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "CA26142Q3044"
+    },
+    {
+      "SortExpo": "338",
+      "expo_firm": ".1319337",
+      "firm_name": "SHUTTERSTOCK",
+      "firm_nameNLA": "Shutterstock Inc",
+      "tickNLA": "SSTK",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US8256901005"
+    },
+    {
+      "SortExpo": "339",
+      "expo_firm": ".13079874",
+      "firm_name": "ENDAVA ADR 1:1",
+      "firm_nameNLA": "Endava PLC",
+      "tickNLA": "DAVA",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US29260V1052"
+    },
+    {
+      "SortExpo": "340",
+      "expo_firm": ".13051023",
+      "firm_name": "HANG SENG BANK",
+      "firm_nameNLA": "Hang Seng Bank Ltd",
+      "tickNLA": "HSNGY",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "HK0011000095"
+    },
+    {
+      "SortExpo": "341",
+      "expo_firm": ".12966564",
+      "firm_name": "UBISOFT ENTERTAINMENT CAT A",
+      "firm_nameNLA": "Ubisoft Entertainment SA",
+      "tickNLA": "UBIP",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "FR0000054470"
+    },
+    {
+      "SortExpo": "342",
+      "expo_firm": ".12862726",
+      "firm_name": "ACCENTURE CLASS A",
+      "firm_nameNLA": "Accenture PLC",
+      "tickNLA": "ACN",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "IE00B4BNMY34"
+    },
+    {
+      "SortExpo": "343",
+      "expo_firm": ".12825766",
+      "firm_name": "AMERICAN EXPRESS",
+      "firm_nameNLA": "American Express Co",
+      "tickNLA": "AXP",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US0258161092"
+    },
+    {
+      "SortExpo": "344",
+      "expo_firm": ".1278318",
+      "firm_name": "PLUS THERAPEUTICS",
+      "firm_nameNLA": "Plus Therapeutics Inc",
+      "tickNLA": "PSTV",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US72941H5090"
+    },
+    {
+      "SortExpo": "345",
+      "expo_firm": ".12771392",
+      "firm_name": "DOCUSIGN",
+      "firm_nameNLA": "DocuSign Inc",
+      "tickNLA": "DOCU",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US2561631068"
+    },
+    {
+      "SortExpo": "346",
+      "expo_firm": ".12730186",
+      "firm_name": "UNITED MICRO ELTN.",
+      "firm_nameNLA": "United Microelectronics Corp",
+      "tickNLA": "UTDME",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "TW0002303005"
+    },
+    {
+      "SortExpo": "347",
+      "expo_firm": ".1264835",
+      "firm_name": "DRAFTKINGS A",
+      "firm_nameNLA": "DraftKings Inc",
+      "tickNLA": "DKNG",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US26142V1052"
+    },
+    {
+      "SortExpo": "348",
+      "expo_firm": ".12531328",
+      "firm_name": "SYMBOLIC LOGIC",
+      "firm_nameNLA": "Symbolic Logic Inc",
+      "tickNLA": "EVOL",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US30049R2094"
+    },
+    {
+      "SortExpo": "349",
+      "expo_firm": ".12517399",
+      "firm_name": "TECH MAHINDRA",
+      "firm_nameNLA": "Tech Mahindra Ltd",
+      "tickNLA": "TEML",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE669C01036"
+    },
+    {
+      "SortExpo": "350",
+      "expo_firm": ".1251069",
+      "firm_name": "HF SINCLAIR",
+      "firm_nameNLA": "HF Sinclair Corp",
+      "tickNLA": "DINO",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US4039491000"
+    },
+    {
+      "SortExpo": "351",
+      "expo_firm": ".12437811",
+      "firm_name": "BITTIUM",
+      "firm_nameNLA": "Bittium Oyj",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "FI0009007264"
+    },
+    {
+      "SortExpo": "352",
+      "expo_firm": ".12429069",
+      "firm_name": "KUDELSKI 'B'",
+      "firm_nameNLA": "Kudelski SA",
+      "tickNLA": "KUD",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CH0012268360"
+    },
+    {
+      "SortExpo": "353",
+      "expo_firm": ".12350435",
+      "firm_name": "SINGAPORE EXCHANGE",
+      "firm_nameNLA": "Singapore Exchange Ltd",
+      "tickNLA": "SGXL",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "SG1J26887955"
+    },
+    {
+      "SortExpo": "354",
+      "expo_firm": ".1227936",
+      "firm_name": "SK HYNIX",
+      "firm_nameNLA": "SK Hynix Inc",
+      "tickNLA": "HXSCF",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KR7000660001"
+    },
+    {
+      "SortExpo": "355",
+      "expo_firm": ".12261375",
+      "firm_name": "KINGDEE INTL. SOFTWARE GROUP",
+      "firm_nameNLA": "Kingdee International Software Group Co Ltd",
+      "tickNLA": "KININ",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG525681477"
+    },
+    {
+      "SortExpo": "356",
+      "expo_firm": ".12195122",
+      "firm_name": "BELIEVE DEAD - DELIST.05/08/25",
+      "firm_nameNLA": "Believe SA",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "FR0014003FE9"
+    },
+    {
+      "SortExpo": "357",
+      "expo_firm": ".12192497",
+      "firm_name": "VISLINK TECHNOLOGIES",
+      "firm_nameNLA": "Vislink Technologies Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US92836Y4098"
+    },
+    {
+      "SortExpo": "358",
+      "expo_firm": ".1218551",
+      "firm_name": "MANCHESTER UNITED CL.A",
+      "firm_nameNLA": "Manchester United PLC",
+      "tickNLA": "MANU",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KYG5784H1065"
+    },
+    {
+      "SortExpo": "359",
+      "expo_firm": ".12184736",
+      "firm_name": "GOLDMAN SACHS GP.",
+      "firm_nameNLA": "Goldman Sachs Group Inc",
+      "tickNLA": "GS",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US38141G1040"
+    },
+    {
+      "SortExpo": "360",
+      "expo_firm": ".12106538",
+      "firm_name": "GOLD ROYALTY",
+      "firm_nameNLA": "Gold Royalty Corp",
+      "tickNLA": "GROY",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "CA38071H1064"
+    },
+    {
+      "SortExpo": "361",
+      "expo_firm": ".12043478",
+      "firm_name": "PIONEER POWER SOLUTIONS",
+      "firm_nameNLA": "Pioneer Power Solutions Inc",
+      "tickNLA": "PPSI",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US7238363003"
+    },
+    {
+      "SortExpo": "362",
+      "expo_firm": ".1201923",
+      "firm_name": "GRINDROD",
+      "firm_nameNLA": "Grindrod Ltd",
+      "tickNLA": "GNDJ",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "ZAE000072328"
+    },
+    {
+      "SortExpo": "363",
+      "expo_firm": ".1192359",
+      "firm_name": "CGI A",
+      "firm_nameNLA": "CGI Inc",
+      "tickNLA": "GIB",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "CA12532H1047"
+    },
+    {
+      "SortExpo": "364",
+      "expo_firm": ".11857548",
+      "firm_name": "CI T A",
+      "firm_nameNLA": "Ci&T Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG213071064"
+    },
+    {
+      "SortExpo": "365",
+      "expo_firm": ".1183432",
+      "firm_name": "SPROTT PHYSICAL (ARC) GOLD TRUST USD",
+      "firm_nameNLA": "Sprott Physical Gold Trust",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA85207H1047"
+    },
+    {
+      "SortExpo": "366",
+      "expo_firm": ".11784474",
+      "firm_name": "CHOW TAI FOOK JEWELLERY GP.",
+      "firm_nameNLA": "Chow Tai Fook Jewellery Group Ltd",
+      "tickNLA": "CHTFK",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "KYG211461085"
+    },
+    {
+      "SortExpo": "367",
+      "expo_firm": ".11778563",
+      "firm_name": "APPEN",
+      "firm_nameNLA": "Appen Ltd",
+      "tickNLA": "APX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU000000APX3"
+    },
+    {
+      "SortExpo": "368",
+      "expo_firm": ".11764571",
+      "firm_name": "ALLOGENE THERAPEUTICS",
+      "firm_nameNLA": "Allogene Therapeutics Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US0197701065"
+    },
+    {
+      "SortExpo": "369",
+      "expo_firm": ".11675511",
+      "firm_name": "INFINITY PHARMACEUTICALS",
+      "firm_nameNLA": "Infinity Pharmaceuticals Inc",
+      "tickNLA": "INFI",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US45665G3039"
+    },
+    {
+      "SortExpo": "370",
+      "expo_firm": ".11665659",
+      "firm_name": "BK TECHNOLOGIES",
+      "firm_nameNLA": "BK Technologies Corp",
+      "tickNLA": "BKTI",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "US05587G2030"
+    },
+    {
+      "SortExpo": "371",
+      "expo_firm": ".11461988",
+      "firm_name": "STATE STREET",
+      "firm_nameNLA": "State Street Corp",
+      "tickNLA": "STT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US8574771031"
+    },
+    {
+      "SortExpo": "372",
+      "expo_firm": ".11313138",
+      "firm_name": "CONCENTRIX",
+      "firm_nameNLA": "Concentrix Corp",
+      "tickNLA": "CNXC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US20602D1019"
+    },
+    {
+      "SortExpo": "373",
+      "expo_firm": ".11300951",
+      "firm_name": "PROSEGUR CASH",
+      "firm_nameNLA": "Prosegur Cash SA",
+      "tickNLA": "CASHP",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "ES0105229001"
+    },
+    {
+      "SortExpo": "374",
+      "expo_firm": ".11280256",
+      "firm_name": "VALERO ENERGY",
+      "firm_nameNLA": "Valero Energy Corp",
+      "tickNLA": "VLO",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US91913Y1001"
+    },
+    {
+      "SortExpo": "375",
+      "expo_firm": ".11186066",
+      "firm_name": "AKER",
+      "firm_nameNLA": "Aker ASA",
+      "tickNLA": "AKER",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "NO0010234552"
+    },
+    {
+      "SortExpo": "376",
+      "expo_firm": ".11181954",
+      "firm_name": "BUILD A BEAR WORKSHOP",
+      "firm_nameNLA": "Build-A-Bear Workshop Inc",
+      "tickNLA": "BBW",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US1200761047"
+    },
+    {
+      "SortExpo": "377",
+      "expo_firm": ".11166946",
+      "firm_name": "ENDRA LIFE SCIENCES",
+      "firm_nameNLA": "ENDRA Life Sciences Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US29273B5003"
+    },
+    {
+      "SortExpo": "378",
+      "expo_firm": ".11086474",
+      "firm_name": "PACWEST BANCORP DEAD - DELIST.01/12/23",
+      "firm_nameNLA": "PacWest Bancorp",
+      "tickNLA": "BANCPC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US6952631033"
+    },
+    {
+      "SortExpo": "379",
+      "expo_firm": ".10929432",
+      "firm_name": "LI & FUNG DEAD - DELIST.28/05/20",
+      "firm_nameNLA": "LI & Fung Ltd",
+      "tickNLA": "NWEINF",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "BMG5485F1692"
+    },
+    {
+      "SortExpo": "380",
+      "expo_firm": ".10907308",
+      "firm_name": "LEXICON PHARMACEUTICALS",
+      "firm_nameNLA": "Lexicon Pharmaceuticals Inc",
+      "tickNLA": "LXRX",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US5288723027"
+    },
+    {
+      "SortExpo": "381",
+      "expo_firm": ".10869766",
+      "firm_name": "OTTER TAIL",
+      "firm_nameNLA": "Otter Tail Corp",
+      "tickNLA": "OTTR",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US6896481032"
+    },
+    {
+      "SortExpo": "382",
+      "expo_firm": ".10813733",
+      "firm_name": "GREE HOLDINGS",
+      "firm_nameNLA": "Gree Inc",
+      "tickNLA": "GREIC",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "JP3274070006"
+    },
+    {
+      "SortExpo": "383",
+      "expo_firm": ".10735373",
+      "firm_name": "DECIPHERA PHARMS. DEAD - DELIST.12/06/24",
+      "firm_nameNLA": "Deciphera Pharmaceuticals Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US24344T1016"
+    },
+    {
+      "SortExpo": "384",
+      "expo_firm": ".10700619",
+      "firm_name": "BURSA MALAYSIA",
+      "firm_nameNLA": "Bursa Malaysia Bhd",
+      "tickNLA": "BMYS",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "MYL1818OO003"
+    },
+    {
+      "SortExpo": "385",
+      "expo_firm": ".10686579",
+      "firm_name": "CLOUDFLARE A",
+      "firm_nameNLA": "Cloudflare Inc",
+      "tickNLA": "NET",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US18915M1071"
+    },
+    {
+      "SortExpo": "386",
+      "expo_firm": ".10620048",
+      "firm_name": "NERDWALLET A",
+      "firm_nameNLA": "Nerdwallet Inc",
+      "tickNLA": "NRDS",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US64082B1026"
+    },
+    {
+      "SortExpo": "387",
+      "expo_firm": ".1059322",
+      "firm_name": "BRAGG GAMING GROUP",
+      "firm_nameNLA": "Bragg Gaming Group Inc",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "CA1048333068"
+    },
+    {
+      "SortExpo": "388",
+      "expo_firm": ".10580596",
+      "firm_name": "ACACIA RESH.-ACI.TECHS.",
+      "firm_nameNLA": "Acacia Research Corp",
+      "tickNLA": "ACTG",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US0038813079"
+    },
+    {
+      "SortExpo": "389",
+      "expo_firm": ".10578255",
+      "firm_name": "S&P GLOBAL",
+      "firm_nameNLA": "S&P Global Inc",
+      "tickNLA": "SPGI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US78409V1044"
+    },
+    {
+      "SortExpo": "390",
+      "expo_firm": ".10548523",
+      "firm_name": "NCB FINANCIAL GROUP",
+      "firm_nameNLA": "NCB Financial Group Ltd",
+      "tickNLA": "NCBFG",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JME201700064"
+    },
+    {
+      "SortExpo": "391",
+      "expo_firm": ".10433305",
+      "firm_name": "DIGITAL CHINA HDG.",
+      "firm_nameNLA": "Digital China Holdings Ltd",
+      "tickNLA": "DIHLS",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "BMG2759B1072"
+    },
+    {
+      "SortExpo": "392",
+      "expo_firm": ".10432538",
+      "firm_name": "GLOBAL PAYMENTS",
+      "firm_nameNLA": "Global Payments Inc",
+      "tickNLA": "GPN",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US37940X1028"
+    },
+    {
+      "SortExpo": "393",
+      "expo_firm": ".10416666",
+      "firm_name": "UGE INTERNATIONAL DEAD - DELIST.20/08/24",
+      "firm_nameNLA": "UGE International Ltd",
+      "tickNLA": "UGEING",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CA9035104020"
+    },
+    {
+      "SortExpo": "394",
+      "expo_firm": ".10405394",
+      "firm_name": "FTAI AVIATION",
+      "firm_nameNLA": "Fortress Transportation and Infrastructure Investors LLC",
+      "tickNLA": "FTAI",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "KYG3730V1059"
+    },
+    {
+      "SortExpo": "395",
+      "expo_firm": ".10393568",
+      "firm_name": "SYNCHRONOSS TECHNOLOGIES",
+      "firm_nameNLA": "Synchronoss Technologies Inc",
+      "tickNLA": "SNCR",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US87157B4005"
+    },
+    {
+      "SortExpo": "396",
+      "expo_firm": ".1038961",
+      "firm_name": "CHANGE HEALTHCARE DEAD - DELIST.04/10/22",
+      "firm_nameNLA": "Change Healthcare Inc",
+      "tickNLA": "UNHCH",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US15912K1007"
+    },
+    {
+      "SortExpo": "397",
+      "expo_firm": ".10386386",
+      "firm_name": "DAVE A",
+      "firm_nameNLA": "Dave Inc",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US23834J2015"
+    },
+    {
+      "SortExpo": "398",
+      "expo_firm": ".10331003",
+      "firm_name": "THERATECHNOLOGIES DEAD - DELIST.29/09/25",
+      "firm_nameNLA": "Theratechnologies Inc",
+      "tickNLA": "TH",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "CA88338H7040"
+    },
+    {
+      "SortExpo": "399",
+      "expo_firm": ".10317248",
+      "firm_name": "AFFIMED",
+      "firm_nameNLA": "Affimed NV",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "NL0015001ZQ0"
+    },
+    {
+      "SortExpo": "400",
+      "expo_firm": ".10309278",
+      "firm_name": "GRESHAM TECHNOLOGIES DEAD - DELIST.10/07/24",
+      "firm_nameNLA": "Gresham Technologies PLC",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB0008808825"
+    },
+    {
+      "SortExpo": "401",
+      "expo_firm": ".10258355",
+      "firm_name": "SEI INVESTMENTS",
+      "firm_nameNLA": "SEI Investments Co",
+      "tickNLA": "SEIC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US7841171033"
+    },
+    {
+      "SortExpo": "402",
+      "expo_firm": ".10193679",
+      "firm_name": "ADVERUM BIOTCHS.",
+      "firm_nameNLA": "Adverum Biotechnologies Inc",
+      "tickNLA": "ADVM",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US00773U2078"
+    },
+    {
+      "SortExpo": "403",
+      "expo_firm": ".10188998",
+      "firm_name": "CYREN",
+      "firm_nameNLA": "Cyren Ltd",
+      "tickNLA": "CYRN",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "IL0010832371"
+    },
+    {
+      "SortExpo": "404",
+      "expo_firm": ".10080645",
+      "firm_name": "MOLTEN VENTURES",
+      "firm_nameNLA": "Molten Ventures PLC",
+      "tickNLA": "GROWX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00BY7QYJ50"
+    },
+    {
+      "SortExpo": "405",
+      "expo_firm": ".10060363",
+      "firm_name": "WITAN INV.TRUST DEAD - DELIST.03/10/24",
+      "firm_nameNLA": "Witan Investment Trust PLC",
+      "tickNLA": "WNITT",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "GB00BJTRSD38"
+    },
+    {
+      "SortExpo": "406",
+      "expo_firm": ".1005687",
+      "firm_name": "ARCUS BIOSCIENCES",
+      "firm_nameNLA": "Arcus Biosciences Inc",
+      "tickNLA": "RCUS",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US03969F1093"
+    },
+    {
+      "SortExpo": "407",
+      "expo_firm": ".10016783",
+      "firm_name": "BEL FUSE 'A'",
+      "firm_nameNLA": "Bel Fuse Inc",
+      "tickNLA": "BELFA",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US0773472016"
+    },
+    {
+      "SortExpo": "408",
+      "expo_firm": ".099072993",
+      "firm_name": "FLUSHING FINANCIAL",
+      "firm_nameNLA": "Flushing Financial Corp",
+      "tickNLA": "FFIC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US3438731057"
+    },
+    {
+      "SortExpo": "409",
+      "expo_firm": ".097961597",
+      "firm_name": "TOSEI CORPORATION",
+      "firm_nameNLA": "Tosei Corp",
+      "tickNLA": "TOSEI",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "JP3595070008"
+    },
+    {
+      "SortExpo": "410",
+      "expo_firm": ".097432166",
+      "firm_name": "SIMCORP DEAD - DELIST.31/10/23",
+      "firm_nameNLA": "Simcorp A/S",
+      "tickNLA": "SIMX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "DK0060495240"
+    },
+    {
+      "SortExpo": "411",
+      "expo_firm": ".097015187",
+      "firm_name": "COWEN CLASS A DEAD - DELIST.02/03/23",
+      "firm_nameNLA": "Cowen Inc",
+      "tickNLA": "TDCOW",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US2236226062"
+    },
+    {
+      "SortExpo": "412",
+      "expo_firm": ".095094219",
+      "firm_name": "EPIZYME DEAD - DELIST.15/08/22",
+      "firm_nameNLA": "Epizyme Inc",
+      "tickNLA": "EPZM",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US29428V1044"
+    },
+    {
+      "SortExpo": "413",
+      "expo_firm": ".095036387",
+      "firm_name": "RBB BANCORP",
+      "firm_nameNLA": "RBB Bancorp",
+      "tickNLA": "RBB",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US74930B1052"
+    },
+    {
+      "SortExpo": "414",
+      "expo_firm": ".094903089",
+      "firm_name": "SALESFORCE",
+      "firm_nameNLA": "Salesforce Inc",
+      "tickNLA": "CRM",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US79466L3024"
+    },
+    {
+      "SortExpo": "415",
+      "expo_firm": ".093961626",
+      "firm_name": "ONESPAN",
+      "firm_nameNLA": "OneSpan Inc",
+      "tickNLA": "OSPN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US68287N1000"
+    },
+    {
+      "SortExpo": "416",
+      "expo_firm": ".093531668",
+      "firm_name": "ONCOINVENT",
+      "firm_nameNLA": "Bergenbio ASA",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "NO0013251173"
+    },
+    {
+      "SortExpo": "417",
+      "expo_firm": ".092796221",
+      "firm_name": "TESLA",
+      "firm_nameNLA": "Tesla Inc",
+      "tickNLA": "TSLA",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US88160R1014"
+    },
+    {
+      "SortExpo": "418",
+      "expo_firm": ".092542581",
+      "firm_name": "GOLD",
+      "firm_nameNLA": "A-Mark Precious Metals Inc",
+      "tickNLA": "AMRKX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US00181T1079"
+    },
+    {
+      "SortExpo": "419",
+      "expo_firm": ".092323929",
+      "firm_name": "NANO DIMENSION SPONSORED 1 ADR 1:1",
+      "firm_nameNLA": "Nano Dimension Ltd",
+      "tickNLA": "BNEB",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US63008G2030"
+    },
+    {
+      "SortExpo": "420",
+      "expo_firm": ".091673866",
+      "firm_name": "AVID TECHNOLOGY DEAD - DELIST.08/11/23",
+      "firm_nameNLA": "Avid Technology Inc",
+      "tickNLA": "ARTIAV",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US05367P1003"
+    },
+    {
+      "SortExpo": "421",
+      "expo_firm": ".091185406",
+      "firm_name": "TON STRATEGY",
+      "firm_nameNLA": "Verb Technology Company Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US92337U3023"
+    },
+    {
+      "SortExpo": "422",
+      "expo_firm": ".090972424",
+      "firm_name": "FOX A",
+      "firm_nameNLA": "Fox Corp",
+      "tickNLA": "FOXA",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US35137L1052"
+    },
+    {
+      "SortExpo": "423",
+      "expo_firm": ".090887383",
+      "firm_name": "DLOCAL A",
+      "firm_nameNLA": "Dlocal Ltd",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "KYG290181018"
+    },
+    {
+      "SortExpo": "424",
+      "expo_firm": ".090330392",
+      "firm_name": "IRIDEX",
+      "firm_nameNLA": "IRIDEX Corp",
+      "tickNLA": "IRIX",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US4626841013"
+    },
+    {
+      "SortExpo": "425",
+      "expo_firm": ".090116277",
+      "firm_name": "SSH COMMUNICATIONS SECURITY",
+      "firm_nameNLA": "SSH Communications Security Oyj",
+      "tickNLA": "SSHAV",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "FI0009008270"
+    },
+    {
+      "SortExpo": "426",
+      "expo_firm": ".090082169",
+      "firm_name": "SRAX A",
+      "firm_nameNLA": "SRAX Inc",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US78472M1062"
+    },
+    {
+      "SortExpo": "427",
+      "expo_firm": ".089619398",
+      "firm_name": "SEAGATE TECHNOLOGY HOLDINGS",
+      "firm_nameNLA": "Seagate Technology PLC",
+      "tickNLA": "SEGTC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "IE00BKVD2N49"
+    },
+    {
+      "SortExpo": "428",
+      "expo_firm": ".089565605",
+      "firm_name": "GEE GROUP",
+      "firm_nameNLA": "GEE Group Inc",
+      "tickNLA": "JOB",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US36165A1025"
+    },
+    {
+      "SortExpo": "429",
+      "expo_firm": ".089231975",
+      "firm_name": "JP MORGAN CHASE & CO.",
+      "firm_nameNLA": "JPMorgan Chase & Co",
+      "tickNLA": "JPM",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US46625H1005"
+    },
+    {
+      "SortExpo": "430",
+      "expo_firm": ".088495575",
+      "firm_name": "SEVEN BANK",
+      "firm_nameNLA": "Seven Bank Ltd",
+      "tickNLA": "SEVBK",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "JP3105220002"
+    },
+    {
+      "SortExpo": "431",
+      "expo_firm": ".088320859",
+      "firm_name": "MCEWEN MINING",
+      "firm_nameNLA": "McEwen Mining Inc",
+      "tickNLA": "MUX",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "US58039P3055"
+    },
+    {
+      "SortExpo": "432",
+      "expo_firm": ".087671734",
+      "firm_name": "DENA",
+      "firm_nameNLA": "DeNA Co Ltd",
+      "tickNLA": "DENAC",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "JP3548610009"
+    },
+    {
+      "SortExpo": "433",
+      "expo_firm": ".087530136",
+      "firm_name": "MARKETAXESS HOLDINGS",
+      "firm_nameNLA": "Marketaxess Holdings Inc",
+      "tickNLA": "MKTX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US57060D1081"
+    },
+    {
+      "SortExpo": "434",
+      "expo_firm": ".087165497",
+      "firm_name": "CURIOSITYSTREAM A",
+      "firm_nameNLA": "CuriosityStream Inc",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US23130Q1076"
+    },
+    {
+      "SortExpo": "435",
+      "expo_firm": ".087115772",
+      "firm_name": "GLOBE TELECOM",
+      "firm_nameNLA": "Globe Telecom Inc",
+      "tickNLA": "GLO",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "PHY272571498"
+    },
+    {
+      "SortExpo": "436",
+      "expo_firm": ".087108016",
+      "firm_name": "LUCKIN COFFEE ADR 1:8",
+      "firm_nameNLA": "Luckin Coffee Inc",
+      "tickNLA": "LCOA",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US54951L1098"
+    },
+    {
+      "SortExpo": "437",
+      "expo_firm": ".0868356",
+      "firm_name": "SOFTBANK GROUP",
+      "firm_nameNLA": "SoftBank Group Corp",
+      "tickNLA": "SFTBK",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "JP3436100006"
+    },
+    {
+      "SortExpo": "438",
+      "expo_firm": ".086002663",
+      "firm_name": "NOVABRIDGE BIOSCIENCES ADR 10:23",
+      "firm_nameNLA": "I-Mab",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US44975P1030"
+    },
+    {
+      "SortExpo": "439",
+      "expo_firm": ".085125446",
+      "firm_name": "GETTY IMAGES HOLDINGS A",
+      "firm_nameNLA": "Getty Images Holdings Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US3742751056"
+    },
+    {
+      "SortExpo": "440",
+      "expo_firm": ".085088059",
+      "firm_name": "PLDT",
+      "firm_nameNLA": "PLDT Inc",
+      "tickNLA": "PHI",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "PHY7072Q1032"
+    },
+    {
+      "SortExpo": "441",
+      "expo_firm": ".085034013",
+      "firm_name": "PROCESSA PHARMACEUTICALS",
+      "firm_nameNLA": "Processa Pharmaceuticals Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US74275C3043"
+    },
+    {
+      "SortExpo": "442",
+      "expo_firm": ".084696859",
+      "firm_name": "MICRON TECHNOLOGY",
+      "firm_nameNLA": "Micron Technology Inc",
+      "tickNLA": "MU",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US5951121038"
+    },
+    {
+      "SortExpo": "443",
+      "expo_firm": ".084575072",
+      "firm_name": "MSCI",
+      "firm_nameNLA": "MSCI Inc",
+      "tickNLA": "MSCI",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US55354G1004"
+    },
+    {
+      "SortExpo": "444",
+      "expo_firm": ".08361204",
+      "firm_name": "NETGEAR",
+      "firm_nameNLA": "NETGEAR Inc",
+      "tickNLA": "NTGR",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "US64111Q1040"
+    },
+    {
+      "SortExpo": "445",
+      "expo_firm": ".083565861",
+      "firm_name": "USA TODAY",
+      "firm_nameNLA": "Gannett Co Inc",
+      "tickNLA": "GCI",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US36472T1097"
+    },
+    {
+      "SortExpo": "446",
+      "expo_firm": ".082597144",
+      "firm_name": "CORVUS PHARMACEUTICALS",
+      "firm_nameNLA": "Corvus Pharmaceuticals Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US2210151005"
+    },
+    {
+      "SortExpo": "447",
+      "expo_firm": ".082258053",
+      "firm_name": "BE SEMICONDUCTOR INDUSTRIES",
+      "firm_nameNLA": "BE Semiconductor Industries NV",
+      "tickNLA": "BESI",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "NL0012866412"
+    },
+    {
+      "SortExpo": "448",
+      "expo_firm": ".081002265",
+      "firm_name": "FIVE BELOW",
+      "firm_nameNLA": "Five Below Inc",
+      "tickNLA": "FIVE",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US33829M1018"
+    },
+    {
+      "SortExpo": "449",
+      "expo_firm": ".080775447",
+      "firm_name": "DP WORLD DEAD - DELIST.23/06/20",
+      "firm_nameNLA": "DP World Ltd",
+      "tickNLA": "DBWLDW",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "AEDFXA0M6V00"
+    },
+    {
+      "SortExpo": "450",
+      "expo_firm": ".080290206",
+      "firm_name": "EMIS GROUP DEAD - DELIST.31/10/23",
+      "firm_nameNLA": "EMIS Group PLC",
+      "tickNLA": "EMISG",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "GB00B61D1Y04"
+    },
+    {
+      "SortExpo": "451",
+      "expo_firm": ".079936057",
+      "firm_name": "OPEN LENDING",
+      "firm_nameNLA": "Open Lending Corp",
+      "tickNLA": "LPRO",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US68373J1043"
+    },
+    {
+      "SortExpo": "452",
+      "expo_firm": ".07993605",
+      "firm_name": "FIDUCIAN GROUP",
+      "firm_nameNLA": "Fiducian Group Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "AU000000FID9"
+    },
+    {
+      "SortExpo": "453",
+      "expo_firm": ".079774387",
+      "firm_name": "HERCULES CAPITAL",
+      "firm_nameNLA": "Hercules Capital Inc",
+      "tickNLA": "HTGC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US4270965084"
+    },
+    {
+      "SortExpo": "454",
+      "expo_firm": ".079744816",
+      "firm_name": "MEGAFON",
+      "firm_nameNLA": "MegaFon PAO",
+      "tickNLA": "MFON",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "RU000A0JS942"
+    },
+    {
+      "SortExpo": "455",
+      "expo_firm": ".079744816",
+      "firm_name": "IGM BIOSCIENCES DEAD - DELIST.15/08/25",
+      "firm_nameNLA": "IGM Biosciences Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US4495851085"
+    },
+    {
+      "SortExpo": "456",
+      "expo_firm": ".079617836",
+      "firm_name": "GROVE COLLABORATIVE HOLDINGS A",
+      "firm_nameNLA": "Grove Collaborative Holdings Inc",
+      "tickNLA": "",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US39957D2018"
+    },
+    {
+      "SortExpo": "457",
+      "expo_firm": ".078616351",
+      "firm_name": "PALFINGER",
+      "firm_nameNLA": "Palfinger AG",
+      "tickNLA": "PALF",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "AT0000758305"
+    },
+    {
+      "SortExpo": "458",
+      "expo_firm": ".078384355",
+      "firm_name": "SK TELECOM",
+      "firm_nameNLA": "SK Telecom Co Ltd",
+      "tickNLA": "SKGTE",
+      "sct_str": "CommServices",
+      "sct_str_long": "Communication Services",
+      "id_str": "KR7017670001"
+    },
+    {
+      "SortExpo": "459",
+      "expo_firm": ".078087106",
+      "firm_name": "IAC",
+      "firm_nameNLA": "IAC/Interactivecorp",
+      "tickNLA": "IAC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US44891N2080"
+    },
+    {
+      "SortExpo": "460",
+      "expo_firm": ".078008682",
+      "firm_name": "DE LA RUE ORD DEAD - DELIST.03/07/25",
+      "firm_nameNLA": "De La Rue PLC",
+      "tickNLA": "DLAR",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "GB00B3DGH821"
+    },
+    {
+      "SortExpo": "461",
+      "expo_firm": ".077881619",
+      "firm_name": "SIGMAROC",
+      "firm_nameNLA": "Sigmaroc PLC",
+      "tickNLA": "SRCX",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "GB00BYX5K988"
+    },
+    {
+      "SortExpo": "462",
+      "expo_firm": ".077570923",
+      "firm_name": "BUREAU VERITAS",
+      "firm_nameNLA": "Bureau Veritas SA",
+      "tickNLA": "BVI",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "FR0006174348"
+    },
+    {
+      "SortExpo": "463",
+      "expo_firm": ".07751938",
+      "firm_name": "OMNIQ",
+      "firm_nameNLA": "Omniq Corp",
+      "tickNLA": "OMQS",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US68217M1071"
+    },
+    {
+      "SortExpo": "464",
+      "expo_firm": ".077011488",
+      "firm_name": "TUI N",
+      "firm_nameNLA": "Tui AG",
+      "tickNLA": "TUIA",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "DE000TUAG505"
+    },
+    {
+      "SortExpo": "465",
+      "expo_firm": ".07692308",
+      "firm_name": "AGRICULTURAL BANK OF CHINA 'A'",
+      "firm_nameNLA": "Agricultural Bank of China Ltd",
+      "tickNLA": "AGBKC",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CNE100000RJ0"
+    },
+    {
+      "SortExpo": "466",
+      "expo_firm": ".076808646",
+      "firm_name": "CVR ENERGY",
+      "firm_nameNLA": "CVR Energy Inc",
+      "tickNLA": "CVI",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US12662P1084"
+    },
+    {
+      "SortExpo": "467",
+      "expo_firm": ".076757662",
+      "firm_name": "JULIUS BAER GRUPPE",
+      "firm_nameNLA": "Julius Baer Gruppe AG",
+      "tickNLA": "BAER",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CH0102484968"
+    },
+    {
+      "SortExpo": "468",
+      "expo_firm": ".076531045",
+      "firm_name": "MORGAN STANLEY",
+      "firm_nameNLA": "Morgan Stanley",
+      "tickNLA": "MS",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US6174464486"
+    },
+    {
+      "SortExpo": "469",
+      "expo_firm": ".076415703",
+      "firm_name": "ELIA GROUP",
+      "firm_nameNLA": "Elia Group SA",
+      "tickNLA": "ELI",
+      "sct_str": "Utilities",
+      "sct_str_long": "Utilities",
+      "id_str": "BE0003822393"
+    },
+    {
+      "SortExpo": "470",
+      "expo_firm": ".076024108",
+      "firm_name": "ATA CREATIVITY GLOBAL ADR 1:2",
+      "firm_nameNLA": "ATA Creativity Global",
+      "tickNLA": "AACG",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US00211V1061"
+    },
+    {
+      "SortExpo": "471",
+      "expo_firm": ".075919606",
+      "firm_name": "BOLSA MEXICANA DE VALORES",
+      "firm_nameNLA": "Bolsa Mexicana de Valores SAB de CV",
+      "tickNLA": "BOLSX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "MX01BM1B0000"
+    },
+    {
+      "SortExpo": "472",
+      "expo_firm": ".075734109",
+      "firm_name": "EXPENSIFY A",
+      "firm_nameNLA": "Expensify Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US30219Q1067"
+    },
+    {
+      "SortExpo": "473",
+      "expo_firm": ".075622424",
+      "firm_name": "EGAIN",
+      "firm_nameNLA": "eGain Corp",
+      "tickNLA": "EGAN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "US28225C8064"
+    },
+    {
+      "SortExpo": "474",
+      "expo_firm": ".074864313",
+      "firm_name": "AEMETIS",
+      "firm_nameNLA": "Aemetis Inc",
+      "tickNLA": "AMTXX",
+      "sct_str": "Energy",
+      "sct_str_long": "Energy",
+      "id_str": "US00770K2024"
+    },
+    {
+      "SortExpo": "475",
+      "expo_firm": ".074850298",
+      "firm_name": "3I INFOTECH",
+      "firm_nameNLA": "3i Infotech Ltd",
+      "tickNLA": "TIIN",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "INE748C01038"
+    },
+    {
+      "SortExpo": "476",
+      "expo_firm": ".07449764",
+      "firm_name": "MOLECULAR PARTNERS",
+      "firm_nameNLA": "Molecular Partners AG",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "CH0256379097"
+    },
+    {
+      "SortExpo": "477",
+      "expo_firm": ".074228533",
+      "firm_name": "MEDIVIR B",
+      "firm_nameNLA": "Medivir AB",
+      "tickNLA": "MVIR",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "SE0020181014"
+    },
+    {
+      "SortExpo": "478",
+      "expo_firm": ".073407389",
+      "firm_name": "PING AN INSURANCE (GP.) CO. OF CHINA 'A'",
+      "firm_nameNLA": "Ping An Insurance Group Co of China Ltd",
+      "tickNLA": "PINGA",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "CNE000001R84"
+    },
+    {
+      "SortExpo": "479",
+      "expo_firm": ".073314413",
+      "firm_name": "CHINA FINANCE ONLINE ADR 1:50",
+      "firm_nameNLA": "China Finance Online Co Ltd",
+      "tickNLA": "",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US1693792038"
+    },
+    {
+      "SortExpo": "480",
+      "expo_firm": ".073008671",
+      "firm_name": "HALL OF FAME RESORT ENTERTAINMENT",
+      "firm_nameNLA": "Hall of Fame Resort & Entertainment Co",
+      "tickNLA": "",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US40619L2016"
+    },
+    {
+      "SortExpo": "481",
+      "expo_firm": ".072764292",
+      "firm_name": "IRESS",
+      "firm_nameNLA": "Iress Ltd",
+      "tickNLA": "IREXX",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU000000IRE2"
+    },
+    {
+      "SortExpo": "482",
+      "expo_firm": ".072610661",
+      "firm_name": "REPAY HOLDINGS A",
+      "firm_nameNLA": "Repay Holdings Corp",
+      "tickNLA": "RPAY",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US76029L1008"
+    },
+    {
+      "SortExpo": "483",
+      "expo_firm": ".072300427",
+      "firm_name": "Y MABS THERAPEUTICS DEAD - DELIST.17/09/25",
+      "firm_nameNLA": "Y-mAbs Therapeutics Inc",
+      "tickNLA": "",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US9842411095"
+    },
+    {
+      "SortExpo": "484",
+      "expo_firm": ".071729891",
+      "firm_name": "KINGSOFT",
+      "firm_nameNLA": "Kingsoft Corp Ltd",
+      "tickNLA": "KINCO",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "KYG5264Y1089"
+    },
+    {
+      "SortExpo": "485",
+      "expo_firm": ".071138985",
+      "firm_name": "MATTEL",
+      "firm_nameNLA": "Mattel Inc",
+      "tickNLA": "MAT",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US5770811025"
+    },
+    {
+      "SortExpo": "486",
+      "expo_firm": ".071120843",
+      "firm_name": "FB FINANCIAL",
+      "firm_nameNLA": "FB Financial Corp",
+      "tickNLA": "FBKX",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US30257X1046"
+    },
+    {
+      "SortExpo": "487",
+      "expo_firm": ".070898876",
+      "firm_name": "FTI CONSULTING",
+      "firm_nameNLA": "FTI Consulting Inc",
+      "tickNLA": "FCN",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US3029411093"
+    },
+    {
+      "SortExpo": "488",
+      "expo_firm": ".070832036",
+      "firm_name": "SUDARSHAN CHEMICALS",
+      "firm_nameNLA": "Sudarshan Chemical Industries Ltd",
+      "tickNLA": "SDCHX",
+      "sct_str": "Materials",
+      "sct_str_long": "Materials",
+      "id_str": "INE659A01023"
+    },
+    {
+      "SortExpo": "489",
+      "expo_firm": ".070771128",
+      "firm_name": "ICON",
+      "firm_nameNLA": "ICON PLC",
+      "tickNLA": "ICLR",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "IE0005711209"
+    },
+    {
+      "SortExpo": "490",
+      "expo_firm": ".070385531",
+      "firm_name": "STARBUCKS",
+      "firm_nameNLA": "Starbucks Corp",
+      "tickNLA": "SBUX",
+      "sct_str": "ConsumerDisc",
+      "sct_str_long": "Consumer Discretionary",
+      "id_str": "US8552441094"
+    },
+    {
+      "SortExpo": "491",
+      "expo_firm": ".070106007",
+      "firm_name": "NORTHERN TRUST",
+      "firm_nameNLA": "Northern Trust Corp",
+      "tickNLA": "NTRS",
+      "sct_str": "Financials",
+      "sct_str_long": "Financials",
+      "id_str": "US6658591044"
+    },
+    {
+      "SortExpo": "492",
+      "expo_firm": ".070065103",
+      "firm_name": "FREELANCER",
+      "firm_nameNLA": "Freelancer Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "AU000000FLN2"
+    },
+    {
+      "SortExpo": "493",
+      "expo_firm": ".069930069",
+      "firm_name": "QIWI ADS B 1:1 DEAD - DELIST.26/07/24",
+      "firm_nameNLA": "Qiwi PLC",
+      "tickNLA": "QIWI",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US74735M1080"
+    },
+    {
+      "SortExpo": "494",
+      "expo_firm": ".069817401",
+      "firm_name": "GLOBAL E ONLINE",
+      "firm_nameNLA": "Global-E Online Ltd",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "IL0011741688"
+    },
+    {
+      "SortExpo": "495",
+      "expo_firm": ".06963788",
+      "firm_name": "INVESTIS HOLDING",
+      "firm_nameNLA": "Investis Holding SA",
+      "tickNLA": "IREN",
+      "sct_str": "RealEstate",
+      "sct_str_long": "RealEstate",
+      "id_str": "CH0325094297"
+    },
+    {
+      "SortExpo": "496",
+      "expo_firm": ".069444448",
+      "firm_name": "ICAHN ENTERPRISES",
+      "firm_nameNLA": "Icahn Enterprises LP",
+      "tickNLA": "IEP",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "US4511001012"
+    },
+    {
+      "SortExpo": "497",
+      "expo_firm": ".069056183",
+      "firm_name": "VOXELJET ADR 1:1 DEAD - DELIST.07/11/25",
+      "firm_nameNLA": "Voxeljet AG",
+      "tickNLA": "VJTTY",
+      "sct_str": "Healthcare",
+      "sct_str_long": "Health Care",
+      "id_str": "US92912L2060"
+    },
+    {
+      "SortExpo": "498",
+      "expo_firm": ".068906114",
+      "firm_name": "EQUINITI GROUP DEAD - DELIST.13/12/21",
+      "firm_nameNLA": "Equiniti Group Ltd",
+      "tickNLA": "EQINY",
+      "sct_str": "Industrials",
+      "sct_str_long": "Industrials",
+      "id_str": "GB00BYWWHR75"
+    },
+    {
+      "SortExpo": "499",
+      "expo_firm": ".068783656",
+      "firm_name": "TREND MICRO",
+      "firm_nameNLA": "Trend Micro Inc",
+      "tickNLA": "TMIC",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3637300009"
+    },
+    {
+      "SortExpo": "500",
+      "expo_firm": ".068681315",
+      "firm_name": "KAKAKU.COM",
+      "firm_nameNLA": "Kakaku.com Inc",
+      "tickNLA": "",
+      "sct_str": "IT",
+      "sct_str_long": "Information Technology",
+      "id_str": "JP3206000006"
+    }
+  ]
+}

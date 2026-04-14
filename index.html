@@ -1,0 +1,381 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Crypto Shocks</title>
+  <style>
+    :root {
+      --bg: #edf3fb;
+      --panel: rgba(255, 255, 255, 0.84);
+      --panel-strong: #ffffff;
+      --text: #142237;
+      --muted: #516178;
+      --line: rgba(23, 32, 51, 0.12);
+      --accent: #386cb0;
+      --accent-strong: #284e86;
+      --accent-soft: #dce8f8;
+      --shadow: 0 22px 60px rgba(23, 32, 51, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(56, 108, 176, 0.18), transparent 32%),
+        radial-gradient(circle at 85% 15%, rgba(56, 108, 176, 0.12), transparent 24%),
+        linear-gradient(180deg, #f8fbff 0%, var(--bg) 52%, #f7faff 100%);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, 0.42) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.42) 1px, transparent 1px);
+      background-size: 28px 28px;
+      mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.52), transparent 82%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .shell {
+      position: relative;
+      z-index: 1;
+      width: min(1120px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 1.5rem 0 4rem;
+    }
+
+    .masthead {
+      margin-bottom: 2rem;
+      padding: 0.5rem 0;
+    }
+
+    .brand {
+      font-size: 0.92rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent-strong);
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.85fr) minmax(280px, 0.8fr);
+      gap: 1.4rem;
+      align-items: start;
+    }
+
+    .hero-main {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .hero-panel,
+    .hero-card,
+    .download-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    .hero-panel {
+      padding: 2.7rem;
+      min-height: 100%;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.95rem;
+      margin-top: 1.2rem;
+    }
+
+    .hero-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: auto;
+      padding: 0;
+      border: 0;
+      background: none;
+      color: var(--accent-strong);
+      font-weight: 700;
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      letter-spacing: -0.03em;
+    }
+
+    h1 {
+      max-width: 18ch;
+      margin-bottom: 1rem;
+      font-size: clamp(2.7rem, 5.2vw, 4.45rem);
+      line-height: 0.95;
+    }
+
+    .title-line {
+      display: block;
+    }
+
+    .lead {
+      max-width: 74ch;
+      margin: 0 0 1rem;
+      font-size: 1.08rem;
+      color: var(--muted);
+    }
+
+    .hero-rail {
+      display: grid;
+      gap: 1rem;
+    }
+
+    .hero-card {
+      display: grid;
+      gap: 0.75rem;
+      padding: 1.25rem 1.35rem;
+      transition: transform 160ms ease, box-shadow 160ms ease;
+    }
+
+    .hero-card:hover,
+    .download-card:hover {
+      transform: translateY(-2px);
+    }
+
+    .card-kicker {
+      display: inline-flex;
+      width: fit-content;
+      align-items: center;
+      padding: 0.35rem 0.65rem;
+      border-radius: 999px;
+      background: rgba(56, 108, 176, 0.12);
+      color: var(--accent-strong);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .download-kicker {
+      display: inline-flex;
+      width: fit-content;
+      align-items: center;
+      padding: 0.35rem 0.65rem;
+      border-radius: 999px;
+      background: rgba(56, 108, 176, 0.12);
+      color: var(--accent-strong);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 0.55rem;
+    }
+
+    .hero-card h2 {
+      font-size: 1.28rem;
+      line-height: 1.08;
+    }
+
+    .hero-card p,
+    .download-card p,
+    .footer-note p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card-link,
+    .download-links a {
+      color: var(--accent-strong);
+      font-weight: 700;
+    }
+
+    .card-links {
+      display: grid;
+      gap: 0.15rem;
+    }
+
+    .downloads-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+    }
+
+    .download-card {
+      padding: 1.4rem;
+    }
+
+    .download-card h3 {
+      margin-bottom: 0.55rem;
+      font-size: 1.28rem;
+      line-height: 1.08;
+    }
+
+    .download-note {
+      margin-top: 0.85rem;
+      font-size: 0.92rem;
+    }
+
+    .download-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.95rem;
+      margin-top: 1rem;
+    }
+
+    .footer-note {
+      margin-top: 2.6rem;
+      padding: 1rem 0.25rem 0;
+      border-top: 1px solid var(--line);
+      font-size: 0.94rem;
+    }
+
+    @media (max-width: 920px) {
+      .hero,
+      .downloads-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-panel {
+        padding: 2rem;
+      }
+
+      h1 {
+        max-width: none;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .shell {
+        width: min(100% - 1.25rem, 1120px);
+        padding-top: 1rem;
+      }
+
+      .hero-panel,
+      .hero-card,
+      .download-card {
+        border-radius: 20px;
+      }
+
+      .hero-panel,
+      .hero-card,
+      .download-card {
+        padding: 1.25rem;
+      }
+
+      .download-links {
+        gap: 0.45rem 0.95rem;
+      }
+
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <div class="brand">Crypto Shocks</div>
+    </header>
+
+    <section class="hero">
+      <div class="hero-main">
+        <div class="hero-panel">
+          <h1>
+            <span class="title-line">Tracing how crypto</span>
+            <span class="title-line">news moves the market</span>
+          </h1>
+          <p class="lead">
+            Can fluctuations in cryptocurrency prices cause movements in traditional financial asset prices? The paper addresses this question by constructing a new series of exogenous crypto shocks: cryptocurrency-price changes that are unrelated to developments in the real economy or traditional financial markets.
+          </p>
+          <p class="lead">
+            The identification strategy combines narrative, high-frequency, and large-language-model approaches, and the empirical analysis traces the effects of those shocks on firm-level equity prices. To capture heterogeneous transmission, the project also builds a quarterly crypto-exposure measure for 1,234 publicly listed firms across more than 50 countries using text analysis of earnings call transcripts.
+          </p>
+          <div class="hero-actions">
+            <a class="hero-button" href="docs/paper.pdf">Open paper →</a>
+            <a class="hero-button" href="docs/slides.pdf">Open slides →</a>
+          </div>
+        </div>
+
+        <div class="downloads-grid">
+          <div class="download-card">
+            <span class="download-kicker">Downloads</span>
+            <h3>Crypto Shocks</h3>
+            <p>Excel workbook and Stata dataset covering the selected crypto-event shocks used in the project outputs.</p>
+            <div class="download-links">
+              <a href="downloads/crypto_event_shocks.xlsx">Excel (.xlsx) →</a>
+              <a href="downloads/crypto_event_shocks.dta">Stata (.dta) →</a>
+            </div>
+          </div>
+
+          <div class="download-card">
+            <span class="download-kicker">Downloads</span>
+            <h3>Crypto Firms</h3>
+            <p>Excel workbook and Stata dataset covering the listed firms classified by the language-model workflow.</p>
+            <div class="download-links">
+              <a href="downloads/crypto_firm_classification.xlsx">Excel (.xlsx) →</a>
+              <a href="downloads/crypto_firm_classification.dta">Stata (.dta) →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <aside class="hero-rail">
+        <div class="hero-card">
+          <span class="card-kicker">Event Classification</span>
+          <h2>Classification of Crypto Events</h2>
+          <p>Event-by-event narrative analysis linking major crypto headlines to Bitcoin price moves, with timing assessments, certainty scores, and event charts.</p>
+          <div class="card-links">
+            <a class="card-link" href="docs/event_classification.pdf">Methodology and results (PDF) →</a>
+            <a class="card-link" href="LLMs/event-GPT-classification/event_report.html">Event-level report (HTML) →</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <span class="card-kicker">Firm Classification</span>
+          <h2>Classification of Crypto Firms</h2>
+          <p>Firm-level classification assigning fractional weights across crypto exposure channels using transcripts, filings, and financial news.</p>
+          <div class="card-links">
+            <a class="card-link" href="docs/firm_classification.pdf">Methodology and results (PDF) →</a>
+            <a class="card-link" href="LLMs/firm-GPT-classification/firm_report.html">Firm-level report (HTML) →</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <span class="card-kicker">Methodology</span>
+          <h2>Instructions and Python Loop</h2>
+          <p>Documentation for the prompt instructions and the Python scripts that iterate over the event images and firm list to generate the public outputs.</p>
+          <div class="card-links">
+            <a class="card-link" href="methodology.html">Open methodology page →</a>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <footer class="footer-note">
+      <p>The views expressed in this paper are those of the authors, and not necessarily those of the Bank of England, the Banque de France, the Eurosystem, or their committees.</p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,501 @@
+SortExpo,expo_firm,firm_name,firm_nameNLA,tickNLA,sct_str,sct_str_long,id_str
+1,19.972031,HIVE DIGITAL TECHNOLOGIES,HIVE Blockchain Technologies Ltd,,Financials,Financials,CA4339211035
+2,18.60994,BAKKT HOLDINGS A,Bakkt Holdings Inc,BKKT,Financials,Financials,US05759B3050
+3,18.551285,COINBASE GLOBAL A,Coinbase Global Inc,COIN,Financials,Financials,US19260Q1076
+4,18.185083,DEFI TECHNOLOGIES,DeFi Technologies Inc,,Financials,Financials,CA2449161025
+5,17.322834,OLB GROUP,OLB Group Inc,,Industrials,Industrials,US67086U4067
+6,16.554636,DMG BLOCKCHAIN SOLUTIONS,Dmg Blockchain Solutions Inc,,Financials,Financials,CA23345B2003
+7,15.331074,EXODUS MOVEMENT A,Exodus Movement Inc,,Financials,Financials,US30209R1068
+8,14.84375,WASTE ENERGY,Metaworks Platforms Inc,,IT,Information Technology,US23131W1036
+9,13.333957,STRATEGY A,MicroStrategy Inc,MSTR,IT,Information Technology,US5949724083
+10,12.945828,RIOT PLATFORMS,Riot Platforms Inc,RIOT,Financials,Financials,US7672921050
+11,12.55864,CLEANSPARK,CleanSpark Inc,CLSK,IT,Information Technology,US18452B2097
+12,12.345679,HALO COLLECTIVE DEAD - DELIST.15/08/23,Halo Collective Inc,HALOX,Materials,Materials,CA40638K7050
+13,12.321769,HUT 8,Hut 8 Mining Corp,HUTX,IT,Information Technology,US44812J1043
+14,12.113901,CIPHER MINING,Cipher Mining Inc,,IT,Information Technology,US17253J1060
+15,10.873433,MONEX GROUP,Monex Group Inc,MONEX,Financials,Financials,JP3869970008
+16,10.850852,INTCHAINS GROUP ADR 1:2,Intchains Group Ltd,,IT,Information Technology,US45828E1047
+17,10.828676,FRMO,FRMO Corp,FRMO,Financials,Financials,US30262F2056
+18,10.295614,MARA HOLDINGS,Marathon Digital Holdings Inc,MARHD,Financials,Financials,US5657881067
+19,9.7561321,VOYAGER DIGITAL (OTC),Voyager Digital Ltd,,Financials,Financials,CA92919V4055
+20,9.7541924,CANAAN ADR 1:15,Canaan Inc,,IT,Information Technology,US1347481020
+21,9.5048733,WEM ADE,Wemade Co Ltd,WEMAD,ConsumerDisc,Consumer Discretionary,KR7112040001
+22,9.203043,LM FUNDING AMERICA,LM Funding America Inc,,IT,Information Technology,US5020745031
+23,8.6084032,ARGO BLOCKCHAIN,Argo Blockchain PLC,ARB,IT,Information Technology,GB00BZ15CS02
+24,8.0311232,COINSHARES INTERNATIONAL,Coinshares International Ltd,,Financials,Financials,JE00BLD8Y945
+25,8.0018539,SILVERGATE CAPITAL A,Silvergate Capital Corp,SICPQ,Financials,Financials,US82837P4081
+26,7.9664707,IREN,Iris Energy Ltd,IRENX,IT,Information Technology,AU0000185993
+27,7.7371058,GMO INTERNET GROUP,GMO Internet Inc,GLMOL,IT,Information Technology,JP3152750000
+28,7.6123629,BITFARMS,Bitfarms Ltd,,IT,Information Technology,CA09173B1076
+29,7.3672972,BIT DIGITAL,Bit Digital Inc,,IT,Information Technology,KYG1144A1058
+30,6.6666665,BITDEER TECHNOLOGIES GROUP A,Bitdeer Technologies Group,BTDR,IT,Information Technology,KYG114481008
+31,6.5570936,CORE SCIENTIFIC,Core Scientific Inc,CORZ,IT,Information Technology,US21874A1060
+32,5.9630504,BANXA HOLDINGS,Banxa Holdings Inc,,Financials,Financials,CA06683R1010
+33,5.514564,US GLOBAL INVRS.,US Global Investors Inc,GROW,Financials,Financials,US9029521005
+34,5.3097343,REALBOTIX,Tokens.com Corp,,Financials,Financials,CA75604K1075
+35,5.0864081,WISDOMTREE,Wisdomtree Inc,WT,Financials,Financials,US97717P1049
+36,4.9703169,ROBINHOOD MARKETS A,Robinhood Markets Inc,HOOD,Financials,Financials,US7707001027
+37,4.477612,GOLDMONEY,GoldMoney Inc,,Financials,Financials,VGG4001R1047
+38,4.2305727,MOGO,Mogo Inc,MOGO,Financials,Financials,CA60800C2085
+39,4.1991301,XUNLEI CL.A ADR 1:5,Xunlei Ltd,,IT,Information Technology,US98419E1082
+40,4.173913,SWISSQUOTE 'R',Swissquote Group Holding SA,SQN,Financials,Financials,CH0010675863
+41,3.9132667,RIVALRY,Rivalry Corp,,ConsumerDisc,Consumer Discretionary,CA76803P1036
+42,3.8813047,WISDOMTREE PHYSICAL PLATINUM ETC,Wisdomtree Metal Securities Ltd,,Financials,Financials,JE00B1VS2W53
+43,3.4722221,VIVOPOWER INTERNATIONAL,VivoPower International PLC,,Utilities,Utilities,GB00BD3VDH82
+44,3.4675593,TERAWULF,Terawulf Inc,WULF,IT,Information Technology,US88080T1043
+45,3.396224,WISEKEY N,Wisekey International Holding AG,WIHN,IT,Information Technology,CH1276062754
+46,3.3271012,DOLPHIN ENTERTAINMENT,Dolphin Entertainment Inc,,ConsumerDisc,Consumer Discretionary,US25686H3084
+47,3.0434783,GMO GLOBALSIGN HOLDINGS KK,GMO GlobalSign Holdings KK,,IT,Information Technology,JP3386040004
+48,2.7735212,SBI HDG.,SBI Holdings Inc,SBIHD,Financials,Financials,JP3436120004
+49,2.7167921,SEMLER SCIENTIFIC,Semler Scientific Inc,SMLR,Healthcare,Health Care,US81684M1045
+50,2.5180745,COMPOSECURE A,CompoSecure Inc,RSOLCC,Industrials,Industrials,US20459V1052
+51,2.4900248,NANO LABS A,Nano Labs Ltd,,IT,Information Technology,KYG6391Y1281
+52,2.4289813,METROPOLITAN BANK HDG.,Metropolitan Bank Holding Corp,MCBXX,Financials,Financials,US5917741044
+53,2.4219258,FLOW TRADERS,Flow Traders NV,,Financials,Financials,BMG3602E1084
+54,2.1827638,ZYMEWORKS,Zymeworks Inc,,Healthcare,Health Care,US98985Y1082
+55,2.1780343,NUVEI SUBORDINATE VOTING DEAD - DELIST.19/11/24,Nuvei Corp,NUVEI,Industrials,Industrials,CA67079A1021
+56,2.1694448,RYVYL,Ryvyl Inc,RVYL,Industrials,Industrials,US39366L3078
+57,2.1328261,SPRINGWORKS THERAPEUTICS DEAD - DELIST.02/07/25,Springworks Therapeutics Inc,,Healthcare,Health Care,US85205L1070
+58,1.9869868,APPLIED DIGITAL,Applied Digital Corp,APLD,IT,Information Technology,US0381692070
+59,1.7831616,ASX,ASX Ltd,ASX,Financials,Financials,AU000000ASX7
+60,1.7453221,VIRTU FINANCIAL CL.A,Virtu Financial Inc,VIRT,Financials,Financials,US9282541013
+61,1.7215623,CLPS,CLPS Inc,,IT,Information Technology,KYG316421042
+62,1.6664964,BLOCK A,Block Inc,XYZ,Industrials,Industrials,US8522341036
+63,1.4721439,PLAYBOY,Plby Group Inc,PLBY,ConsStaples,Consumer Staples,US72814P1093
+64,1.421801,ROCKETFUEL BLOCKCHAIN,Rocketfuel Blockchain Inc,,Financials,Financials,US77313J1088
+65,1.3944952,ZIMVIE DEAD - DELIST.21/10/25,ZimVie Inc,ZIMV,Healthcare,Health Care,US98888T1079
+66,1.3821507,ZEDGE 'B',Zedge Inc,,IT,Information Technology,US98923T1043
+67,1.3544018,CONTANGO ORE,Contango ORE Inc,CTGO,Materials,Materials,US21077F1003
+68,1.3373232,FLATEXDEGIRO N,flatexDEGIRO AG,FTKN,Financials,Financials,DE000FTG1111
+69,1.2157881,1STDIBS COM,1stdibs.Com Inc,,IT,Information Technology,US3205511047
+70,1.1628782,PHUNWARE,Phunware Inc,,IT,Information Technology,US71948P2092
+71,1.136498,USIO,Usio Inc,USIO,Industrials,Industrials,US9173131080
+72,1.1301012,GAMESTOP 'A',GameStop Corp,GME,ConsumerDisc,Consumer Discretionary,US36467W1099
+73,1.119403,GLIMPSE GROUP,Glimpse Group Inc,,IT,Information Technology,US37892C1062
+74,1.1044469,TASKUS A,Taskus Inc,TASK,Industrials,Industrials,US87652V1098
+75,1.1038779,VERSABANK,VersaBank,VBNK,Financials,Financials,CA92512J1066
+76,1.1026849,GB GROUP,GB Group PLC,GBGP,IT,Information Technology,GB0006870611
+77,1.0711156,VISA 'A',Visa Inc,V,Industrials,Industrials,US92826C8394
+78,1.0611435,MASTERCARD,Mastercard Inc,MA,Industrials,Industrials,US57636Q1040
+79,1.0444568,OXBRIDGE RE HOLDINGS,Oxbridge Re Holdings Ltd,,Financials,Financials,KYG6856M1069
+80,.99727637,PAYSAFE,Paysafe Ltd,PSFE,Industrials,Industrials,BMG6964L2062
+81,.98142946,RF CAPITAL GROUP DEAD - DELIST.04/11/25,RF Capital Group Inc,RCG,Financials,Financials,CA74971G4016
+82,.97416127,CME GROUP,CME Group Inc,CME,Financials,Financials,US12572Q1058
+83,.95386565,NESTE,Neste Oyj,NESTE,Energy,Energy,FI0009013296
+84,.95349479,LEONTEQ,Leonteq AG,LEON,Financials,Financials,CH0190891181
+85,.94008267,XINYUAN REAL ESTATE ADR 1:20,Xinyuan Real Estate Co Ltd,XIN,RealEstate,RealEstate,US98417P2048
+86,.92392844,SIGNATURE BANK,Signature Bank,SBNY,Financials,Financials,US82669G1040
+87,.90264058,BLACK HILLS,Black Hills Corp,BKH,Utilities,Utilities,US0921131092
+88,.9000746,MONEYGRAM INTL. DEAD - DELIST.02/06/23,MoneyGram International Inc,MGI,Financials,Financials,US60935Y2081
+89,.89377439,NVIDIA,NVIDIA Corp,NVDA,IT,Information Technology,US67066G1040
+90,.8802579,IG GROUP HOLDINGS,IG Group Holdings PLC,IGG,Financials,Financials,GB00B06QFB75
+91,.86129725,BROADRIDGE FINL.SLTN.,Broadridge Financial Solutions Inc,BR,Financials,Financials,US11133T1034
+92,.85838926,CMC MARKETS,CMC Markets PLC,,Financials,Financials,GB00B14SKR37
+93,.85429126,NCSOFT,NCSoft Corp,NCSFT,ConsumerDisc,Consumer Discretionary,KR7036570000
+94,.83387989,NETMARBLE,Netmarble Corp,NEARL,ConsumerDisc,Consumer Discretionary,KR7251270005
+95,.80470914,ENSURGE MICROPOWER,Ensurge Micropower ASA,,Industrials,Industrials,NO0013186460
+96,.76447487,NTT DATA GROUP DEAD - DELIST.26/09/25,NTT Data Corp,NTTDC,IT,Information Technology,JP3165700000
+97,.75880104,LESAKA TECHNOLOGIES,Lesaka Technologies Inc,,Industrials,Industrials,US64107N2062
+98,.75757575,RAS TECHNOLOGY HOLDINGS,Ras Technology Holdings Ltd,,IT,Information Technology,AU0000186496
+99,.74071479,TAIWAN SEMICON.MNFG.,Taiwan Semiconductor Manufacturing Co Ltd,TAISEM,IT,Information Technology,TW0002330008
+100,.73640633,VINCO VENTURES,Vinco Ventures Inc,,IT,Information Technology,US9273302094
+101,.72079891,ASUSTEK COMPUTER,Asustek Computer Inc,ASUST,IT,Information Technology,TW0002357001
+102,.70621467,REKLAIM,Reklaim Ltd,,Energy,Energy,CA7594021007
+103,.69687748,SHIFT4 PAYMENTS A,Shift4 Payments Inc,FOUR,Industrials,Industrials,US82452J1097
+104,.68728518,ENVIROSUITE SUSP - SUSP.22/08/25,Envirosuite Ltd,,IT,Information Technology,AU000000EVS3
+105,.68226105,ATEAM HOLDINGS,Ateam Inc,ASTAM,IT,Information Technology,JP3160890004
+106,.67510551,RECORD,Record PLC,,Financials,Financials,GB00B28ZPS36
+107,.67503744,ESPORTS ENTERTAINMENT GROUP,Esports Entertainment Group Inc,GMBLX,ConsumerDisc,Consumer Discretionary,US29667K6038
+108,.67221379,MEDICENNA THERP.,Medicenna Therapeutics Corp,,Healthcare,Health Care,CA58490H1073
+109,.66869235,NASDAQ,Nasdaq Inc,NDAQ,Financials,Financials,US6311031081
+110,.66642255,CBOE GLOBAL MARKETS(BTS),Cboe Global Markets Inc,CBOE,Financials,Financials,US12503M1080
+111,.66225165,BLACKBOXSTOCKS,Blackboxstocks Inc,,Financials,Financials,US09229E3036
+112,.6557377,SANRIO,Sanrio Co Ltd,SNRIO,ConsumerDisc,Consumer Discretionary,JP3343200006
+113,.64550835,COOTEK 1:650 ADR,CooTek (Cayman) Inc,,RealEstate,RealEstate,US21718L2016
+114,.64099008,EMEMORY TECHNOLOGY,eMemory Technology Inc,,IT,Information Technology,TW0003529004
+115,.64086241,MARQETA A,Marqeta Inc,,Industrials,Industrials,US57142B1044
+116,.63897765,ONE UNITED PROPERTIES,One United Properties SA,,RealEstate,RealEstate,ROJ8YZPDHWW8
+117,.62871611,PEARLABYSS,PearlAbyss Corp,PRABS,ConsumerDisc,Consumer Discretionary,KR7263750002
+118,.61728394,BNY MELLON STRATEGIC MUNICIPALS,BNY Mellon Strategic Municipals Inc,,Financials,Financials,US05588W1080
+119,.61106062,UP FINTECH HOLDING ADR A 1:15,UP Fintech Holding Ltd,,Financials,Financials,US91531W1062
+120,.60009414,ADVANCED MICRO DEVICES,Advanced Micro Devices Inc,AMD,IT,Information Technology,US0079031078
+121,.5847953,BANK NEGARA INDONESIA,Bank Negara Indonesia (Persero) Tbk PT,BBNI,Financials,Financials,ID1000096605
+122,.56710696,WHERE FOOD COMES FROM,Where Food Comes From Inc,,Industrials,Industrials,US96327X2009
+123,.55909932,AMC ENTERTAINMENT HDG. CL.A,AMC Entertainment Holdings Inc,AMC,ConsumerDisc,Consumer Discretionary,US00165C3025
+124,.55889726,MEITU,Meitu Inc,ACEG,IT,Information Technology,KYG5966D1051
+125,.55529314,INFOBEANS TECHNOLOGIES,Infobeans Technologies Ltd,,IT,Information Technology,INE344S01016
+126,.55015314,PAYPAL HOLDINGS,PayPal Holdings Inc,PYPL,Industrials,Industrials,US70450Y1038
+127,.54644811,TCR2 THERAPEUTICS DEAD - DELIST.02/06/23,TCR2 Therapeutics Inc,,Healthcare,Health Care,US87808K1060
+128,.54566783,IDEANOMICS,Ideanomics Inc,IDEXQ,Industrials,Industrials,US45166V2051
+129,.53641623,JAZZ PHARMACEUTICALS,Jazz Pharmaceuticals PLC,JAZZ,Healthcare,Health Care,IE00B4Q5ZN47
+130,.53115255,AUGMENTUM FINTECH,Augmentum Fintech PLC,,Financials,Financials,GB00BG12XV81
+131,.52631581,EQUALS GROUP DEAD - DELIST.15/04/25,Equals Group PLC,,Industrials,Industrials,GB00BLS0XX25
+132,.5261184,BIOATLA,Bioatla Inc,,Healthcare,Health Care,US09077B1044
+133,.48834378,COGNYTE SOFTWARE,Cognyte Software Ltd,,IT,Information Technology,IL0011691438
+134,.48749787,AUTHID,Ipsidy Inc,,IT,Information Technology,US46264C3051
+135,.48649901,MIXI,Mixi Inc,MIXII,ConsumerDisc,Consumer Discretionary,JP3882750007
+136,.47084123,PLUS500,Plus500 Ltd,,Financials,Financials,IL0011284465
+137,.46380287,TATA CONSULTANCY SVS.,Tata Consultancy Services Ltd,TCSX,IT,Information Technology,INE467B01029
+138,.46212482,DARLING INGREDIENTS,Darling Ingredients Inc,DAR,ConsStaples,Consumer Staples,US2372661015
+139,.46023041,INTERNATIONAL BUS.MCHS.,International Business Machines Corp,IBM,IT,Information Technology,US4592001014
+140,.4539147,FUTU HOLDINGS ADR 1:8,Futu Holdings Ltd,FUTU,Financials,Financials,US36118L1061
+141,.43565556,MADISON SQUARE GARDEN SPORTS A,Madison Square Garden Sports Corp,MSGS,ConsumerDisc,Consumer Discretionary,US55825T1034
+142,.43381149,AVANZA BANK HOLDING,Avanza Bank Holding AB,AVANZ,Financials,Financials,SE0012454072
+143,.43366167,SOFI TECHNOLOGIES,SoFi Technologies Inc,SOFI,Financials,Financials,US83406F1021
+144,.43286157,DEUTSCHE BOERSE,Deutsche Boerse AG,DBAG,Financials,Financials,DE0005810055
+145,.42553192,SIDECHANNEL,SideChannel Inc,SIDNL,IT,Information Technology,US17253H1005
+146,.42455828,LOGIQ,Logiq Inc,,IT,Information Technology,US5414401035
+147,.42293492,CURRENCY EXCHANGE INTL.,Currency Exchange International Corp,,Financials,Financials,US23131B3078
+148,.42180321,ALKAMI TECHNOLOGY,Alkami Technology Inc,ALKT,IT,Information Technology,US01644J1088
+149,.42071557,KAKAO,Kakao Corp,KKAOC,IT,Information Technology,KR7035720002
+150,.41300455,B3 BRASIL BOLSA BALCAO ON,B3 SA Brasil Bolsa Balcao,BCSAC,Financials,Financials,BRB3SAACNOR6
+151,.4123053,FUNKO CL.A,Funko Inc,FNKO,ConsumerDisc,Consumer Discretionary,US3610081057
+152,.40690231,RAMBUS,Rambus Inc,RMBS,IT,Information Technology,US7509171069
+153,.3930065,MARKER THERAPEUTICS,Marker Therapeutics Inc,MRKR,Healthcare,Health Care,US57055L2060
+154,.38899958,CELLEBRITE DI,Cellebrite DI Ltd,,IT,Information Technology,IL0011794802
+155,.38610038,PENSIONBEE GROUP,Pensionbee Group PLC,,Financials,Financials,GB00BNDRLN84
+156,.38372147,TEXAS PACIFIC LAND TRUST,Texas Pacific Land Corp,,Energy,Energy,US88262P1021
+157,.37781999,PLAYSTUDIOS A,Playstudios Inc,MYPS,ConsumerDisc,Consumer Discretionary,US72815G1085
+158,.3756344,TEL AVIV STOCK EXCHANGE,Tel Aviv Stock Exchange Ltd,TASEX,Financials,Financials,IL0011590291
+159,.3645936,TMX GROUP,TMX Group Ltd,XX,Financials,Financials,CA87262K1057
+160,.35766971,IZEA WORLDWIDE,IZEA Worldwide Inc,,ConsumerDisc,Consumer Discretionary,US46604H2040
+161,.35751194,CARECLOUD,Carecloud Inc,MTBC,Healthcare,Health Care,US14167R1005
+162,.35256362,ENTHUSIAST GAMING HOLDINGS,Enthusiast Gaming Holdings Inc,EGLXX,IT,Information Technology,CA29385B1094
+163,.34993702,MONEYLION A DEAD - DELIST.17/04/25,Moneylion Inc,,Industrials,Industrials,US60938K3041
+164,.34856284,COMSOVEREIGN HOLDING,COMSovereign Holding Corp,COMS,RealEstate,RealEstate,US2056504010
+165,.34804356,GLOBANT,Globant SA,BGB,IT,Information Technology,LU0974299876
+166,.345285,SPROTT,Sprott Inc,SIIX,Financials,Financials,CA8520662088
+167,.34093502,DBS GROUP HOLDINGS,DBS Group Holdings Ltd,DBSMX,Financials,Financials,SG1L01001701
+168,.3401612,CONIFEX TIMBER,Conifex Timber Inc,CFF,Materials,Materials,CA2073241044
+169,.34013605,USBC (ASE),Know Labs Inc,,Healthcare,Health Care,US4992382022
+170,.32942653,JSE,JSE Ltd,,Financials,Financials,ZAE000079711
+171,.3285543,TWILIO 'A',Twilio Inc,TWLO,IT,Information Technology,US90138F1021
+172,.328426,TRINITY CAPITAL,Trinity Capital Inc,TRIN,Financials,Financials,US8964423086
+173,.32738191,AXOS FINANCIAL,Axos Financial Inc,AXXX,Financials,Financials,US05465C1009
+174,.32540584,REMARK HOLDINGS,Remark Holdings Inc,MARKX,ConsumerDisc,Consumer Discretionary,US75955K3005
+175,.32517099,NETS DEAD - DELIST.13/02/18,Nets A/S,NNVMNN,Financials,Financials,DK0060745370
+176,.31771567,GFT TECHNOLOGIES,GFT Technologies SE,GFTG,IT,Information Technology,DE0005800601
+177,.30898267,VERISIGN,Verisign Inc,VRSN,IT,Information Technology,US92343E1029
+178,.30619401,JIAYIN GROUP ADR 1:4,Jiayin Group Inc,,Financials,Financials,US47737C1045
+179,.30424848,ONECONNECT FINL. TECH. ADR 1:30,OneConnect Financial Technology Co Ltd,,IT,Information Technology,US68248T2042
+180,.30329356,INTERCONTINENTAL EX.,Intercontinental Exchange Inc,ICEXX,Financials,Financials,US45866F1049
+181,.30266091,INTERACTIVE BROKERS GROUP A,Interactive Brokers Group Inc,IBKR,Financials,Financials,US45841N1072
+182,.2980499,DIGITALOCEAN HOLDINGS,DigitalOcean Holdings Inc,DOCN,IT,Information Technology,US25402D1028
+183,.29396844,4 SC,4Sc AG,,Healthcare,Health Care,DE000A3E5C40
+184,.29359078,TANLA PLATFORMS,Tanla Platforms Ltd,TNSL,IT,Information Technology,INE483C01032
+185,.28735632,9F ADR 1:20,9F Inc,,Financials,Financials,US65442R2085
+186,.28667679,TWITTER DEAD - DELIST.28/10/22,Twitter Inc,XCORPT,IT,Information Technology,US90184L1026
+187,.28053477,FRANKLIN RESOURCES,Franklin Resources Inc,BEN,Financials,Financials,US3546131018
+188,.27943558,ALLIANCE RSO.PTNS.L P UT LP.,Alliance Resource Partners LP,ARLP,Energy,Energy,US01877R1086
+189,.27858436,DATA#3,Data#3 Ltd,,IT,Information Technology,AU000000DTL4
+190,.27849576,BANK OF NEW YORK MELLON,Bank of New York Mellon Corp,BK,Financials,Financials,US0640581007
+191,.2778261,QUICKLOGIC,QuickLogic Corp,QUIK,IT,Information Technology,US74837P4054
+192,.27460831,LIVE NATION ENTM.,Live Nation Entertainment Inc,LYV,ConsumerDisc,Consumer Discretionary,US5380341090
+193,.27214664,YOUGOV,YouGov PLC,YOU,ConsumerDisc,Consumer Discretionary,GB00B1VQ6H25
+194,.27152714,BRILLIANT EARTH GROUP A,Brilliant Earth Group Inc,BRLT,ConsumerDisc,Consumer Discretionary,US1095041000
+195,.26936027,FD TECHNOLOGIES DEAD - DELIST.23/07/25,FD Technologies PLC,FDPF,IT,Information Technology,GB0031477770
+196,.26527914,WEB TRAVEL GROUP,Webjet Ltd,WEBX,ConsumerDisc,Consumer Discretionary,AU000000WEB7
+197,.2640416,ENDEAVOR GROUP HOLDINGS A,Endeavor Group Holdings Inc,EDR,ConsumerDisc,Consumer Discretionary,US29260Y1091
+198,.2631579,COGENT BIOSCIENCES,Cogent Biosciences Inc,,Healthcare,Health Care,US19240Q2012
+199,.26269194,AQUIS EXCHANGE DEAD - DELIST.02/07/25,Aquis Exchange PLC,,Financials,Financials,GB00BD5JNK30
+200,.26163188,FIRST FOUNDATION,First Foundation Inc,FFWM,Financials,Financials,US32026V1044
+201,.26145858,NETSOL TECHS.,NetSol Technologies Inc,NTWK,IT,Information Technology,US64115A4022
+202,.25574932,BED BATH AND BEYOND,Beyond Inc,OSTK,ConsumerDisc,Consumer Discretionary,US6903701018
+203,.25572735,ALLFUNDS GROUP,Allfunds Group PLC,ALLFG,Financials,Financials,GB00BNTJ3546
+204,.25316456,COMPAGNIE CHARGEURS INVEST,Chargeurs SA,CRIP,Industrials,Industrials,FR0000130692
+205,.25128102,STANDARD LITHIUM,Standard Lithium Ltd,,Materials,Materials,CA8536061010
+206,.24971882,PLAYTECH,Playtech PLC,PTEC,ConsumerDisc,Consumer Discretionary,IM00B7S9G985
+207,.24945527,MODERN TIMES GROUP MTG B,Modern Times Group MTG AB,MTGX,ConsumerDisc,Consumer Discretionary,SE0018012494
+208,.24743618,SUBEX,Subex Ltd,SUBX,IT,Information Technology,INE754A01055
+209,.24640201,ARQIT QUANTUM,Arqit Quantum Inc,,IT,Information Technology,KYG0567U1278
+210,.24600849,QUORUM INFO.TECHS.,Quorum Information Technologies Inc,,IT,Information Technology,CA7490931002
+211,.24177127,FIDELITY NAT.INFO.SVS.,Fidelity National Information Services Inc,FIS,Industrials,Industrials,US31620M1062
+212,.23809524,POLLEN STREET GROUP,Pollen Street Group Ltd,POLNP,Financials,Financials,GG00BMHG0H12
+213,.23483244,REPOSITRAK,Park City Group Inc,TRAK,IT,Information Technology,US7002153044
+214,.23358437,IDACORP,Idacorp Inc,IDAX,Utilities,Utilities,US4511071064
+215,.23039465,CUSTOMERS BANCORP,Customers Bancorp Inc,CUBI,Financials,Financials,US23204G1004
+216,.23015492,BLACKROCK,BlackRock Inc,BLK,Financials,Financials,US09290D1019
+217,.22994754,HAMILTON LANE CL.A,Hamilton Lane Inc,HLNE,Financials,Financials,US4074971064
+218,.22989449,TP ICAP GROUP,TP ICAP Group PLC,TCAPI,Financials,Financials,JE00BMDZN391
+219,.22725837,BOC HONG KONG HOLDINGS,BOC Hong Kong Holdings Ltd,BOCHL,Financials,Financials,HK2388011192
+220,.22602642,APPLOVIN A,Applovin Corp,APP,IT,Information Technology,US03831W1080
+221,.21994135,MONEYONMOBILE,MoneyOnMobile Inc,,Financials,Financials,US60937K2069
+222,.21875785,NAOS SMALL CAP OPPORTUNITIES COMPANY,NAOS Small Cap Opportunities Company Ltd,NSCX,Financials,Financials,AU000000NSC4
+223,.2162801,ASPEN TECHNOLOGY DEAD - DELIST.13/03/25,Aspen Technology Inc,AZPNA,IT,Information Technology,US29109X1063
+224,.21547273,GEVO,Gevo Inc,GEVO,Energy,Energy,US3743964062
+225,.21491976,MIZUHO FINL.GP.,Mizuho Financial Group Inc,MZFG,Financials,Financials,JP3885780001
+226,.21436359,SAMSUNG ELECTRONICS,Samsung Electronics Co Ltd,SAMEC,CommServices,Communication Services,KR7005930003
+227,.21368317,COSCO SHIPPING PORTS,COSCO SHIPPING Ports Ltd,COSGP,Industrials,Industrials,BMG2442N1048
+228,.21332265,HONG KONG EXCHANGES AND CLEARING,Hong Kong Exchanges and Clearing Ltd,HKEX,Financials,Financials,HK0388045442
+229,.21231422,ATRECA DEAD - DELIST.17/06/24,Atreca Inc,,Healthcare,Health Care,US04965G1094
+230,.21209531,SKILLZ A,Skillz Inc,SKLZ,IT,Information Technology,US83067L2088
+231,.21104987,TXNM ENERGY,PNM Resources Inc,PNM,Utilities,Utilities,US69349H1077
+232,.21085033,SEQUOIA FINL.GP.,Sequoia Financial Group Ltd,,Financials,Financials,AU000000SEQ3
+233,.21033184,CAPSTONE GREEN ENERGY DEAD - DELIST.08/12/23,Capstone Green Energy Corp,CGRN,Energy,Energy,US14067D5086
+234,.2096436,CRANE,Crane Holdings Co,,Industrials,Industrials,US2244081046
+235,.20959456,TOSHIBA DEAD - DELIST.20/12/23,Toshiba Corp,TOSBA,Industrials,Industrials,JP3592200004
+236,.20939177,SUN HUNG KAI & COMPANY,Sun Hung Kai & Co Ltd,SUHUK,Financials,Financials,HK0086000525
+237,.20739037,CORECARD DEAD - DELIST.31/10/25,CoreCard Corp,CCRD,IT,Information Technology,US45816D1000
+238,.20650721,KT,KT Corp,KTCRP,CommServices,Communication Services,KR7030200000
+239,.2061855,NU HOLDINGS A,Nu Holdings Ltd,NUN,Financials,Financials,KYG6683N1034
+240,.20449811,CANTALOUPE,Cantaloupe Inc,CTLP,Industrials,Industrials,US1381031061
+241,.19936204,SEPTENI HOLDINGS,Septeni Holdings Co Ltd,SEPTN,ConsumerDisc,Consumer Discretionary,JP3423300007
+242,.19796757,RCI HOSPITALITY HDG.,RCI Hospitality Holdings Inc,RICK,ConsumerDisc,Consumer Discretionary,US74934Q1085
+243,.19762845,OXFORD NANOPORE TECHNOLOGIES,Oxford Nanopore Technologies PLC,,Healthcare,Health Care,GB00BP6S8Z30
+244,.19480725,MERCADOLIBRE,Mercadolibre Inc,MELI,ConsumerDisc,Consumer Discretionary,US58733R1023
+245,.19261776,PALANTIR TECHNOLOGIES A,Palantir Technologies Inc,PLTR,IT,Information Technology,US69608A1088
+246,.19239412,FATE THERAPEUTICS,Fate Therapeutics Inc,FATE,Healthcare,Health Care,US31189P1021
+247,.19205439,INFORMATION SVS.GP.,Information Services Group Inc,IIIX,Industrials,Industrials,US45675Y1047
+248,.19083969,VZ HOLDING 'N',VZ Holding AG,VZN,Financials,Financials,CH0528751586
+249,.19011407,BALTIC CLASSIFIEDS GROUP,Baltic Classifieds Group PLC,,IT,Information Technology,GB00BN44P254
+250,.18973085,NEXT BIOMETRICS GROUP,Next Biometrics Group ASA,,IT,Information Technology,NO0010629108
+251,.18853635,OVERSEA-CHINESE BKG.,Oversea-Chinese Banking Corporation Ltd,OCBC,Financials,Financials,SG1S04926220
+252,.18739258,AURUM PROPTECH,Aurum Proptech Ltd,MAJC,IT,Information Technology,INE898S01029
+253,.18732695,OPERA AMERICAN DEPOSITARY SHARES 1:1,Opera Ltd,,IT,Information Technology,US68373M1071
+254,.18682453,HAPPIEST MINDS TECHNOLOGIES PVT,Happiest Minds Technologies Ltd,HAMIOO,IT,Information Technology,INE419U01012
+255,.18552876,INDUSTRIAL & COML.BK.OF CHINA 'A',Industrial and Commercial Bank of China Ltd,ICBAF,Financials,Financials,CNE000001P37
+256,.18518519,ANSARADA GROUP DEAD - DELIST.09/09/24,Ansarada Group Ltd,,IT,Information Technology,AU0000124422
+257,.18513858,B RILEY FINANCIAL,B Riley Financial Inc,RILY,Financials,Financials,US05580M1080
+258,.18483132,NOVAGOLD RESOURCES,NovaGold Resources Inc,NGX,Materials,Materials,CA66987E2069
+259,.18343252,DOUBLEDOWN INTERACTIVE ADR 20:1,DoubleDown Interactive Co Ltd,,ConsumerDisc,Consumer Discretionary,US25862B1098
+260,.18178053,CHIN.COMMS.SVS.'H',China Communications Services Corp Ltd,CCSCL,CommServices,Communication Services,CNE1000002G3
+261,.18050541,TUBACEX,Tubacex SA,TUBA,Materials,Materials,ES0132945017
+262,.18049626,FINANCIAL INSTITUTIONS,Financial Institutions Inc,FISI,Financials,Financials,US3175854047
+263,.17993571,LEMONADE,Lemonade Inc,LMND,Financials,Financials,US52567D1072
+264,.17921147,BNY MEL.STGC.MUN. BF.,BNY Mellon Strategic Municipal Bond Fund Inc,,Financials,Financials,US09662E1091
+265,.17795382,DWS GROUP,DWS Group GmbH & Co KgaA,DWSG,Financials,Financials,DE000DWS1007
+266,.17698514,IBEX,Ibex Ltd,,Industrials,Industrials,BMG4690M1010
+267,.17697866,ONMOBILE GLOBAL,Onmobile Global Ltd,,IT,Information Technology,INE809I01019
+268,.17650066,ASE TECHNOLOGY HOLDING,ASE Technology Holding Co Ltd,ASEID,IT,Information Technology,TW0003711008
+269,.17635021,COMPUGEN,Compugen Ltd,CGEN,Healthcare,Health Care,IL0010852080
+270,.17630306,DIACEUTICS,Diaceutics PLC,,Healthcare,Health Care,GB00BJQTGV64
+271,.17468339,VONTOBEL HOLDING,Vontobel Holding AG,VONN,Financials,Financials,CH0012335540
+272,.1735152,OGE ENERGY,OGE Energy Corp,OGE,Utilities,Utilities,US6708371033
+273,.17021278,DATAVAULT AI,WiSA Technologies Inc,,IT,Information Technology,US86633R6099
+274,.16831033,ICHIGO,Ichigo Inc,ASSMN,RealEstate,RealEstate,JP3120010008
+275,.16830884,STONEX GROUP,Stonex Group Inc,SNEXX,Financials,Financials,US8618961085
+276,.16785891,WARNER MUSIC GROUP A,Warner Music Group Corp,WMG,ConsumerDisc,Consumer Discretionary,US9345502036
+277,.16700812,MITSUBISHI UFJ FINL.GP.,Mitsubishi UFJ Financial Group Inc,MTFGI,Financials,Financials,JP3902900004
+278,.16666667,LOTUS TECH.AMER. DEPY. SHS.1:1,Lotus Technology Inc,EEP,ConsumerDisc,Consumer Discretionary,US54572F1012
+279,.16636148,CHINA REINSURANCE (GP.) 'H',China Reinsurance Group Corp,CHNRE,Financials,Financials,CNE100002342
+280,.16543147,SECOO HOLDING ADR 1:5,Secoo Holding Ltd,,Industrials,Industrials,US81367P2002
+281,.16533986,CUE BIOPHARMA,Cue Biopharma Inc,,Healthcare,Health Care,US22978P1066
+282,.16509646,CHINA MOBILE 'A',China Mobile Ltd,CNMHK,CommServices,Communication Services,CNE1000055G1
+283,.16472095,FEDEX,FedEx Corp,FDX,Industrials,Industrials,US31428X1063
+284,.16467682,LITE STRATEGY,MEI Pharma Inc,MEIP,Healthcare,Health Care,US55279B3015
+285,.16449797,REMITLY GLOBAL,Remitly Global Inc,RELY,Industrials,Industrials,US75960P1049
+286,.16434683,ENFUSION A DEAD - DELIST.21/04/25,Enfusion Inc,ENFN,IT,Information Technology,US2928121043
+287,.16305865,THOUGHTWORKS HOLDING DEAD - DELIST.14/11/24,Thoughtworks Holding Inc,TSMNPH,IT,Information Technology,US88546E1055
+288,.1629478,INFIBEAM AVENUES,Infibeam Avenues Ltd,INFC,Industrials,Industrials,INE483S01020
+289,.16196564,WESTERN UNION,Western Union Co,WU,Industrials,Industrials,US9598021098
+290,.16113044,NETDRAGON WEBSOFT,Netdragon Websoft Holdings Ltd,NEDWE,ConsumerDisc,Consumer Discretionary,KYG6427W1042
+291,.16077171,MADISON SQUARE GARDEN ENTERTAINMENT A,Madison Square Garden Entertainment Corp,,ConsumerDisc,Consumer Discretionary,US5582561032
+292,.16039114,UNIVERSAL MUSIC GROUP,Universal Music Group NV,UMGX,ConsumerDisc,Consumer Discretionary,NL0015000IY2
+293,.15980114,CHEETAH MOBILE ADR 1:50,Cheetah Mobile Inc,,IT,Information Technology,US1630752038
+294,.15948993,REDWOOD TST.,Redwood Trust Inc,RWT,Financials,Financials,US7580754023
+295,.15942606,WAITR HLDGS,Waitr Holdings Inc,,IT,Information Technology,US9307522097
+296,.15932344,NEXON,Nexon Co Ltd,NEXON,ConsumerDisc,Consumer Discretionary,JP3758190007
+297,.15814954,ACI WORLDWIDE,ACI Worldwide Inc,ACIW,Industrials,Industrials,US0044981019
+298,.15802488,VOXTUR ANALYTICS SUSP - SUSP.09/09/25,Voxtur Analytics Corp,VXTR,IT,Information Technology,CA9290821052
+299,.15757252,IMAGEWARE SYSTEMS,ImageWare Systems Inc,IWSY,IT,Information Technology,US45245S1087
+300,.15705495,VICTORY CAPITAL HOLDINGS A,Victory Capital Holdings Inc,VCTRX,Financials,Financials,US92645B1035
+301,.15689054,ING GROEP,ING Groep NV,INGA,Financials,Financials,NL0011821202
+302,.15687209,SHOPIFY SUBD.VTG.SHS.'A',Shopify Inc,SHOPX,IT,Information Technology,CA82509L1076
+303,.15576324,NANOBIOTIX,Nanobiotix SA,,Healthcare,Health Care,FR0011341205
+304,.15559587,SURO CAPITAL,SuRo Capital Corp,SSSS,Financials,Financials,US86887Q1094
+305,.15540016,UNITED OVERSEAS BANK,United Overseas Bank Ltd,UOBH,Financials,Financials,SG1M31001969
+306,.15432099,FAR EAST CONSORT.INTL.,Far East Consortium International Ltd,FAREC,RealEstate,RealEstate,KYG3307Z1090
+307,.15252152,S4 CAP.ORD.SHS.,S4 Capital PLC,SFOR,ConsumerDisc,Consumer Discretionary,GB00BFZZM640
+308,.15190786,NCC GROUP,NCC Group PLC,NCCG,IT,Information Technology,GB00B01QGK86
+309,.15158536,CI FINANCIAL DEAD - DELIST.15/08/25,CI Financial Corp,CIX,Financials,Financials,CA1254911003
+310,.15110168,MITEK SYSTEMS,Mitek Systems Inc,MITK,IT,Information Technology,US6067102003
+311,.14845781,PROSEGUR CIA.SECURIDAD,Prosegur Compania de Seguridad SA,PSG,Industrials,Industrials,ES0175438003
+312,.14772937,TETRAGON FINANCIAL GROUP,Tetragon Financial Group Ltd,TFG,Financials,Financials,GG00B1RMC548
+313,.14743787,CELLECTIS,Cellectis SA,,Healthcare,Health Care,FR0010425595
+314,.14689621,ADAPTIMMUNE THERP. SPN. AMER.DEPY.SHS.1:6,Adaptimmune Therapeutics PLC,,IT,Information Technology,US00653A1079
+315,.14534883,SURGEPAYS,Surgepays Inc,,CommServices,Communication Services,US86882L2043
+316,.14475204,HCH.TELECOM.HK.HOLDINGS,Hutchison Telecommunications Hong Kong Holdings Ltd,HTLCK,CommServices,Communication Services,KYG4672G1064
+317,.14375561,PRECIGEN,Precigen Inc,PGEN,Healthcare,Health Care,US74017N1054
+318,.14289416,CHINA UNICOM (HONG KONG),China Unicom Hong Kong Ltd,CUCOM,CommServices,Communication Services,HK0000049939
+319,.14204545,SOLVAY INDUPA,Unipar Indupa SAIC,INDUZ,Industrials,Industrials,ARP533511050
+320,.14186706,SVENSKA HANDELSBANKEN A,Svenska Handelsbanken AB,SHB,Financials,Financials,SE0007100599
+321,.14165339,CORSAIR GAMING,Corsair Gaming Inc,CRSR,ConsumerDisc,Consumer Discretionary,US22041X1028
+322,.14055651,POSTAL SAVINGS BANK OF CHINA 'A',Postal Savings Bank of China Co Ltd,PSBCB,Financials,Financials,CNE100003PZ4
+323,.14023304,OTC MARKETS GP.CL.A,OTC Markets Group Inc,OTCM,Financials,Financials,US67106F1084
+324,.13900013,AMPLITUDE A,Amplitude Inc,,IT,Information Technology,US03213A1043
+325,.13867322,VIRACTA THERAPEUTICS DEAD - DELIST.17/07/25,Viracta Therapeutics Inc,VIRXX,Energy,Energy,US92765F1084
+326,.13862251,WARSAW STOCK EXCHANGE,Gielda Papierow Wartosciowych w Warszawie SA,GPW,Financials,Financials,PLGPW0000017
+327,.13763174,ADCOCK INGRAM HOLDINGS DEAD - DELIST.11/11/25,Adcock Ingram Holdings Ltd,,Healthcare,Health Care,ZAE000123436
+328,.13762012,RISKIFIED A,Riskified Ltd,,IT,Information Technology,IL0011786493
+329,.13699624,H&R BLOCK,H & R Block Inc,HRB,ConsumerDisc,Consumer Discretionary,US0936711052
+330,.13691944,NEOGEN,Neogen Corp,NEOG,Healthcare,Health Care,US6404911066
+331,.13647409,LY,Z Holdings Corp,YAHJP,IT,Information Technology,JP3933800009
+332,.13489209,BELLICUM PHARMACEUTICALS DEAD - DELIST.05/03/24,Bellicum Pharmaceuticals Inc,,Healthcare,Health Care,US0794814048
+333,.13295558,WISE A,Wise PLC,WISE,Industrials,Industrials,GB00BL9YR756
+334,.13276188,SAP,SAP SE,SAPG,IT,Information Technology,DE0007164600
+335,.13271476,WEBSTEP,Webstep ASA,,IT,Information Technology,NO0010609662
+336,.13262202,MATINAS BIOPHARMA HDG.,Matinas BioPharma Holdings Inc,,Healthcare,Health Care,US5768103039
+337,.13227513,DRAGANFLY,Draganfly Inc,,Industrials,Industrials,CA26142Q3044
+338,.1319337,SHUTTERSTOCK,Shutterstock Inc,SSTK,IT,Information Technology,US8256901005
+339,.13079874,ENDAVA ADR 1:1,Endava PLC,DAVA,IT,Information Technology,US29260V1052
+340,.13051023,HANG SENG BANK,Hang Seng Bank Ltd,HSNGY,Financials,Financials,HK0011000095
+341,.12966564,UBISOFT ENTERTAINMENT CAT A,Ubisoft Entertainment SA,UBIP,ConsumerDisc,Consumer Discretionary,FR0000054470
+342,.12862726,ACCENTURE CLASS A,Accenture PLC,ACN,Industrials,Industrials,IE00B4BNMY34
+343,.12825766,AMERICAN EXPRESS,American Express Co,AXP,Industrials,Industrials,US0258161092
+344,.1278318,PLUS THERAPEUTICS,Plus Therapeutics Inc,PSTV,Healthcare,Health Care,US72941H5090
+345,.12771392,DOCUSIGN,DocuSign Inc,DOCU,IT,Information Technology,US2561631068
+346,.12730186,UNITED MICRO ELTN.,United Microelectronics Corp,UTDME,IT,Information Technology,TW0002303005
+347,.1264835,DRAFTKINGS A,DraftKings Inc,DKNG,ConsumerDisc,Consumer Discretionary,US26142V1052
+348,.12531328,SYMBOLIC LOGIC,Symbolic Logic Inc,EVOL,IT,Information Technology,US30049R2094
+349,.12517399,TECH MAHINDRA,Tech Mahindra Ltd,TEML,IT,Information Technology,INE669C01036
+350,.1251069,HF SINCLAIR,HF Sinclair Corp,DINO,Energy,Energy,US4039491000
+351,.12437811,BITTIUM,Bittium Oyj,,IT,Information Technology,FI0009007264
+352,.12429069,KUDELSKI 'B',Kudelski SA,KUD,IT,Information Technology,CH0012268360
+353,.12350435,SINGAPORE EXCHANGE,Singapore Exchange Ltd,SGXL,Financials,Financials,SG1J26887955
+354,.1227936,SK HYNIX,SK Hynix Inc,HXSCF,IT,Information Technology,KR7000660001
+355,.12261375,KINGDEE INTL. SOFTWARE GROUP,Kingdee International Software Group Co Ltd,KININ,IT,Information Technology,KYG525681477
+356,.12195122,BELIEVE DEAD - DELIST.05/08/25,Believe SA,,ConsumerDisc,Consumer Discretionary,FR0014003FE9
+357,.12192497,VISLINK TECHNOLOGIES,Vislink Technologies Inc,,Healthcare,Health Care,US92836Y4098
+358,.1218551,MANCHESTER UNITED CL.A,Manchester United PLC,MANU,ConsumerDisc,Consumer Discretionary,KYG5784H1065
+359,.12184736,GOLDMAN SACHS GP.,Goldman Sachs Group Inc,GS,Financials,Financials,US38141G1040
+360,.12106538,GOLD ROYALTY,Gold Royalty Corp,GROY,Materials,Materials,CA38071H1064
+361,.12043478,PIONEER POWER SOLUTIONS,Pioneer Power Solutions Inc,PPSI,Industrials,Industrials,US7238363003
+362,.1201923,GRINDROD,Grindrod Ltd,GNDJ,Industrials,Industrials,ZAE000072328
+363,.1192359,CGI A,CGI Inc,GIB,IT,Information Technology,CA12532H1047
+364,.11857548,CI T A,Ci&T Inc,,IT,Information Technology,KYG213071064
+365,.1183432,SPROTT PHYSICAL (ARC) GOLD TRUST USD,Sprott Physical Gold Trust,,Financials,Financials,CA85207H1047
+366,.11784474,CHOW TAI FOOK JEWELLERY GP.,Chow Tai Fook Jewellery Group Ltd,CHTFK,ConsumerDisc,Consumer Discretionary,KYG211461085
+367,.11778563,APPEN,Appen Ltd,APX,IT,Information Technology,AU000000APX3
+368,.11764571,ALLOGENE THERAPEUTICS,Allogene Therapeutics Inc,,Healthcare,Health Care,US0197701065
+369,.11675511,INFINITY PHARMACEUTICALS,Infinity Pharmaceuticals Inc,INFI,Healthcare,Health Care,US45665G3039
+370,.11665659,BK TECHNOLOGIES,BK Technologies Corp,BKTI,CommServices,Communication Services,US05587G2030
+371,.11461988,STATE STREET,State Street Corp,STT,Financials,Financials,US8574771031
+372,.11313138,CONCENTRIX,Concentrix Corp,CNXC,IT,Information Technology,US20602D1019
+373,.11300951,PROSEGUR CASH,Prosegur Cash SA,CASHP,Industrials,Industrials,ES0105229001
+374,.11280256,VALERO ENERGY,Valero Energy Corp,VLO,Energy,Energy,US91913Y1001
+375,.11186066,AKER,Aker ASA,AKER,Financials,Financials,NO0010234552
+376,.11181954,BUILD A BEAR WORKSHOP,Build-A-Bear Workshop Inc,BBW,ConsumerDisc,Consumer Discretionary,US1200761047
+377,.11166946,ENDRA LIFE SCIENCES,ENDRA Life Sciences Inc,,Healthcare,Health Care,US29273B5003
+378,.11086474,PACWEST BANCORP DEAD - DELIST.01/12/23,PacWest Bancorp,BANCPC,Financials,Financials,US6952631033
+379,.10929432,LI & FUNG DEAD - DELIST.28/05/20,LI & Fung Ltd,NWEINF,Industrials,Industrials,BMG5485F1692
+380,.10907308,LEXICON PHARMACEUTICALS,Lexicon Pharmaceuticals Inc,LXRX,Healthcare,Health Care,US5288723027
+381,.10869766,OTTER TAIL,Otter Tail Corp,OTTR,Industrials,Industrials,US6896481032
+382,.10813733,GREE HOLDINGS,Gree Inc,GREIC,ConsumerDisc,Consumer Discretionary,JP3274070006
+383,.10735373,DECIPHERA PHARMS. DEAD - DELIST.12/06/24,Deciphera Pharmaceuticals Inc,,Healthcare,Health Care,US24344T1016
+384,.10700619,BURSA MALAYSIA,Bursa Malaysia Bhd,BMYS,Financials,Financials,MYL1818OO003
+385,.10686579,CLOUDFLARE A,Cloudflare Inc,NET,IT,Information Technology,US18915M1071
+386,.10620048,NERDWALLET A,Nerdwallet Inc,NRDS,IT,Information Technology,US64082B1026
+387,.1059322,BRAGG GAMING GROUP,Bragg Gaming Group Inc,,ConsumerDisc,Consumer Discretionary,CA1048333068
+388,.10580596,ACACIA RESH.-ACI.TECHS.,Acacia Research Corp,ACTG,Industrials,Industrials,US0038813079
+389,.10578255,S&P GLOBAL,S&P Global Inc,SPGI,Financials,Financials,US78409V1044
+390,.10548523,NCB FINANCIAL GROUP,NCB Financial Group Ltd,NCBFG,Financials,Financials,JME201700064
+391,.10433305,DIGITAL CHINA HDG.,Digital China Holdings Ltd,DIHLS,IT,Information Technology,BMG2759B1072
+392,.10432538,GLOBAL PAYMENTS,Global Payments Inc,GPN,Industrials,Industrials,US37940X1028
+393,.10416666,UGE INTERNATIONAL DEAD - DELIST.20/08/24,UGE International Ltd,UGEING,Financials,Financials,CA9035104020
+394,.10405394,FTAI AVIATION,Fortress Transportation and Infrastructure Investors LLC,FTAI,Industrials,Industrials,KYG3730V1059
+395,.10393568,SYNCHRONOSS TECHNOLOGIES,Synchronoss Technologies Inc,SNCR,IT,Information Technology,US87157B4005
+396,.1038961,CHANGE HEALTHCARE DEAD - DELIST.04/10/22,Change Healthcare Inc,UNHCH,IT,Information Technology,US15912K1007
+397,.10386386,DAVE A,Dave Inc,,Financials,Financials,US23834J2015
+398,.10331003,THERATECHNOLOGIES DEAD - DELIST.29/09/25,Theratechnologies Inc,TH,Healthcare,Health Care,CA88338H7040
+399,.10317248,AFFIMED,Affimed NV,,Financials,Financials,NL0015001ZQ0
+400,.10309278,GRESHAM TECHNOLOGIES DEAD - DELIST.10/07/24,Gresham Technologies PLC,,IT,Information Technology,GB0008808825
+401,.10258355,SEI INVESTMENTS,SEI Investments Co,SEIC,Financials,Financials,US7841171033
+402,.10193679,ADVERUM BIOTCHS.,Adverum Biotechnologies Inc,ADVM,Healthcare,Health Care,US00773U2078
+403,.10188998,CYREN,Cyren Ltd,CYRN,Healthcare,Health Care,IL0010832371
+404,.10080645,MOLTEN VENTURES,Molten Ventures PLC,GROWX,Financials,Financials,GB00BY7QYJ50
+405,.10060363,WITAN INV.TRUST DEAD - DELIST.03/10/24,Witan Investment Trust PLC,WNITT,Financials,Financials,GB00BJTRSD38
+406,.1005687,ARCUS BIOSCIENCES,Arcus Biosciences Inc,RCUS,Healthcare,Health Care,US03969F1093
+407,.10016783,BEL FUSE 'A',Bel Fuse Inc,BELFA,Industrials,Industrials,US0773472016
+408,.099072993,FLUSHING FINANCIAL,Flushing Financial Corp,FFIC,Financials,Financials,US3438731057
+409,.097961597,TOSEI CORPORATION,Tosei Corp,TOSEI,RealEstate,RealEstate,JP3595070008
+410,.097432166,SIMCORP DEAD - DELIST.31/10/23,Simcorp A/S,SIMX,IT,Information Technology,DK0060495240
+411,.097015187,COWEN CLASS A DEAD - DELIST.02/03/23,Cowen Inc,TDCOW,Financials,Financials,US2236226062
+412,.095094219,EPIZYME DEAD - DELIST.15/08/22,Epizyme Inc,EPZM,Healthcare,Health Care,US29428V1044
+413,.095036387,RBB BANCORP,RBB Bancorp,RBB,Financials,Financials,US74930B1052
+414,.094903089,SALESFORCE,Salesforce Inc,CRM,IT,Information Technology,US79466L3024
+415,.093961626,ONESPAN,OneSpan Inc,OSPN,IT,Information Technology,US68287N1000
+416,.093531668,ONCOINVENT,Bergenbio ASA,,Healthcare,Health Care,NO0013251173
+417,.092796221,TESLA,Tesla Inc,TSLA,ConsumerDisc,Consumer Discretionary,US88160R1014
+418,.092542581,GOLD,A-Mark Precious Metals Inc,AMRKX,ConsumerDisc,Consumer Discretionary,US00181T1079
+419,.092323929,NANO DIMENSION SPONSORED 1 ADR 1:1,Nano Dimension Ltd,BNEB,IT,Information Technology,US63008G2030
+420,.091673866,AVID TECHNOLOGY DEAD - DELIST.08/11/23,Avid Technology Inc,ARTIAV,IT,Information Technology,US05367P1003
+421,.091185406,TON STRATEGY,Verb Technology Company Inc,,IT,Information Technology,US92337U3023
+422,.090972424,FOX A,Fox Corp,FOXA,ConsumerDisc,Consumer Discretionary,US35137L1052
+423,.090887383,DLOCAL A,Dlocal Ltd,,Industrials,Industrials,KYG290181018
+424,.090330392,IRIDEX,IRIDEX Corp,IRIX,Healthcare,Health Care,US4626841013
+425,.090116277,SSH COMMUNICATIONS SECURITY,SSH Communications Security Oyj,SSHAV,IT,Information Technology,FI0009008270
+426,.090082169,SRAX A,SRAX Inc,,ConsumerDisc,Consumer Discretionary,US78472M1062
+427,.089619398,SEAGATE TECHNOLOGY HOLDINGS,Seagate Technology PLC,SEGTC,IT,Information Technology,IE00BKVD2N49
+428,.089565605,GEE GROUP,GEE Group Inc,JOB,Industrials,Industrials,US36165A1025
+429,.089231975,JP MORGAN CHASE & CO.,JPMorgan Chase & Co,JPM,Financials,Financials,US46625H1005
+430,.088495575,SEVEN BANK,Seven Bank Ltd,SEVBK,Financials,Financials,JP3105220002
+431,.088320859,MCEWEN MINING,McEwen Mining Inc,MUX,Materials,Materials,US58039P3055
+432,.087671734,DENA,DeNA Co Ltd,DENAC,ConsumerDisc,Consumer Discretionary,JP3548610009
+433,.087530136,MARKETAXESS HOLDINGS,Marketaxess Holdings Inc,MKTX,Financials,Financials,US57060D1081
+434,.087165497,CURIOSITYSTREAM A,CuriosityStream Inc,,ConsumerDisc,Consumer Discretionary,US23130Q1076
+435,.087115772,GLOBE TELECOM,Globe Telecom Inc,GLO,CommServices,Communication Services,PHY272571498
+436,.087108016,LUCKIN COFFEE ADR 1:8,Luckin Coffee Inc,LCOA,ConsumerDisc,Consumer Discretionary,US54951L1098
+437,.0868356,SOFTBANK GROUP,SoftBank Group Corp,SFTBK,CommServices,Communication Services,JP3436100006
+438,.086002663,NOVABRIDGE BIOSCIENCES ADR 10:23,I-Mab,,Healthcare,Health Care,US44975P1030
+439,.085125446,GETTY IMAGES HOLDINGS A,Getty Images Holdings Inc,,IT,Information Technology,US3742751056
+440,.085088059,PLDT,PLDT Inc,PHI,CommServices,Communication Services,PHY7072Q1032
+441,.085034013,PROCESSA PHARMACEUTICALS,Processa Pharmaceuticals Inc,,Healthcare,Health Care,US74275C3043
+442,.084696859,MICRON TECHNOLOGY,Micron Technology Inc,MU,IT,Information Technology,US5951121038
+443,.084575072,MSCI,MSCI Inc,MSCI,Financials,Financials,US55354G1004
+444,.08361204,NETGEAR,NETGEAR Inc,NTGR,CommServices,Communication Services,US64111Q1040
+445,.083565861,USA TODAY,Gannett Co Inc,GCI,ConsumerDisc,Consumer Discretionary,US36472T1097
+446,.082597144,CORVUS PHARMACEUTICALS,Corvus Pharmaceuticals Inc,,Healthcare,Health Care,US2210151005
+447,.082258053,BE SEMICONDUCTOR INDUSTRIES,BE Semiconductor Industries NV,BESI,IT,Information Technology,NL0012866412
+448,.081002265,FIVE BELOW,Five Below Inc,FIVE,ConsumerDisc,Consumer Discretionary,US33829M1018
+449,.080775447,DP WORLD DEAD - DELIST.23/06/20,DP World Ltd,DBWLDW,Industrials,Industrials,AEDFXA0M6V00
+450,.080290206,EMIS GROUP DEAD - DELIST.31/10/23,EMIS Group PLC,EMISG,IT,Information Technology,GB00B61D1Y04
+451,.079936057,OPEN LENDING,Open Lending Corp,LPRO,Financials,Financials,US68373J1043
+452,.07993605,FIDUCIAN GROUP,Fiducian Group Ltd,,Financials,Financials,AU000000FID9
+453,.079774387,HERCULES CAPITAL,Hercules Capital Inc,HTGC,Financials,Financials,US4270965084
+454,.079744816,MEGAFON,MegaFon PAO,MFON,Industrials,Industrials,RU000A0JS942
+455,.079744816,IGM BIOSCIENCES DEAD - DELIST.15/08/25,IGM Biosciences Inc,,Healthcare,Health Care,US4495851085
+456,.079617836,GROVE COLLABORATIVE HOLDINGS A,Grove Collaborative Holdings Inc,,ConsumerDisc,Consumer Discretionary,US39957D2018
+457,.078616351,PALFINGER,Palfinger AG,PALF,Industrials,Industrials,AT0000758305
+458,.078384355,SK TELECOM,SK Telecom Co Ltd,SKGTE,CommServices,Communication Services,KR7017670001
+459,.078087106,IAC,IAC/Interactivecorp,IAC,IT,Information Technology,US44891N2080
+460,.078008682,DE LA RUE ORD DEAD - DELIST.03/07/25,De La Rue PLC,DLAR,Industrials,Industrials,GB00B3DGH821
+461,.077881619,SIGMAROC,Sigmaroc PLC,SRCX,Industrials,Industrials,GB00BYX5K988
+462,.077570923,BUREAU VERITAS,Bureau Veritas SA,BVI,Industrials,Industrials,FR0006174348
+463,.07751938,OMNIQ,Omniq Corp,OMQS,IT,Information Technology,US68217M1071
+464,.077011488,TUI N,Tui AG,TUIA,ConsumerDisc,Consumer Discretionary,DE000TUAG505
+465,.07692308,AGRICULTURAL BANK OF CHINA 'A',Agricultural Bank of China Ltd,AGBKC,Financials,Financials,CNE100000RJ0
+466,.076808646,CVR ENERGY,CVR Energy Inc,CVI,Energy,Energy,US12662P1084
+467,.076757662,JULIUS BAER GRUPPE,Julius Baer Gruppe AG,BAER,Financials,Financials,CH0102484968
+468,.076531045,MORGAN STANLEY,Morgan Stanley,MS,Financials,Financials,US6174464486
+469,.076415703,ELIA GROUP,Elia Group SA,ELI,Utilities,Utilities,BE0003822393
+470,.076024108,ATA CREATIVITY GLOBAL ADR 1:2,ATA Creativity Global,AACG,ConsumerDisc,Consumer Discretionary,US00211V1061
+471,.075919606,BOLSA MEXICANA DE VALORES,Bolsa Mexicana de Valores SAB de CV,BOLSX,Financials,Financials,MX01BM1B0000
+472,.075734109,EXPENSIFY A,Expensify Inc,,IT,Information Technology,US30219Q1067
+473,.075622424,EGAIN,eGain Corp,EGAN,IT,Information Technology,US28225C8064
+474,.074864313,AEMETIS,Aemetis Inc,AMTXX,Energy,Energy,US00770K2024
+475,.074850298,3I INFOTECH,3i Infotech Ltd,TIIN,IT,Information Technology,INE748C01038
+476,.07449764,MOLECULAR PARTNERS,Molecular Partners AG,,Healthcare,Health Care,CH0256379097
+477,.074228533,MEDIVIR B,Medivir AB,MVIR,Healthcare,Health Care,SE0020181014
+478,.073407389,PING AN INSURANCE (GP.) CO. OF CHINA 'A',Ping An Insurance Group Co of China Ltd,PINGA,Financials,Financials,CNE000001R84
+479,.073314413,CHINA FINANCE ONLINE ADR 1:50,China Finance Online Co Ltd,,Financials,Financials,US1693792038
+480,.073008671,HALL OF FAME RESORT ENTERTAINMENT,Hall of Fame Resort & Entertainment Co,,Industrials,Industrials,US40619L2016
+481,.072764292,IRESS,Iress Ltd,IREXX,IT,Information Technology,AU000000IRE2
+482,.072610661,REPAY HOLDINGS A,Repay Holdings Corp,RPAY,Industrials,Industrials,US76029L1008
+483,.072300427,Y MABS THERAPEUTICS DEAD - DELIST.17/09/25,Y-mAbs Therapeutics Inc,,Healthcare,Health Care,US9842411095
+484,.071729891,KINGSOFT,Kingsoft Corp Ltd,KINCO,IT,Information Technology,KYG5264Y1089
+485,.071138985,MATTEL,Mattel Inc,MAT,ConsumerDisc,Consumer Discretionary,US5770811025
+486,.071120843,FB FINANCIAL,FB Financial Corp,FBKX,Financials,Financials,US30257X1046
+487,.070898876,FTI CONSULTING,FTI Consulting Inc,FCN,Industrials,Industrials,US3029411093
+488,.070832036,SUDARSHAN CHEMICALS,Sudarshan Chemical Industries Ltd,SDCHX,Materials,Materials,INE659A01023
+489,.070771128,ICON,ICON PLC,ICLR,Healthcare,Health Care,IE0005711209
+490,.070385531,STARBUCKS,Starbucks Corp,SBUX,ConsumerDisc,Consumer Discretionary,US8552441094
+491,.070106007,NORTHERN TRUST,Northern Trust Corp,NTRS,Financials,Financials,US6658591044
+492,.070065103,FREELANCER,Freelancer Ltd,,IT,Information Technology,AU000000FLN2
+493,.069930069,QIWI ADS B 1:1 DEAD - DELIST.26/07/24,Qiwi PLC,QIWI,Industrials,Industrials,US74735M1080
+494,.069817401,GLOBAL E ONLINE,Global-E Online Ltd,,IT,Information Technology,IL0011741688
+495,.06963788,INVESTIS HOLDING,Investis Holding SA,IREN,RealEstate,RealEstate,CH0325094297
+496,.069444448,ICAHN ENTERPRISES,Icahn Enterprises LP,IEP,Industrials,Industrials,US4511001012
+497,.069056183,VOXELJET ADR 1:1 DEAD - DELIST.07/11/25,Voxeljet AG,VJTTY,Healthcare,Health Care,US92912L2060
+498,.068906114,EQUINITI GROUP DEAD - DELIST.13/12/21,Equiniti Group Ltd,EQINY,Industrials,Industrials,GB00BYWWHR75
+499,.068783656,TREND MICRO,Trend Micro Inc,TMIC,IT,Information Technology,JP3637300009
+500,.068681315,KAKAKU.COM,Kakaku.com Inc,,IT,Information Technology,JP3206000006

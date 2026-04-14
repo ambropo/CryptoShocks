@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CryptoShocks Methodology</title>
+  <style>
+    :root {
+      --bg: #edf3fb;
+      --panel: rgba(255, 255, 255, 0.88);
+      --text: #142237;
+      --muted: #516178;
+      --line: rgba(23, 32, 51, 0.12);
+      --accent: #386cb0;
+      --accent-strong: #284e86;
+      --accent-soft: #dce8f8;
+      --shadow: 0 22px 60px rgba(23, 32, 51, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(56, 108, 176, 0.18), transparent 32%),
+        linear-gradient(180deg, #f8fbff 0%, var(--bg) 52%, #f7faff 100%);
+    }
+
+    a {
+      color: var(--accent-strong);
+      text-decoration: none;
+    }
+
+    .shell {
+      width: min(1040px, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 1.5rem 0 4rem;
+    }
+
+    .back-link {
+      display: inline-flex;
+      margin-bottom: 1.4rem;
+      font-weight: 700;
+    }
+
+    .hero,
+    .panel,
+    .source-card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    .hero,
+    .panel {
+      padding: 2rem;
+    }
+
+    h1,
+    h2,
+    h3 {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+      letter-spacing: -0.03em;
+    }
+
+    h1 {
+      margin-bottom: 0.9rem;
+      font-size: clamp(2.5rem, 5vw, 4.25rem);
+      line-height: 0.96;
+    }
+
+    h2 {
+      margin-bottom: 0.8rem;
+      font-size: 1.55rem;
+    }
+
+    p {
+      margin: 0 0 1rem;
+      color: var(--muted);
+    }
+
+    .section {
+      margin-top: 1.2rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .source-card {
+      display: grid;
+      gap: 0.75rem;
+      padding: 1.25rem;
+    }
+
+    .kicker {
+      display: inline-flex;
+      width: fit-content;
+      align-items: center;
+      padding: 0.35rem 0.65rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.1rem;
+      color: var(--muted);
+    }
+
+    li + li {
+      margin-top: 0.45rem;
+    }
+
+    .links {
+      display: grid;
+      gap: 0.15rem;
+      margin-top: 0.25rem;
+    }
+
+    .links a {
+      font-weight: 700;
+    }
+
+    @media (max-width: 760px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero,
+      .panel,
+      .source-card {
+        border-radius: 20px;
+      }
+
+      .hero,
+      .panel,
+      .source-card {
+        padding: 1.25rem;
+      }
+
+      .shell {
+        width: min(100% - 1.25rem, 1040px);
+        padding-top: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <a class="back-link" href="index.html">← Back to home</a>
+
+    <section class="hero">
+      <h1>Methodology and Code</h1>
+      <p>
+        The public outputs are produced by two structured language-model workflows. One iterates over event PNGs containing the headline, event time, and Bitcoin price chart. The other iterates over a firm list and retrieves evidence from transcripts, filings, and financial news.
+      </p>
+      <p>
+        Both workflows are controlled by explicit instruction files and Python loop scripts. The instruction files define the decision rules, required output schema, and validation checks. The Python scripts handle iteration, API calls, output-file management, and consistency checks across runs.
+      </p>
+      <div class="links">
+        <a href="docs/paper.pdf">Paper →</a>
+        <a href="docs/slides.pdf">Slides →</a>
+        <a href="docs/event_classification.pdf">Event PDF →</a>
+        <a href="docs/firm_classification.pdf">Firm PDF →</a>
+      </div>
+    </section>
+
+    <section class="panel section">
+      <h2>Event Workflow</h2>
+      <p>
+        The event pipeline reads a directory of PNG files, extracts each event number from the filename, sends the image and the event instructions to the model, validates the returned classification, and appends the results to cumulative markdown, CSV, and JSONL outputs.
+      </p>
+      <ul>
+        <li>The instruction file defines the event categories, certainty rules, and the required markdown and CSV structure.</li>
+        <li>The Python loop handles image loading, prompt construction, retries, output validation, and file appends.</li>
+      </ul>
+      <div class="links">
+        <a href="methodology/source/event-instructions.md">Event instructions →</a>
+        <a href="methodology/source/GO_event-GPT.py">Event loop script →</a>
+      </div>
+    </section>
+
+    <section class="panel section">
+      <h2>Firm Workflow</h2>
+      <p>
+        The firm pipeline reads an input CSV of listed firms, applies the firm-classification instructions, and writes firm-level classifications into cumulative markdown, CSV, HTML, and raw JSONL outputs. It also stores a manifest and input snapshot so resumed runs stay tied to the same ordered input universe.
+      </p>
+      <ul>
+        <li>The instruction file defines the exposure channels, weighting rules, certainty scale, and materiality coding.</li>
+        <li>The Python loop handles row iteration, manifest creation, validation, retries, and report generation.</li>
+      </ul>
+      <div class="links">
+        <a href="methodology/source/firm_instructions.md">Firm instructions →</a>
+        <a href="methodology/source/GO_firm-GPT.py">Firm loop script →</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="grid">
+        <div class="source-card">
+          <span class="kicker">Why Instructions Matter</span>
+          <h3>Prompt logic is specified explicitly</h3>
+          <p>The public pages are not free-form model outputs. They are tied to written decision trees, output contracts, and consistency rules that govern the classification process.</p>
+        </div>
+
+        <div class="source-card">
+          <span class="kicker">Why The Python Loop Matters</span>
+          <h3>Iteration and validation are automated</h3>
+          <p>The scripts enforce repeatable looping over events and firms, preserve cumulative outputs, and check that generated records match the expected schema.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
